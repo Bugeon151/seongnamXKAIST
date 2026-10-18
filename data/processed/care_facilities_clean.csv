@@ -1,0 +1,302 @@
+﻿care_id,facility_name,raw_address,gu,svc_방문요양,svc_방문목욕,svc_방문간호,svc_복지용구,svc_주야간보호,svc_단기보호,facility_based,capacity,reference_date
+CARE_0001,"""(A+)""성남방문요양센터","경기도 성남시 수정구 수정로 71, 304호 (태평동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0002,"""(주)위례행복케어재가센터""","경기도 성남시 수정구 위례광장로 328, 511호 (창곡동, 우성위례타워)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0003,"""CHA"" 차실버케어","경기도 성남시 분당구 성남대로916번길 11, 501호 (야탑동, 글라스타워)",분당구,True,True,True,False,False,False,False,,2026-06-05
+CARE_0004,"""CHA"" 차실버케어 2호점","경기도 성남시 분당구 성남대로916번길 11, 501호 (야탑동, 글라스타워)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0005,"""CHA"" 차실버케어 3호점","경기도 성남시 분당구 성남대로 912, 504호 (야탑동)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0006,"""CHA"" 차실버케어 6호점","경기도 성남시 분당구 성남대로916번길 11, 501호 (야탑동, 글라스타워)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0007,"""CHA""차실버케어 5호점","경기도 성남시 분당구 성남대로916번길 11, 501호 (야탑동, 글라스타워)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0008,#현대재가요양센터,"경기도 성남시 분당구 구미로 100, 204호 (구미동, 무지개마을삼성아파트)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0009,(A)+봄봄재가복지센터,"경기도 성남시 수정구 남문로 105, 105호 (태평동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0010,'(A)비지팅엔젤스 성남분당판교방문요양지점,"경기도 성남시 분당구 판교공원로5길 30, B01호 (판교동)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0011,'(A)비지팅엔젤스 성남수정방문요양지점,"경기도 성남시 수정구 시민로156번길 12, 1층 (신흥동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0012,'(A)비지팅엔젤스 성남중원방문요양지점,"경기도 성남시 중원구 산성대로472번길 8-1, 1층 (금광동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0013,'(A)비지팅엔젤스 성남태평방문요양지점,"경기도 성남시 수정구 성남대로1250번길 10-1, 102호 (태평동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0014,(주)굿모닝노인복지센터,"경기도 성남시 분당구 서현로 192, 310호 (서현동, 야베스밸리빌딩)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0015,(주)대교 뉴이프 데이케어센터 분당2호센터,"경기도 성남시 분당구 이매로 15, 2,5층 (이매동)",분당구,True,False,False,False,True,False,True,96.0,2026-06-05
+CARE_0016,(주)대교뉴이프 데이케어센터 분당센터,"경기도 성남시 분당구 미금로 43, 5층 (구미동, 조흥빌딩)",분당구,False,False,False,False,True,False,True,43.0,2026-06-05
+CARE_0017,(주)대교뉴이프 성남통합센터,"경기도 성남시 수정구 산성대로 207, 6층 (신흥동, 에드모스)",수정구,True,False,False,False,True,False,True,67.0,2026-06-05
+CARE_0018,(주)분당간호방문요양센터,"경기도 성남시 분당구 내정로119번길 35, 1층 (정자동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0019,(주)사랑과선행 도촌동지점,"경기도 성남시 중원구 도촌로7번길 3-14, 1층 (도촌동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0020,(주)실버스쿨,"경기도 성남시 중원구 제일로63번길 17, 2층 201호 (성남동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0021,(주)엔도젠,"경기도 성남시 수정구 위례광장로 19, 212호 (창곡동)",수정구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0022,(주)케어링 방문요양센터 성남점,"경기도 성남시 중원구 둔촌대로52번길 3-5, 1층 (성남동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0023,(주)케어콜,"경기도 성남시 중원구 희망로 320, 5층 (상대원동)",중원구,True,True,False,True,False,False,False,,2026-06-05
+CARE_0024,'365'단기보호센터,경기도 성남시 분당구 판교로610번길 11 (야탑동),분당구,False,False,False,False,False,True,True,17.0,2026-06-05
+CARE_0025,'365'송은주야간보호센터 분당점,경기도 성남시 분당구 판교로610번길 11 (야탑동),분당구,False,False,False,False,True,False,True,53.0,2026-06-05
+CARE_0026,A+아둘람방문요양,"경기도 성남시 수정구 수정로257번길 5, 지층 (신흥동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0027,A방문3천사,"경기도 성남시 중원구 둔촌대로 108, 102호 (하대원동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0028,HNT시니어케어,"경기도 성남시 분당구 매화로48번길 8-3, 103호 (야탑동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0029,The쉼 어르신주야간보호센터,"경기도 성남시 수정구 수정북로 27-1, 2층 (태평동)",수정구,False,False,False,False,True,False,True,31.0,2026-06-05
+CARE_0030,"The쉼, 어르신주야간보호센터 신흥점","경기도 성남시 수정구 산성대로 229, 7층 (신흥동)",수정구,False,False,False,False,True,False,True,55.0,2026-06-05
+CARE_0031,VIP korea 가정방문요양센터 성남점,"경기도 성남시 수정구 수정로119번길 18-1, 1층 (태평동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0032,YMCA노인복지센터,"경기도 성남시 중원구 자혜로57번길 25, 1층 (은행동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0033,가고파재가노인복지센터,"경기도 성남시 수정구 시민로 230, 401호 (태평동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0034,가나안방문요양센터,"경기도 성남시 분당구 불정로426번길 9-3, B01호 (서현동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0035,가나재가센터,"경기도 성남시 수정구 성남대로 1191, 4층 (수진동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0036,가람재가방문요양센터,"경기도 성남시 수정구 시민로163번길 5-11, 지층 (신흥동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0037,가람재가복지센터,"경기도 성남시 분당구 중앙공원로 35, 2층 230호 (서현동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0038,가족사랑방문요양센터,"경기도 성남시 분당구 서현로 170, B동 837호 (서현동, 풍림아이원플러스)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0039,경기재가노인복지주식회사,"경기도 성남시 중원구 둔촌대로 180, 2층 (하대원동)",중원구,True,True,False,True,False,False,False,,2026-06-05
+CARE_0040,고운손주야간보호센터,"경기도 성남시 분당구 구미로 124, 2층 (구미동, 굿모닝프라자)",분당구,False,False,False,False,True,False,True,59.0,2026-06-05
+CARE_0041,공경노인주간보호센터,"경기도 성남시 분당구 불정로 254 (수내동, 삼평빌딩 5층)",분당구,False,False,False,False,True,False,True,36.0,2026-06-05
+CARE_0042,공경노인주야간보호센터 야탑점,"경기도 성남시 분당구 벌말로40번길 5-3, 2층 (야탑동, 테크노빌)",분당구,True,False,False,False,True,False,True,39.0,2026-06-05
+CARE_0043,공생복지협동조합,"경기도 성남시 중원구 도촌남로 27, 6층 601호 (도촌동, 동강프라자)",중원구,True,True,False,False,True,False,True,41.0,2026-06-05
+CARE_0044,구구팔팔 재가방문요양센터,"경기도 성남시 분당구 구미로 16, C동 561호 (구미동, 성우스타우스오피스텔)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0045,구미재가노인복지센터,"경기도 성남시 분당구 미금로 63, 306동 1102호 (구미동, 무지개마을신한아파트)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0046,굿모닝 재가복지센터,"경기도 성남시 수정구 산성대로 479, 303호 (양지동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0047,굿패밀리 주간보호센터,경기도 성남시 중원구 희망로 374 (상대원동),중원구,False,False,False,False,True,False,True,20.0,2026-06-05
+CARE_0048,굿패밀리주간보호센터 2호점,경기도 성남시 중원구 박석로80번길 10 (상대원동),중원구,False,False,False,False,True,False,True,21.0,2026-06-05
+CARE_0049,굿피플 홈케어장기요양기관,"경기도 성남시 분당구 안골로48번길 4, A동 102호 (서현동, 서현 베스티아)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0050,'그루터기'재가센터,"경기도 성남시 중원구 도촌로8번길 11, 506호 (도촌동, 씨앤씨프라자)",중원구,True,False,True,False,False,False,False,,2026-06-05
+CARE_0051,근영재가복지센터,"경기도 성남시 분당구 정자로 112, 2층 24호 (정자동, 신화5단지 상가동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0052,금광방문요양센터,"경기도 성남시 수정구 산성대로 331, 516호 (신흥동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0053,금빛재가노인복지센터,"경기도 성남시 중원구 둔촌대로 300, 134-1,136호 (하대원동, 아튼빌)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0054,금성노인복지센터,"경기도 성남시 분당구 돌마로 481, 지층 1호 (서현동, 분당우성프라자)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0055,기분조은재가복지센터,"경기도 성남시 중원구 양현로 411, 4층 409호 (여수동, 씨티오피스타워)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0056,나누리방문요양센터,"경기도 성남시 중원구 희망로344번길 15, 2층 (상대원동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0057,나눔한솔재가노인방문센터,"경기도 성남시 수정구 남문로17번길 15, 1층 (태평동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0058,나무숲재가노인복지센터,"경기도 성남시 분당구 내정로173번길 49, 213호 (수내동, 궁전프라자3)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0059,나이스방문요양센터,"경기도 성남시 수정구 산성대로 331, 1817호 (신흥동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0060,남위례 재가복지센터,"경기도 성남시 수정구 위례광장로 9-9, A동 144호 (창곡동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0061,남위례데이케어센터,"경기도 성남시 수정구 위례서일로 26 (창곡동, 304호, 601~604호, 606~607호)",수정구,True,True,False,False,True,False,True,56.0,2026-06-05
+CARE_0062,노엘 재가복지센터,"경기도 성남시 분당구 내정로129번길 26, 507호 (정자동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0063,누리재가노인복지센터,"경기도 성남시 중원구 산성대로552번길 15, 가동 207호 (은행동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0064,늘동행재가복지센터,"경기도 성남시 분당구 불정로386번길 10, 601동 2012~2013호 (서현동, 효자촌)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0065,늘봄재가복지센터,"경기도 성남시 분당구 야탑로 28, 406호 (야탑동, 우당프라자)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0066,늘사랑방문요양재가센터,"경기도 성남시 분당구 하오개로 362, 2층 201호 (운중동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0067,늘사랑재가복지센터,"경기도 성남시 중원구 도촌남로 37, 303호 (도촌동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0068,늘사랑효재가복지센터,"경기도 성남시 분당구 미금로 45, 309-2호 (구미동)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0069,늘편한방문재가센터,"경기도 성남시 중원구 금빛로42번길 9, 1층 (금광동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0070,늘푸른재가복지센터,"경기도 성남시 분당구 미금로 251, 703동 1802호 (금곡동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0071,늘푸른재가장기요양센터,"경기도 성남시 중원구 박석로15번길 41, 1층 (상대원동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0072,다돌봄방문요양센터,"경기도 성남시 중원구 둔촌대로 400, 113-4호 (상대원동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0073,다드림방문요양센터,"경기도 성남시 중원구 금상로57번길 21, 101호 (금광동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0074,다사랑방문요양센터,"경기도 성남시 중원구 희망로344번길 15-1, 1층 (상대원동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0075,다사랑실버케어 분당센터,"경기도 성남시 분당구 수내로 54 (수내동, 삼성보보스쉐르빌2011호)",분당구,True,True,True,False,False,False,False,,2026-06-05
+CARE_0076,다살림재가노인복지센터,"경기도 성남시 분당구 내정로113번길 4, 401호 (정자동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0077,다솜재가방문요양센터,"경기도 성남시 분당구 선지봉로 3, 305호 (분당동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0078,다온노인복지센터,"경기도 성남시 중원구 광명로 86-7, 201호 (성남동, 성남동 2338)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0079,다온노인복지재가센터 태평점,"경기도 성남시 수정구 수정로171번길 21-3, 1층 (태평동)",수정구,True,True,False,True,False,False,False,,2026-06-05
+CARE_0080,다원노인복지센터,"경기도 성남시 분당구 내정로 52, 204호 (정자동, 한솔마을상가)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0081,다원재가센터,"경기도 성남시 중원구 자혜로 70-1, 2층 (금광동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0082,단비방문요양센터,"경기도 성남시 분당구 황새울로 224, B1호 (수내동, 청구블루빌)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0083,단비재가복지센터,"경기도 성남시 수정구 모란로 96, 1층 (태평동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0084,대교뉴이프 방문요양센터 성남중원센터,"경기도 성남시 중원구 둔촌대로80번길 3-11, 305호 (성남동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0085,대륙재가센터,"경기도 성남시 중원구 둔촌대로 250, 1층 (하대원동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0086,대한노인복지센터,"경기도 성남시 수정구 수정로 211, 4층 (태평동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0087,더나은 방문요양센터,"경기도 성남시 중원구 원터로105번길 4, 1층 (성남동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0088,더봄,"경기도 성남시 분당구 야탑로 28, 502호 (야탑동, 우당프라자)",분당구,False,False,True,False,False,False,False,,2026-06-05
+CARE_0089,더사랑재가복지,"경기도 성남시 중원구 산성대로456번길 10, 1층 (금광동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0090,'더섬김'재가노인복지센터,"경기도 성남시 분당구 야탑로 95, 710-1호 (야탑동, 세신옴니코아)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0091,더힐링주간보호센터,"경기도 성남시 분당구 장안로16번길 10 (분당동, 지1층, 3층)",분당구,False,False,False,False,True,False,True,21.0,2026-06-05
+CARE_0092,돌보인방문요양센터 분당점,"경기도 성남시 분당구 성남대로925번길 19, 302호 (야탑동, 터미널프라자)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0093,동부케어복지센터,"경기도 성남시 분당구 내정로 55, 상가동 209, 215호 (정자동)",분당구,True,False,False,True,False,False,False,,2026-06-05
+CARE_0094,동분당재가복지센터,"경기도 성남시 중원구 도촌로8번길 20, 103호 (도촌동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0095,동행재가노인복지센터,"경기도 성남시 수정구 성남대로1249번길 5-1, 1층 (태평동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0096,두손누리 방문요양센터,"경기도 성남시 분당구 성남대로 30, 6층 601호 (구미동)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0097,두손시니어,"경기도 성남시 분당구 성남대로 30, 601호 (구미동)",분당구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0098,드림주야간보호센터 2호점,"경기도 성남시 분당구 야탑로 247, 2층 (야탑동)",분당구,False,False,False,False,True,False,True,30.0,2026-06-05
+CARE_0099,드림케어재가요양센터,"경기도 성남시 분당구 벌말로40번길 4, 204호 (야탑동, 대동상가)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0100,따르릉케어센터,"경기도 성남시 중원구 박석로25번길 22, 2층 (상대원동)",중원구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0101,'똑똑 재가복지센터,경기도 성남시 중원구 황송로13번길 3 (금광동),중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0102,라온방문요양센터,경기도 성남시 수정구 수정로74번길 25-1 (수진동),수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0103,마실재가방문요양센터,"경기도 성남시 분당구 불정로 195 (정자동, 정든마을 상가동 지층 103호, 지층 104호)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0104,마음편한방문요양센터,"경기도 성남시 분당구 성남대로 295, C동 2층 225호 (정자동, 대림아크로텔)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0105,맘편한재가복지센터,"경기도 성남시 분당구 돌마로 364, 308호 (수내동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0106,메디툴스 노인복지용구센터,"경기도 성남시 분당구 돌마로486번길 12, B-16호 (서현동, 효자촌 근린상가동)",분당구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0107,명문재가노인복지센터,"경기도 성남시 분당구 백현로 206, 204호 (정자동, 한솔마을근린상가동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0108,명지재가노인복지센터,경기도 성남시 수정구 시민로155번길 24 (신흥동),수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0109,미금행복재가복지센터,"경기도 성남시 분당구 돌마로90번길 4, 501호 (구미동,엘레강스프라자)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0110,미리내실버홈케어,"경기도 성남시 분당구 탄천상로 164, A동 7층 742호 (구미동)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0111,미소방문요양센터,"경기도 성남시 수정구 산성대로 331, 409호 (신흥동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0112,미소재가복지센터,"경기도 성남시 분당구 벌말로 10, 상가동 103호 (야탑동, 목련마을)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0113,믿음노인요양센터,"경기도 성남시 중원구 광명로 119, 2층 (성남동)",중원구,True,False,False,True,False,False,False,,2026-06-05
+CARE_0114,바른재가노인복지센터,"경기도 성남시 분당구 돌마로 80, 324호 (구미동, 현대벤처빌)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0115,바른효재가복지센터,"경기도 성남시 분당구 매화로 54, 303호 (야탑동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0116,반디재활주간보호센터,"경기도 성남시 수정구 위례서일로 12, 502~506호 (창곡동)",수정구,False,False,False,False,True,False,True,66.0,2026-06-05
+CARE_0117,백천사방문요양센터,"경기도 성남시 분당구 느티로 70, 상가동 204호 (정자동, 느티마을공무원아파트)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0118,베스트 복지용구사업소,"경기도 성남시 중원구 원터로2번길 1, 1층 (하대원동)",중원구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0119,베스트재가복지센터,"경기도 성남시 분당구 돌마로 73, 213호 (금곡동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0120,벧엘방문요양센터,"경기도 성남시 중원구 광명로 331, 3층 (금광동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0121,벧엘주야간보호센터,"경기도 성남시 중원구 광명로 331, 3,4층 (금광동)",중원구,False,False,False,False,True,False,True,43.0,2026-06-05
+CARE_0122,보겸재가복지센타,"경기도 성남시 중원구 광명로323번길 14, 1층 (금광동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0123,보미방문요양센터,"경기도 성남시 수정구 수정남로 160, 1층 (신흥동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0124,보배재가복지센터,"경기도 성남시 분당구 새나리로 65, 3층 (야탑동)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0125,부르미방문요양센터,"경기도 성남시 중원구 둔촌대로 193, 2층 1호 (성남동, 현대아파트 제상가동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0126,분당 마르페주야간보호센터,"경기도 성남시 분당구 정자일로 158, 7층 703~705호 (정자동)",분당구,False,False,False,False,True,False,True,49.0,2026-06-05
+CARE_0127,분당 효 주야간보호센터,"경기도 성남시 분당구 미금로 48, 4층 (구미동, 오성프라자)",분당구,False,False,False,False,True,False,True,80.0,2026-06-05
+CARE_0128,"분당""힘찬""실버케어재가복지센타","경기도 성남시 중원구 금상로67번길 7, 101호 (금광동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0129,분당노인복지센터,"경기도 성남시 분당구 느티로 73 (정자동, 현대상가 B104호)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0130,분당노인주간보호센터,"경기도 성남시 분당구 불정로 50 (정자동, 노인종합복지관2층)",분당구,False,False,False,False,True,False,True,28.0,2026-06-05
+CARE_0131,분당누리주간보호센터,"경기도 성남시 분당구 내정로113번길 4, 4층 403, 404호 (정자동)",분당구,False,False,False,False,True,False,True,39.0,2026-06-05
+CARE_0132,분당미소노인복지센터,"경기도 성남시 분당구 돌마로 80, 322호 (구미동, 현대벤처빌오피스텔)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0133,분당사랑데이케어센터,"경기도 성남시 분당구 성남대로779번길 58, 3층 (이매동, 대진빌딩)",분당구,False,False,False,False,True,False,True,51.0,2026-06-05
+CARE_0134,분당사랑재가복지센터,"경기도 성남시 분당구 내정로166번길 7-6, 26호 (수내동, 코끼리상가)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0135,분당사랑재가복지센터 서현점,"경기도 성남시 분당구 서현로210번길 2, 제8층 811호 (서현동, 성지하이츠텔)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0136,분당수재가노인복지센터,"경기도 성남시 분당구 불정로 195, 2층 202호 (정자동, 정든마을 상가동(동아) )",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0137,분당실버케어 재가노인복지센터,"경기도 성남시 분당구 돌마로 51, 608 (금곡동, 천사의도시2오피스텔)",분당구,True,True,True,False,False,False,False,,2026-06-05
+CARE_0138,분당재가노인복지센터,"경기도 성남시 분당구 내정로165번길 38 (수내동,양지마을 601동 청구상가 171호, 172호)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0139,분당재가노인복지센터 수내점,"경기도 성남시 분당구 내정로165번길 38, 127호 (수내동)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0140,분당제일의료기,"경기도 성남시 분당구 느티로87번길 8, 102 (정자동)",분당구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0141,분당차의료기,"경기도 성남시 분당구 야탑로 72 (야탑동,야탑시장 주차장 1-01호)",분당구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0142,분당케어온 재가복지센터,"경기도 성남시 분당구 구미로 60, 407호 (구미동, 관보쇼핑)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0143,분당효섬김재가복지센터,"경기도 성남시 분당구 미금로 218, 201호 (금곡동, 청솔마을9단지상가)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0144,'분당'효자촌재가복지센터,"경기도 성남시 분당구 중앙공원로40번길 42, 206호 (서현동, 우성종합상가)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0145,'분당'효자촌재가복지센터 효자점,"경기도 성남시 분당구 불정로 381, 217-1호 (서현동, 동진프라자)",분당구,True,False,True,False,False,False,False,,2026-06-05
+CARE_0146,브니엘 재가노인복지센터,"경기도 성남시 수정구 수정로 202, 203호 (신흥동, 원정빌딩)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0147,브니엘주간보호센터 2호점,"경기도 성남시 중원구 광명로 120, 5층 (성남동)",중원구,True,True,False,False,True,False,True,60.0,2026-06-05
+CARE_0148,브니엘주야간보호센터,"경기도 성남시 중원구 둔촌대로 156-6, 3층 (하대원동)",중원구,True,True,False,False,True,False,True,50.0,2026-06-05
+CARE_0149,블레스재가복지센터,"경기도 성남시 수정구 수정로 106, 1004호 (수진동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0150,비지팅엔젤스 분당방문요양지점,"경기도 성남시 분당구 판교로 433, 제2층 6호 (야탑동, 삼성코아)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0151,비타 방문요양센터,"경기도 성남시 수정구 위례순환로 17, 제상가동 202호 (창곡동, 위례31단지)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0152,사랑나눔 재가장기요양기관,"경기도 성남시 수정구 산성대로 393 (단대동,203호)",수정구,True,True,True,False,False,False,False,,2026-06-05
+CARE_0153,사랑더드림주야간보호센터,"경기도 성남시 분당구 야탑로 239, 2층 (야탑동)",분당구,False,False,False,False,True,False,True,27.0,2026-06-05
+CARE_0154,사랑드림주야간보호센터,"경기도 성남시 수정구 위례서일로 26 (창곡동, 305,306,307호)",수정구,False,False,False,False,True,False,True,28.0,2026-06-05
+CARE_0155,사랑재가복지센터,"경기도 성남시 수정구 탄리로31번길 3, 1층 1호 (수진동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0156,사회적협동조합 성남만남돌봄센터,"경기도 성남시 수정구 산성대로405번길 9, 4층 (단대동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0157,새날노인복지센터,"경기도 성남시 중원구 둔촌대로425번길 44 (상대원동,상대원1동복지회관)",중원구,False,False,False,False,True,False,True,20.0,2026-06-05
+CARE_0158,새봄 재가복지센터,"경기도 성남시 중원구 마지로 133, 101동 B104호 (하대원동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0159,새성남재가요양센터,"경기도 성남시 중원구 광명로342번길 2, 3층 (금광동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0160,새소망 방문요양센터,"경기도 성남시 분당구 미금로 215, 상가동 2층 212호 (금곡동, 청솔마을)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0161,샘터재가방문요양센터,"경기도 성남시 수정구 수정남로 15-1, 301호 (수진동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0162,생명나무재가복지센터,"경기도 성남시 수정구 공원로 340, 상가동 204호 (신흥동, 청구아파트)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0163,서광요양복지센터,"경기도 성남시 분당구 판교로 607, 102, 110호 (야탑동, 목련마을)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0164,서로방문요양센터,"경기도 성남시 분당구 중앙공원로40번길 4, 510호 (서현동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0165,선한 재가 방문요양센타,"경기도 성남시 분당구 불정로376번길 31, 604동 215-2호 (서현동, 효자촌주상복합)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0166,'선한이웃'재가복지센터,"경기도 성남시 분당구 성남대로 776, 301호 (이매동)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0167,섬기는방문요양센터,"경기도 성남시 수정구 제일로224번길 18, 1층 101호 (태평동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0168,섬김재가노인복지센터,"경기도 성남시 분당구 이매로 51, 지하004호 (이매동, 한라프라자)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0169,성남 행복한 주야간보호센터,"경기도 성남시 중원구 도촌로8번길 11, 6층 (도촌동)",중원구,False,False,False,False,True,False,True,42.0,2026-06-05
+CARE_0170,성남드림재가센터,"경기도 성남시 수정구 논골로 7, 503호 (단대동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0171,성남서로사랑노인복지센터,"경기도 성남시 중원구 도촌로8번길 11, 4층 404호 (도촌동, 씨엔씨프라자)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0172,"성남어르신주,야간보호센터","경기도 성남시 수정구 수정로 144, 4 (수진동)",수정구,False,False,False,False,True,False,True,7.0,2026-06-05
+CARE_0173,성남의료기,"경기도 성남시 중원구 도촌로8번길 14, 1층 (도촌동)",중원구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0174,성남의료기복지용구,"경기도 성남시 수정구 수정로171번길 17-1, 1층 105호 (태평동)",수정구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0175,성남의료복지사회적협동조합 우리재가복지센터,"경기도 성남시 수정구 수정로 115-1, 3층 (태평동, 주민신협행복빌딩)",수정구,True,False,False,False,True,False,True,42.0,2026-06-05
+CARE_0176,성남종합재가복지센터,"경기도 성남시 분당구 돌마로 478, 211-1호 (서현동, 효자촌프라자)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0177,성심재가장기요양기관,"경기도 성남시 중원구 은행로37번길 21, 1층 (은행동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0178,성은방문요양센터,"경기도 성남시 중원구 광명로 315, 2층 (금광동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0179,세림방문요양센터,"경기도 성남시 분당구 장미로 189, 2층 209호 (야탑동, 매화마을근린상가)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0180,소망의료기,"경기도 성남시 수정구 희망로484번길 8 (단대동, 지층)",수정구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0181,소망케어재가복지센터,"경기도 성남시 중원구 광명로 325, 4층 (금광동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0182,수연재가복지센터,"경기도 성남시 분당구 탄천상로 164, 비1-1호 (구미동, 시그마2오피스텔)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0183,수정노인주간보호센터,경기도 성남시 수정구 성남대로1480번길 38 (복정동),수정구,False,False,False,False,True,False,True,42.0,2026-06-05
+CARE_0184,스마일시니어 분당재가장기요양기관,"경기도 성남시 분당구 돌마로 80, 608호 (구미동, 분당현대벤처빌)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0185,시니어사랑 방문요양센터,"경기도 성남시 중원구 황송로 4, 202호 (금광동, 황송마을상가)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0186,신 주야간보호센터,"경기도 성남시 분당구 야탑로 249, 4층 (야탑동, 백옥빌딩)",분당구,False,False,False,False,True,False,True,22.0,2026-06-05
+CARE_0187,신기의료기 위례점,"경기도 성남시 수정구 위례순환로 150, 3408동 1층 5호 (창곡동)",수정구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0188,신세계재가복지센터,"경기도 성남시 수정구 성남대로 1170, 503호 (수진동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0189,신한라이프케어 분당데이케어센터,"경기도 성남시 분당구 판교로 476, 4층 (이매동)",분당구,False,False,False,False,True,False,True,54.0,2026-06-05
+CARE_0190,아가페방문요양센터,"경기도 성남시 분당구 야탑로149번길 8-3, 101호 (야탑동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0191,아들과딸 분당정자 주간보호센터,"경기도 성남시 분당구 불정로376번길 7, 5층 (서현동, 건일빌딩)",분당구,False,False,False,False,True,False,True,65.0,2026-06-05
+CARE_0192,아들과딸 성남 주간보호센터,"경기도 성남시 수정구 수정로 130, 5층 (수진동)",수정구,True,False,False,False,True,False,True,67.0,2026-06-05
+CARE_0193,아들과딸 주간보호센터 분당판교센터,"경기도 성남시 분당구 판교로 435, 4층 (야탑동)",분당구,False,False,False,False,True,False,True,53.0,2026-06-05
+CARE_0194,아이메디케어,"경기도 성남시 중원구 산성대로378번길 3-10, 1층 (금광동)",중원구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0195,아침햇살노인복지센터,"경기도 성남시 중원구 박석로25번길 1, 2층 1호 (상대원동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0196,엔젤스케어 분당점,"경기도 성남시 분당구 수내로 181, 115~118호 (분당동, 샛별마을 근린상가)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0197,엠보스재가노인복지센터,"경기도 성남시 분당구 황새울로258번길 10-7, 401-1호 (수내동)",분당구,True,True,True,False,False,False,False,,2026-06-05
+CARE_0198,예사랑 재가노인복지센터,"경기도 성남시 수정구 남문로60번길 7, 203호 (태평동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0199,예송재가노인복지센터,"경기도 성남시 수정구 산성대로 331, 1606호 (신흥동, 한신프라자)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0200,오렌지노인복지센터,"경기도 성남시 중원구 산성대로450번길 3-1, 1층 (금광동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0201,온누리재가복지센터,"경기도 성남시 수정구 시민로 176, 3층 (신흥동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0202,온정재가복지센터,"경기도 성남시 중원구 성남대로1151번길 18-2, 101호 (성남동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0203,우리들데이케어센터,"경기도 성남시 중원구 희망로 356 (상대원동, 201,202,203호)",중원구,False,False,False,False,True,False,True,45.0,2026-06-05
+CARE_0204,우리재가복지센터,"경기도 성남시 분당구 느티로77번길 3, 402 (정자동, 대보프라자)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0205,우리주야간보호센터,"경기도 성남시 분당구 판교로 471, 3층 (야탑동)",분당구,False,False,False,False,True,False,True,52.0,2026-06-05
+CARE_0206,우성재가복지센터,"경기도 성남시 수정구 복정로16번길 11, 103호 (복정동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0207,원탑 방문요양센터,"경기도 성남시 중원구 박석로 58, 1층 1호 (상대원동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0208,웰더스재활주야간보호센터,"경기도 성남시 분당구 장안로 39, 5층 (분당동, 한일빌딩)",분당구,False,False,True,False,True,False,True,69.0,2026-06-05
+CARE_0209,웰라이프 재가노인복지시설 방문요양센터,"경기도 성남시 중원구 광명로 148, 505호 (성남동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0210,위례노인재가복지센터,"경기도 성남시 수정구 위례광장로 320, 913호 (창곡동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0211,위례데이케어센터,"경기도 성남시 수정구 위례광장로 310, B동 1104호 (창곡동)",수정구,False,False,False,False,True,False,True,24.0,2026-06-05
+CARE_0212,'위례'방문요양센터,"경기도 성남시 수정구 위례광장로 328, 611호 (창곡동, 우성위례타워)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0213,위례보아스주야간보호센터,"경기도 성남시 수정구 위례서일로 12, 7층, 2층 (201~205)호 (창곡동, 이타워프라자)",수정구,False,False,False,False,True,False,True,38.0,2026-06-05
+CARE_0214,위례예사랑데이케어센터,"경기도 성남시 수정구 위례광장로 322, 304,305호 (창곡동)",수정구,False,False,False,False,True,False,True,42.0,2026-06-05
+CARE_0215,위례원마을노인복지센터,"경기도 성남시 수정구 위례서일로 22, 904~8, 912호 (창곡동, 이너매스우남)",수정구,True,False,False,False,True,False,True,46.0,2026-06-05
+CARE_0216,위례중앙데이케어센터,"경기도 성남시 수정구 위례동로 153, 1101호 (창곡동)",수정구,False,False,False,False,True,False,True,33.0,2026-06-05
+CARE_0217,위례행복한데이케어센터,"경기도 성남시 수정구 위례서일로 10, 205,301~3호 (창곡동)",수정구,True,False,False,False,True,False,True,47.0,2026-06-05
+CARE_0218,은사랑방문요양센터,"경기도 성남시 분당구 이매로 16, 108호 (이매동, 아름마을효성상가)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0219,은혜방문요양센터,"경기도 성남시 수정구 시민로 244-1, 2층 (태평동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0220,이너피스재활데이케어센터,"경기도 성남시 분당구 돌마로90번길 4, 601~602호 (구미동, 엘레강스프라자)",분당구,False,False,False,False,True,False,True,24.0,2026-06-05
+CARE_0221,이웃사랑재가복지센터,"경기도 성남시 중원구 금상로 44, 3층 (상대원동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0222,이음재가복지센터,"경기도 성남시 수정구 산성대로269번길 11-1, 1층 (신흥동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0223,장수실버재가복지센터,"경기도 성남시 수정구 남문로69번길 5-5, 101호 (태평동, 더 하우스 프라임)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0224,재가장기요양기관 99천사,경기도 성남시 중원구 광명로242번길 3 (중앙동),중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0225,전국방문요양센터,"경기도 성남시 분당구 판교역로192번길 22, 814 (삼평동, 효성해링턴타워)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0226,정다운재가센터,"경기도 성남시 중원구 자혜로 107, 지층 1호 (은행동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0227,정든재가복지센터,"경기도 성남시 분당구 미금일로 58, 203호 (구미동, 까치마을 근린상가동)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0228,정원방문요양센터,"경기도 성남시 중원구 희망로360번길 7-8, 101호 (상대원동, 더원팰리스)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0229,정재가복지센터,"경기도 성남시 분당구 성남대로 52, 805-2~3호 (구미동, 그랜드프라자)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0230,제일의료기,"경기도 성남시 분당구 서현로 170, 112호 (서현동, 풍림아이원오피스텔 지하1층)",분당구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0231,제일좋은노인재가복지센터,"경기도 성남시 수정구 수정남로 102-1, 1층 (신흥동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0232,조은재가노인센터,"경기도 성남시 수정구 수정로111번길 12, 1층 (태평동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0233,주식회사 로이,"경기도 성남시 중원구 제일로53번길 13, 101호 (성남동)",중원구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0234,참사람들시니어케어,"경기도 성남시 중원구 둔촌대로457번길 8, 403호 (상대원동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0235,참사랑 재가노인 복지센터,"경기도 성남시 분당구 야탑로 24, 2 (야탑동, 덕인빌딩)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0236,참조은재가노인복지센터,"경기도 성남시 분당구 장미로140번길 3-13, 103호 (야탑동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0237,창조재가복지센터,"경기도 성남시 분당구 불정로 255, 202호 (수내동, HS프라자)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0238,'천사'방문요양센터,"경기도 성남시 분당구 미금로 215, 202호 (금곡동)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0239,천사웃음재가복지센터,"경기도 성남시 분당구 돌마로 67, B-116호 (금곡동, 금산젬월드)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0240,천지인의료기,"경기도 성남시 중원구 산성대로476번길 5 (은행동,1층)",중원구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0241,청솔재가장기요양센터,"경기도 성남시 분당구 성남대로172번길 24, 714호 (금곡동, 분당미금파크)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0242,청솔주야간보호센터,"경기도 성남시 분당구 미금로 246 (금곡동, 청솔종합복지관 내)",분당구,False,False,False,False,True,False,True,21.0,2026-06-05
+CARE_0243,케어네이션 야탑센터,"경기도 성남시 분당구 벌말로 47, 304호 (야탑동, 명지프라자)",분당구,True,True,True,True,False,False,False,,2026-06-05
+CARE_0244,케어팜,"경기도 성남시 중원구 사기막골로 124, 테크센터 (상대원동, B202호, B202-1호)",중원구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0245,케이체어복지용구,"경기도 성남시 중원구 둔촌대로309번길 8, 1층 (하대원동)",중원구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0246,크루즈 재가(방문요양)센터,"경기도 성남시 수정구 산성대로 445, 2층 (단대동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0247,태평2동 재가복지센터,"경기도 성남시 수정구 남문로111번길 3, 2~3층 (태평동, 태평2동 복지회관)",수정구,False,False,False,False,True,False,True,32.0,2026-06-05
+CARE_0248,토마토 재가복지센터,"경기도 성남시 수정구 공원로 360, 제302-1호 (신흥동, 두산아파트 상가동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0249,토마토재가복지센터 2호점,"경기도 성남시 수정구 공원로 360, 108호 (신흥동, 두산아파트 상가동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0250,판교노인주간보호센터,"경기도 성남시 분당구 운중로 254, 2층 (판교동)",분당구,False,False,False,False,True,False,True,21.0,2026-06-05
+CARE_0251,판교봉은주간보호센터,"경기도 성남시 분당구 판교역로 99 (백현동, 판교노인종합복지관)",분당구,False,False,False,False,True,False,True,28.0,2026-06-05
+CARE_0252,판교재가노인복지센터,"경기도 성남시 분당구 판교공원로1길 63, 102호 (판교동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0253,평안재가복지센터,"경기도 성남시 분당구 매화로 14, 203호 (야탑동, 탑마을근린상가)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0254,'평화'노인복지센터,"경기도 성남시 중원구 자혜로8번길 51-1 (금광동, 1층)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0255,푸른솔방문요양센터,경기도 성남시 중원구 원터로93번길 14 (성남동),중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0256,프리미안데이케어,"경기도 성남시 수정구 위례광장로 320, 1009~1107호 (창곡동)",수정구,False,False,False,False,True,False,True,83.0,2026-06-05
+CARE_0257,프리미엄 웰니스 주간보호센터,"경기도 성남시 분당구 구미로173번길 47, 지1층 B103호 (구미동)",분당구,False,False,False,False,True,False,True,37.0,2026-06-05
+CARE_0258,하나로재가복지센터,"경기도 성남시 분당구 성남대로 30, 705호 (구미동, 동아그린프라자)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0259,하나방문복지센터,"경기도 성남시 수정구 논골로 18, 1층 (양지동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0260,하늘 재가복지센터,"경기도 성남시 분당구 미금로33번길 26, 5층 (구미동, 효빌딩)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0261,하랑방문요양센터,"경기도 성남시 수정구 청계산로 689, 506호 (고등동, 지엠프라자)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0262,하얀마을복지회관 주간보호센터,"경기도 성남시 분당구 금곡로25번길 10, 2층 (구미동, 하얀마을복지회관)",분당구,False,False,False,False,True,False,True,23.0,2026-06-05
+CARE_0263,한가족방문요양센터,"경기도 성남시 중원구 금상로118번길 17, 101호 (상대원동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0264,한마음실버케어,"경기도 성남시 수정구 수정로188번길 16, 4층 (신흥동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0265,한마음재가,"경기도 성남시 중원구 광명로 336, 5층 (금광동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0266,한마음재가복지센터,"경기도 성남시 분당구 양현로94번길 28, 302호 (이매동, 이매촌 분산상가동)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0267,한마음재가복지센터,"경기도 성남시 분당구 구미로 100, 101호 (구미동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0268,한빛노인복지센터,"경기도 성남시 분당구 미금로 215, 2층 210호 (금곡동, 청솔마을 대원상가)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0269,한살림성남용인 주간돌봄센터 분당점,"경기도 성남시 분당구 양현로94번길 9, 5층 501~503호 (이매동, 성우빌딩)",분당구,False,False,False,False,True,False,True,39.0,2026-06-05
+CARE_0270,한소망재가방문요양센터,"경기도 성남시 수정구 산성대로295번길 18, 103호 (신흥동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0271,한소망재가방문요양센터2,"경기도 성남시 수정구 산성대로295번길 18, 202호 (신흥동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0272,한솔주간보호센터,"경기도 성남시 분당구 내정로 94 (정자동, 한솔종합사회복지관)",분당구,False,False,False,False,True,False,True,21.0,2026-06-05
+CARE_0273,한일사의료기,"경기도 성남시 수정구 수정로 205 (태평동, 산운빌딩 1층)",수정구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0274,함께하는 방문요양센터,"경기도 성남시 수정구 성남대로1194번길 15-1, 1층 (수진동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0275,해누리방문요양센터,경기도 성남시 수정구 수정남로 101-1 (신흥동),수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0276,해피안방문복지센터 성남점,"경기도 성남시 중원구 광명로100번길 5, 107호 (성남동, 세종그랑시아)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0277,행복노인재가센터,"경기도 성남시 분당구 불정로 255, 2층 207-1호 (수내동)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0278,행복드림재가복지,"경기도 성남시 분당구 야탑로65번길 8 (야탑동, 나인투빌딩 제2층 204호, 205호)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0279,행복사랑 노인복지센터,"경기도 성남시 분당구 정자로76번길 11, 209호 (정자동, 한라프라자)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0280,행복이음재가복지센터,"경기도 성남시 중원구 희망로344번길 13, 1층 (상대원동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0281,행복재가장기요양기관,"경기도 성남시 수정구 산성대로 311, 4층 (신흥동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0282,헤아림재가복지센터,"경기도 성남시 중원구 은행로 21, 305호 (은행동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0283,현대케어재가센터,"경기도 성남시 분당구 야탑로111번길 7, 103호 (야탑동)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0284,호세아 메디케어,"경기도 성남시 수정구 복정로20번길 14, 102호 (복정동)",수정구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0285,홈 재가복지센터,"경기도 성남시 분당구 미금로 45, 2층 203-1호 (구미동, 진도훼미리프라자)",분당구,True,True,True,False,False,False,False,,2026-06-05
+CARE_0286,홈앤복지재가센터,"경기도 성남시 분당구 장미로 198, 지하1층 B110호 (야탑동, 아델파크빌)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0287,홈케어요양센터 신흥점,"경기도 성남시 중원구 둔촌대로 283, 302호 (하대원동)",중원구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0288,화메디,"경기도 성남시 수정구 제일로 192, 202호 (태평동)",수정구,False,False,False,True,False,False,False,,2026-06-05
+CARE_0289,황송노인주간보호센터,경기도 성남시 중원구 금상로 132 (상대원동),중원구,False,False,False,False,True,False,True,21.0,2026-06-05
+CARE_0290,효담재가노인복지센터,"경기도 성남시 분당구 이매로 13, 208호 (이매동, 뉴선경프라자)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0291,효도케어재가센터,"경기도 성남시 수정구 성남대로1221번길 13, 1층 (수진동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0292,효드림노인복지센터,"경기도 성남시 분당구 장미로86번길 8, 501호 (야탑동, 동호빌딩)",분당구,True,True,True,False,False,False,False,,2026-06-05
+CARE_0293,효림재가노인복지센터,"경기도 성남시 수정구 성남대로1271번길 4-14, 1층 (태평동)",수정구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0294,효베스트 노인복지,"경기도 성남시 중원구 둔촌대로63번길 10-7, 3층 (성남동)",중원구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0295,효사랑 주야간보호,"경기도 성남시 수정구 시민로 138, 901호 (신흥동)",수정구,True,False,False,False,True,False,True,31.0,2026-06-05
+CARE_0296,효사랑 홈케어,"경기도 성남시 수정구 수정로 205, 6층, 8층 (태평동)",수정구,True,True,False,False,True,False,True,72.0,2026-06-05
+CARE_0297,효성재가복지센터(서현점),"경기도 성남시 분당구 서현로 170, B동 1326호 (서현동, 풍림아이원)",분당구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0298,효심재가요양복지센터,"경기도 성남시 분당구 성남대로779번길 54, 209호 (이매동, (219호))",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0299,후원재가방문요양센터,"경기도 성남시 수정구 남문로69번길 11, 1층 (태평동)",수정구,True,True,False,False,False,False,False,,2026-06-05
+CARE_0300,휴먼월드 재가복지센터,"경기도 성남시 분당구 황새울로258번길 35, 601호 (수내동)",분당구,True,False,False,False,False,False,False,,2026-06-05
+CARE_0301,희망방문재가센터,"경기도 성남시 중원구 광명로 344, 6층 (금광동)",중원구,True,False,False,False,False,False,False,,2026-06-05

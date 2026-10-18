@@ -1,0 +1,7 @@
+﻿,elderly_population,elderly_ratio,elderly_density,med_e2sfca_network,wel_e2sfca_network,transit_stops_per_1000_elderly
+elderly_population,1.0,0.111,-0.045,0.108,0.184,-0.33
+elderly_ratio,0.111,1.0,0.576,-0.424,-0.184,-0.176
+elderly_density,-0.045,0.576,1.0,-0.158,-0.091,-0.433
+med_e2sfca_network,0.108,-0.424,-0.158,1.0,0.774,-0.065
+wel_e2sfca_network,0.184,-0.184,-0.091,0.774,1.0,-0.069
+transit_stops_per_1000_elderly,-0.33,-0.176,-0.433,-0.065,-0.069,1.0

@@ -1,0 +1,2476 @@
+{
+  "summary": {
+    "n": 53,
+    "pass": 53,
+    "fail": 0,
+    "by_generator": {
+      "template": 53
+    }
+  },
+  "results": [
+    {
+      "region_id": "4113151000",
+      "region_name": "신흥1동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "3239": "PASS(kpi:elderly_population)",
+        "27.23": "PASS(kpi:elderly_ratio)",
+        "0.5338": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "12": "PASS(kpi:mvi_rank)",
+        "0.5883": "PASS(kpi:need)",
+        "0.0927": "PASS(kpi:access)",
+        "0.1704": "PASS(kpi:access_medical)",
+        "0.1076": "PASS(kpi:access_welfare)",
+        "0.0": "PASS(kpi:access_transit)",
+        "0.008": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "66.7": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "수정구",
+        "신흥1동"
+      ],
+      "entity": {
+        "수정구": "PASS",
+        "신흥1동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113151000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113152000",
+      "region_name": "신흥2동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "5536": "PASS(kpi:elderly_population)",
+        "17.53": "PASS(kpi:elderly_ratio)",
+        "0.4442": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "19": "PASS(kpi:mvi_rank)",
+        "0.5089": "PASS(kpi:need)",
+        "0.1272": "PASS(kpi:access)",
+        "0.1628": "PASS(kpi:access_medical)",
+        "0.2047": "PASS(kpi:access_welfare)",
+        "0.0143": "PASS(kpi:access_transit)",
+        "0.397": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "수정구",
+        "신흥2동"
+      ],
+      "entity": {
+        "수정구": "PASS",
+        "신흥2동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113152000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113153000",
+      "region_name": "신흥3동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "2713": "PASS(kpi:elderly_population)",
+        "25.55": "PASS(kpi:elderly_ratio)",
+        "0.4521": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "18": "PASS(kpi:mvi_rank)",
+        "0.5077": "PASS(kpi:need)",
+        "0.1096": "PASS(kpi:access)",
+        "0.1887": "PASS(kpi:access_medical)",
+        "0.0996": "PASS(kpi:access_welfare)",
+        "0.0404": "PASS(kpi:access_transit)",
+        "0.193": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "수정구",
+        "신흥3동"
+      ],
+      "entity": {
+        "수정구": "PASS",
+        "신흥3동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113153000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113154000",
+      "region_name": "태평1동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "3705": "PASS(kpi:elderly_population)",
+        "27.51": "PASS(kpi:elderly_ratio)",
+        "0.5639": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "10": "PASS(kpi:mvi_rank)",
+        "0.6291": "PASS(kpi:need)",
+        "0.1037": "PASS(kpi:access)",
+        "0.1623": "PASS(kpi:access_medical)",
+        "0.0999": "PASS(kpi:access_welfare)",
+        "0.0488": "PASS(kpi:access_transit)",
+        "0.296": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "수정구",
+        "태평1동"
+      ],
+      "entity": {
+        "수정구": "PASS",
+        "태평1동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113154000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113155000",
+      "region_name": "태평2동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "3484": "PASS(kpi:elderly_population)",
+        "25.68": "PASS(kpi:elderly_ratio)",
+        "0.4901": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "14": "PASS(kpi:mvi_rank)",
+        "0.5668": "PASS(kpi:need)",
+        "0.1353": "PASS(kpi:access)",
+        "0.162": "PASS(kpi:access_medical)",
+        "0.214": "PASS(kpi:access_welfare)",
+        "0.0298": "PASS(kpi:access_transit)",
+        "0.242": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "수정구",
+        "태평2동"
+      ],
+      "entity": {
+        "수정구": "PASS",
+        "태평2동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113155000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113156000",
+      "region_name": "태평3동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "3139": "PASS(kpi:elderly_population)",
+        "27.53": "PASS(kpi:elderly_ratio)",
+        "0.5261": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "13": "PASS(kpi:mvi_rank)",
+        "0.5887": "PASS(kpi:need)",
+        "0.1063": "PASS(kpi:access)",
+        "0.1589": "PASS(kpi:access_medical)",
+        "0.1329": "PASS(kpi:access_welfare)",
+        "0.0271": "PASS(kpi:access_transit)",
+        "0.071": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "11.1": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "수정구",
+        "태평3동"
+      ],
+      "entity": {
+        "수정구": "PASS",
+        "태평3동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113156000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113156100",
+      "region_name": "태평4동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "2721": "PASS(kpi:elderly_population)",
+        "25.29": "PASS(kpi:elderly_ratio)",
+        "0.4362": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "20": "PASS(kpi:mvi_rank)",
+        "0.5017": "PASS(kpi:need)",
+        "0.1307": "PASS(kpi:access)",
+        "0.1731": "PASS(kpi:access_medical)",
+        "0.209": "PASS(kpi:access_welfare)",
+        "0.0099": "PASS(kpi:access_transit)",
+        "0.416": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "수정구",
+        "태평4동"
+      ],
+      "entity": {
+        "수정구": "PASS",
+        "태평4동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113156100",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113157000",
+      "region_name": "수진1동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "3237": "PASS(kpi:elderly_population)",
+        "31.06": "PASS(kpi:elderly_ratio)",
+        "0.5985": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "7": "PASS(kpi:mvi_rank)",
+        "0.6851": "PASS(kpi:need)",
+        "0.1264": "PASS(kpi:access)",
+        "0.2423": "PASS(kpi:access_medical)",
+        "0.1284": "PASS(kpi:access_welfare)",
+        "0.0085": "PASS(kpi:access_transit)",
+        "0.001": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "100.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "수정구",
+        "수진1동"
+      ],
+      "entity": {
+        "수정구": "PASS",
+        "수진1동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113157000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113158000",
+      "region_name": "수진2동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "4158": "PASS(kpi:elderly_population)",
+        "29.13": "PASS(kpi:elderly_ratio)",
+        "0.624": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "4": "PASS(kpi:mvi_rank)",
+        "0.7029": "PASS(kpi:need)",
+        "0.1122": "PASS(kpi:access)",
+        "0.2324": "PASS(kpi:access_medical)",
+        "0.0933": "PASS(kpi:access_welfare)",
+        "0.0109": "PASS(kpi:access_transit)",
+        "0.181": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "수정구",
+        "수진2동"
+      ],
+      "entity": {
+        "수정구": "PASS",
+        "수진2동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113158000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113159000",
+      "region_name": "단대동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "3444": "PASS(kpi:elderly_population)",
+        "24.49": "PASS(kpi:elderly_ratio)",
+        "0.4712": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "16": "PASS(kpi:mvi_rank)",
+        "0.5338": "PASS(kpi:need)",
+        "0.1172": "PASS(kpi:access)",
+        "0.1696": "PASS(kpi:access_medical)",
+        "0.1557": "PASS(kpi:access_welfare)",
+        "0.0264": "PASS(kpi:access_transit)",
+        "0.091": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "38.9": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "단대동",
+        "수정구"
+      ],
+      "entity": {
+        "단대동": "PASS",
+        "수정구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113159000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113160000",
+      "region_name": "산성동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "1168": "PASS(kpi:elderly_population)",
+        "26.8": "PASS(kpi:elderly_ratio)",
+        "0.3527": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "25": "PASS(kpi:mvi_rank)",
+        "0.4276": "PASS(kpi:need)",
+        "0.1753": "PASS(kpi:access)",
+        "0.1743": "PASS(kpi:access_medical)",
+        "0.2591": "PASS(kpi:access_welfare)",
+        "0.0923": "PASS(kpi:access_transit)",
+        "0.45": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "산성동",
+        "수정구"
+      ],
+      "entity": {
+        "산성동": "PASS",
+        "수정구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113160000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113161000",
+      "region_name": "양지동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "2303": "PASS(kpi:elderly_population)",
+        "25.99": "PASS(kpi:elderly_ratio)",
+        "0.4621": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "17": "PASS(kpi:mvi_rank)",
+        "0.4892": "PASS(kpi:need)",
+        "0.0554": "PASS(kpi:access)",
+        "0.0714": "PASS(kpi:access_medical)",
+        "0.0365": "PASS(kpi:access_welfare)",
+        "0.0581": "PASS(kpi:access_transit)",
+        "0.06": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "77.8": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "수정구",
+        "양지동"
+      ],
+      "entity": {
+        "수정구": "PASS",
+        "양지동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113161000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113162000",
+      "region_name": "복정동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "1579": "PASS(kpi:elderly_population)",
+        "11.31": "PASS(kpi:elderly_ratio)",
+        "0.0184": "PASS(kpi:mvi)",
+        "50": "PASS(kpi:mvi_rank)",
+        "0.0652": "PASS(kpi:need)",
+        "0.7181": "PASS(kpi:access)",
+        "1.0": "PASS(kpi:access_medical)",
+        "0.9969": "PASS(kpi:access_welfare)",
+        "0.1575": "PASS(kpi:access_transit)",
+        "0.433": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "복정동",
+        "수정구"
+      ],
+      "entity": {
+        "복정동": "PASS",
+        "수정구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113162000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113162500",
+      "region_name": "위례동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "7589": "PASS(kpi:elderly_population)",
+        "16.85": "PASS(kpi:elderly_ratio)",
+        "0.2379": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "39": "PASS(kpi:mvi_rank)",
+        "0.6403": "PASS(kpi:need)",
+        "0.6285": "PASS(kpi:access)",
+        "0.8221": "PASS(kpi:access_medical)",
+        "1.0": "PASS(kpi:access_welfare)",
+        "0.0633": "PASS(kpi:access_transit)",
+        "0.374": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "수정구",
+        "위례동"
+      ],
+      "entity": {
+        "수정구": "PASS",
+        "위례동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113162500",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113163000",
+      "region_name": "신촌동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "678": "PASS(kpi:elderly_population)",
+        "12.7": "PASS(kpi:elderly_ratio)",
+        "0.0336": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "49": "PASS(kpi:mvi_rank)",
+        "0.0352": "PASS(kpi:need)",
+        "0.0456": "PASS(kpi:access)",
+        "0.0": "PASS(kpi:hotspot_share)",
+        "0.1368": "PASS(kpi:access_transit)",
+        "0.367": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "수정구",
+        "신촌동"
+      ],
+      "entity": {
+        "수정구": "PASS",
+        "신촌동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113163000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113164000",
+      "region_name": "고등동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "1859": "PASS(kpi:elderly_population)",
+        "15.88": "PASS(kpi:elderly_ratio)",
+        "0.1849": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "43": "PASS(kpi:mvi_rank)",
+        "0.2011": "PASS(kpi:need)",
+        "0.0807": "PASS(kpi:access)",
+        "0.0901": "PASS(kpi:access_medical)",
+        "0.0": "PASS(kpi:hotspot_share)",
+        "0.1521": "PASS(kpi:access_transit)",
+        "0.283": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "고등동",
+        "수정구"
+      ],
+      "entity": {
+        "고등동": "PASS",
+        "수정구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113164000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113165000",
+      "region_name": "시흥동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "778": "PASS(kpi:elderly_population)",
+        "21.42": "PASS(kpi:elderly_ratio)",
+        "0.1642": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "46": "PASS(kpi:mvi_rank)",
+        "0.2632": "PASS(kpi:need)",
+        "0.3762": "PASS(kpi:access)",
+        "0.102": "PASS(kpi:access_medical)",
+        "0.0266": "PASS(kpi:access_welfare)",
+        "1.0": "PASS(kpi:access_transit)",
+        "0.055": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "수정구",
+        "시흥동"
+      ],
+      "entity": {
+        "수정구": "PASS",
+        "시흥동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113165000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113351000",
+      "region_name": "성남동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "7458": "PASS(kpi:elderly_population)",
+        "23.45": "PASS(kpi:elderly_ratio)",
+        "0.6876": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "1": "PASS(kpi:mvi_rank)",
+        "0.7979": "PASS(kpi:need)",
+        "0.1382": "PASS(kpi:access)",
+        "0.2703": "PASS(kpi:access_medical)",
+        "0.1089": "PASS(kpi:access_welfare)",
+        "0.0354": "PASS(kpi:access_transit)",
+        "0.044": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "69.4": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "성남동",
+        "중원구"
+      ],
+      "entity": {
+        "성남동": "PASS",
+        "중원구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113351000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113352500",
+      "region_name": "중앙동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "3381": "PASS(kpi:elderly_population)",
+        "20.48": "PASS(kpi:elderly_ratio)",
+        "0.3786": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "24": "PASS(kpi:mvi_rank)",
+        "0.4277": "PASS(kpi:need)",
+        "0.1149": "PASS(kpi:access)",
+        "0.1932": "PASS(kpi:access_medical)",
+        "0.0996": "PASS(kpi:access_welfare)",
+        "0.0518": "PASS(kpi:access_transit)",
+        "0.062": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "19.4": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "중앙동",
+        "중원구"
+      ],
+      "entity": {
+        "중앙동": "PASS",
+        "중원구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113352500",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113353000",
+      "region_name": "금광1동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "3091": "PASS(kpi:elderly_population)",
+        "15.75": "PASS(kpi:elderly_ratio)",
+        "0.266": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "36": "PASS(src)",
+        "0.287": "PASS(kpi:need)",
+        "0.073": "PASS(kpi:access)",
+        "0.1177": "PASS(kpi:access_medical)",
+        "0.0335": "PASS(kpi:access_welfare)",
+        "0.068": "PASS(kpi:access_transit)",
+        "0.029": "PASS(kpi:local_moran_p)",
+        "19.4": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "금광1동",
+        "중원구"
+      ],
+      "entity": {
+        "금광1동": "PASS",
+        "중원구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113353000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113354000",
+      "region_name": "금광2동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "5333": "PASS(kpi:elderly_population)",
+        "24.05": "PASS(kpi:elderly_ratio)",
+        "0.6204": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "5": "PASS(kpi:mvi_rank)",
+        "0.6593": "PASS(kpi:need)",
+        "0.059": "PASS(kpi:access)",
+        "0.1085": "PASS(kpi:access_medical)",
+        "0.0269": "PASS(kpi:access_welfare)",
+        "0.0416": "PASS(kpi:access_transit)",
+        "0.051": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "80.6": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "금광2동",
+        "중원구"
+      ],
+      "entity": {
+        "금광2동": "PASS",
+        "중원구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113354000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113355000",
+      "region_name": "은행1동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "2009": "PASS(kpi:elderly_population)",
+        "21.75": "PASS(kpi:elderly_ratio)",
+        "0.3453": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "27": "PASS(kpi:mvi_rank)",
+        "0.3606": "PASS(kpi:need)",
+        "0.0424": "PASS(kpi:access)",
+        "0.1043": "PASS(kpi:access_medical)",
+        "0.0141": "PASS(kpi:access_welfare)",
+        "0.0088": "PASS(kpi:access_transit)",
+        "0.004": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "69.4": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "은행1동",
+        "중원구"
+      ],
+      "entity": {
+        "은행1동": "PASS",
+        "중원구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113355000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113356000",
+      "region_name": "은행2동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "4845": "PASS(kpi:elderly_population)",
+        "27.29": "PASS(kpi:elderly_ratio)",
+        "0.6609": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "2": "PASS(kpi:mvi_rank)",
+        "0.706": "PASS(kpi:need)",
+        "0.064": "PASS(kpi:access)",
+        "0.1183": "PASS(kpi:access_medical)",
+        "0.0083": "PASS(kpi:access_welfare)",
+        "0.0654": "PASS(kpi:access_transit)",
+        "0.018": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "100.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "은행2동",
+        "중원구"
+      ],
+      "entity": {
+        "은행2동": "PASS",
+        "중원구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113356000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113357000",
+      "region_name": "상대원1동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "5585": "PASS(kpi:elderly_population)",
+        "25.11": "PASS(kpi:elderly_ratio)",
+        "0.6497": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "3": "PASS(kpi:mvi_rank)",
+        "0.7044": "PASS(kpi:need)",
+        "0.0776": "PASS(kpi:access)",
+        "0.0675": "PASS(kpi:access_medical)",
+        "0.0331": "PASS(kpi:access_welfare)",
+        "0.1321": "PASS(kpi:access_transit)",
+        "0.022": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "100.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "상대원1동",
+        "중원구"
+      ],
+      "entity": {
+        "상대원1동": "PASS",
+        "중원구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113357000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113358000",
+      "region_name": "상대원2동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "773": "PASS(kpi:elderly_population)",
+        "27.04": "PASS(kpi:elderly_ratio)",
+        "0.3495": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "26": "PASS(kpi:mvi_rank)",
+        "0.4051": "PASS(kpi:need)",
+        "0.1371": "PASS(kpi:access)",
+        "0.0918": "PASS(kpi:access_medical)",
+        "0.0426": "PASS(kpi:access_welfare)",
+        "0.277": "PASS(kpi:access_transit)",
+        "0.075": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "19.4": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "상대원2동",
+        "중원구"
+      ],
+      "entity": {
+        "상대원2동": "PASS",
+        "중원구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113358000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113359000",
+      "region_name": "상대원3동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "3114": "PASS(kpi:elderly_population)",
+        "28.27": "PASS(kpi:elderly_ratio)",
+        "0.5674": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "9": "PASS(kpi:mvi_rank)",
+        "0.6056": "PASS(kpi:need)",
+        "0.063": "PASS(kpi:access)",
+        "0.1171": "PASS(kpi:access_medical)",
+        "0.0401": "PASS(kpi:access_welfare)",
+        "0.0319": "PASS(kpi:access_transit)",
+        "0.323": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "상대원3동",
+        "중원구"
+      ],
+      "entity": {
+        "상대원3동": "PASS",
+        "중원구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113359000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113366000",
+      "region_name": "하대원동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "4659": "PASS(kpi:elderly_population)",
+        "23.9": "PASS(kpi:elderly_ratio)",
+        "0.5579": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "11": "PASS(kpi:mvi_rank)",
+        "0.6068": "PASS(kpi:need)",
+        "0.0805": "PASS(kpi:access)",
+        "0.1321": "PASS(kpi:access_medical)",
+        "0.0818": "PASS(kpi:access_welfare)",
+        "0.0277": "PASS(kpi:access_transit)",
+        "0.037": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "36.1": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "중원구",
+        "하대원동"
+      ],
+      "entity": {
+        "중원구": "PASS",
+        "하대원동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113366000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113367000",
+      "region_name": "도촌동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "4932": "PASS(kpi:elderly_population)",
+        "19.33": "PASS(kpi:elderly_ratio)",
+        "0.4183": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "21": "PASS(kpi:mvi_rank)",
+        "0.5108": "PASS(kpi:need)",
+        "0.1812": "PASS(kpi:access)",
+        "0.1081": "PASS(kpi:access_medical)",
+        "0.302": "PASS(kpi:access_welfare)",
+        "0.1335": "PASS(kpi:access_transit)",
+        "0.172": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "도촌동",
+        "중원구"
+      ],
+      "entity": {
+        "도촌동": "PASS",
+        "중원구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113367000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113551000",
+      "region_name": "분당동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "4559": "PASS(kpi:elderly_population)",
+        "18.72": "PASS(kpi:elderly_ratio)",
+        "0.4101": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "22": "PASS(kpi:mvi_rank)",
+        "0.4684": "PASS(kpi:need)",
+        "0.1243": "PASS(kpi:access)",
+        "0.1434": "PASS(kpi:access_medical)",
+        "0.1254": "PASS(kpi:access_welfare)",
+        "0.1043": "PASS(kpi:access_transit)",
+        "0.015": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "분당동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "분당동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113551000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113552000",
+      "region_name": "수내1동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "2620": "PASS(kpi:elderly_population)",
+        "14.66": "PASS(kpi:elderly_ratio)",
+        "0.1741": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "45": "PASS(kpi:mvi_rank)",
+        "0.2253": "PASS(kpi:need)",
+        "0.2274": "PASS(kpi:access)",
+        "0.5162": "PASS(kpi:access_medical)",
+        "0.0863": "PASS(kpi:access_welfare)",
+        "0.0795": "PASS(kpi:access_transit)",
+        "0.044": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "수내1동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "수내1동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113552000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113553000",
+      "region_name": "수내2동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "1281": "PASS(kpi:elderly_population)",
+        "12.57": "PASS(kpi:elderly_ratio)",
+        "0.0601": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "48": "PASS(kpi:mvi_rank)",
+        "0.0755": "PASS(kpi:need)",
+        "0.2045": "PASS(kpi:access)",
+        "0.3384": "PASS(kpi:access_medical)",
+        "0.1179": "PASS(kpi:access_welfare)",
+        "0.1571": "PASS(kpi:access_transit)",
+        "0.02": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "수내2동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "수내2동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113553000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113554000",
+      "region_name": "수내3동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "1663": "PASS(kpi:elderly_population)",
+        "12.65": "PASS(kpi:elderly_ratio)",
+        "0.0862": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "47": "PASS(kpi:mvi_rank)",
+        "0.1052": "PASS(kpi:need)",
+        "0.1805": "PASS(kpi:access)",
+        "0.3045": "PASS(kpi:access_medical)",
+        "0.1137": "PASS(kpi:access_welfare)",
+        "0.1234": "PASS(kpi:access_transit)",
+        "0.078": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "수내3동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "수내3동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113554000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113554500",
+      "region_name": "정자동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "2465": "PASS(kpi:elderly_population)",
+        "17.93": "PASS(kpi:elderly_ratio)",
+        "0.232": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "40": "PASS(kpi:mvi_rank)",
+        "0.2969": "PASS(kpi:need)",
+        "0.2185": "PASS(kpi:access)",
+        "0.4136": "PASS(kpi:access_medical)",
+        "0.1445": "PASS(kpi:access_welfare)",
+        "0.0973": "PASS(kpi:access_transit)",
+        "0.074": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "정자동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "정자동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113554500",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113555000",
+      "region_name": "정자1동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "4514": "PASS(kpi:elderly_population)",
+        "14.86": "PASS(kpi:elderly_ratio)",
+        "0.2955": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "34": "PASS(kpi:mvi_rank)",
+        "0.3674": "PASS(kpi:need)",
+        "0.1957": "PASS(kpi:access)",
+        "0.4609": "PASS(kpi:access_medical)",
+        "0.0968": "PASS(kpi:access_welfare)",
+        "0.0294": "PASS(kpi:access_transit)",
+        "0.152": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "정자1동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "정자1동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113555000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113556000",
+      "region_name": "정자2동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "2589": "PASS(kpi:elderly_population)",
+        "21.3": "PASS(kpi:elderly_ratio)",
+        "0.3428": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "28": "PASS(kpi:mvi_rank)",
+        "0.3912": "PASS(kpi:need)",
+        "0.1236": "PASS(kpi:access)",
+        "0.2271": "PASS(kpi:access_medical)",
+        "0.1212": "PASS(kpi:access_welfare)",
+        "0.0223": "PASS(kpi:access_transit)",
+        "0.001": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "정자2동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "정자2동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113556000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113557000",
+      "region_name": "정자3동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "2631": "PASS(kpi:elderly_population)",
+        "15.99": "PASS(kpi:elderly_ratio)",
+        "0.2202": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "41": "PASS(kpi:mvi_rank)",
+        "0.2598": "PASS(kpi:need)",
+        "0.1525": "PASS(kpi:access)",
+        "0.2139": "PASS(kpi:access_medical)",
+        "0.1279": "PASS(kpi:access_welfare)",
+        "0.1157": "PASS(kpi:access_transit)",
+        "0.359": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "정자3동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "정자3동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113557000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113558000",
+      "region_name": "서현1동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "4653": "PASS(kpi:elderly_population)",
+        "15.27": "PASS(kpi:elderly_ratio)",
+        "0.3075": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "31": "PASS(kpi:mvi_rank)",
+        "0.3878": "PASS(kpi:need)",
+        "0.2071": "PASS(kpi:access)",
+        "0.3818": "PASS(kpi:access_medical)",
+        "0.1291": "PASS(kpi:access_welfare)",
+        "0.1105": "PASS(kpi:access_transit)",
+        "0.044": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "서현1동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "서현1동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113558000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113559000",
+      "region_name": "서현2동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "2947": "PASS(kpi:elderly_population)",
+        "17.17": "PASS(kpi:elderly_ratio)",
+        "0.2644": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "37": "PASS(kpi:mvi_rank)",
+        "0.3125": "PASS(kpi:need)",
+        "0.1541": "PASS(kpi:access)",
+        "0.2349": "PASS(kpi:access_medical)",
+        "0.1502": "PASS(kpi:access_welfare)",
+        "0.0772": "PASS(kpi:access_transit)",
+        "0.124": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "서현2동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "서현2동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113559000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113560000",
+      "region_name": "이매1동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "4132": "PASS(kpi:elderly_population)",
+        "16.91": "PASS(kpi:elderly_ratio)",
+        "0.2986": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "33": "PASS(kpi:mvi_rank)",
+        "0.3917": "PASS(kpi:need)",
+        "0.2375": "PASS(kpi:access)",
+        "0.3961": "PASS(kpi:access_medical)",
+        "0.2287": "PASS(kpi:access_welfare)",
+        "0.0877": "PASS(kpi:access_transit)",
+        "0.41": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "이매1동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "이매1동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113560000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113561000",
+      "region_name": "이매2동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "2502": "PASS(kpi:elderly_population)",
+        "19.63": "PASS(kpi:elderly_ratio)",
+        "0.2546": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "38": "PASS(kpi:mvi_rank)",
+        "0.3426": "PASS(kpi:need)",
+        "0.2569": "PASS(kpi:access)",
+        "0.396": "PASS(kpi:access_medical)",
+        "0.3396": "PASS(kpi:access_welfare)",
+        "0.035": "PASS(kpi:access_transit)",
+        "0.165": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "이매2동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "이매2동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113561000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113562000",
+      "region_name": "야탑1동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "3586": "PASS(kpi:elderly_population)",
+        "21.81": "PASS(kpi:elderly_ratio)",
+        "0.3375": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "29": "PASS(kpi:mvi_rank)",
+        "0.4762": "PASS(kpi:need)",
+        "0.2914": "PASS(kpi:access)",
+        "0.3452": "PASS(kpi:access_medical)",
+        "0.4547": "PASS(kpi:access_welfare)",
+        "0.0743": "PASS(kpi:access_transit)",
+        "0.252": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "야탑1동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "야탑1동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113562000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113563000",
+      "region_name": "야탑2동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "3640": "PASS(kpi:elderly_population)",
+        "23.53": "PASS(kpi:elderly_ratio)",
+        "0.3899": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "23": "PASS(kpi:mvi_rank)",
+        "0.5237": "PASS(kpi:need)",
+        "0.2555": "PASS(kpi:access)",
+        "0.3898": "PASS(kpi:access_medical)",
+        "0.3569": "PASS(kpi:access_welfare)",
+        "0.0199": "PASS(kpi:access_transit)",
+        "0.209": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "야탑2동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "야탑2동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113563000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113564000",
+      "region_name": "야탑3동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "5737": "PASS(kpi:elderly_population)",
+        "21.65": "PASS(kpi:elderly_ratio)",
+        "0.4721": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "15": "PASS(kpi:mvi_rank)",
+        "0.6278": "PASS(kpi:need)",
+        "0.248": "PASS(kpi:access)",
+        "0.204": "PASS(kpi:access_medical)",
+        "0.4265": "PASS(kpi:access_welfare)",
+        "0.1136": "PASS(kpi:access_transit)",
+        "0.379": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "야탑3동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "야탑3동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113564000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113565000",
+      "region_name": "판교동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "3207": "PASS(kpi:elderly_population)",
+        "12.22": "PASS(kpi:elderly_ratio)",
+        "0.1809": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "44": "PASS(kpi:mvi_rank)",
+        "0.206": "PASS(kpi:need)",
+        "0.122": "PASS(kpi:access)",
+        "0.2149": "PASS(kpi:access_medical)",
+        "0.0266": "PASS(kpi:access_welfare)",
+        "0.1246": "PASS(kpi:access_transit)",
+        "0.161": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "판교동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "판교동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113565000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113565500",
+      "region_name": "삼평동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "3356": "PASS(kpi:elderly_population)",
+        "14.31": "PASS(kpi:elderly_ratio)",
+        "0.1889": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "42": "PASS(kpi:mvi_rank)",
+        "0.2697": "PASS(kpi:need)",
+        "0.2996": "PASS(kpi:access)",
+        "0.47": "PASS(kpi:access_medical)",
+        "0.2083": "PASS(kpi:access_welfare)",
+        "0.2204": "PASS(kpi:access_transit)",
+        "0.067": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "삼평동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "삼평동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113565500",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113565700",
+      "region_name": "백현동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "4348": "PASS(kpi:elderly_population)",
+        "16.68": "PASS(kpi:elderly_ratio)",
+        "0.3202": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "30": "PASS(kpi:mvi_rank)",
+        "0.4015": "PASS(kpi:need)",
+        "0.2024": "PASS(kpi:access)",
+        "0.4363": "PASS(kpi:access_medical)",
+        "0.0984": "PASS(kpi:access_welfare)",
+        "0.0726": "PASS(kpi:access_transit)",
+        "0.015": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "백현동",
+        "분당구"
+      ],
+      "entity": {
+        "백현동": "PASS",
+        "분당구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113565700",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113566200",
+      "region_name": "금곡동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "5933": "PASS(kpi:elderly_population)",
+        "22.3": "PASS(kpi:elderly_ratio)",
+        "0.5729": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "8": "PASS(kpi:mvi_rank)",
+        "0.6584": "PASS(kpi:need)",
+        "0.1299": "PASS(kpi:access)",
+        "0.2771": "PASS(kpi:access_medical)",
+        "0.0662": "PASS(kpi:access_welfare)",
+        "0.0464": "PASS(kpi:access_transit)",
+        "0.043": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "금곡동",
+        "분당구"
+      ],
+      "entity": {
+        "금곡동": "PASS",
+        "분당구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113566200",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113566500",
+      "region_name": "구미1동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "2987": "PASS(kpi:elderly_population)",
+        "18.55": "PASS(kpi:elderly_ratio)",
+        "0.2927": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "35": "PASS(kpi:mvi_rank)",
+        "0.3503": "PASS(kpi:need)",
+        "0.1645": "PASS(kpi:access)",
+        "0.2765": "PASS(kpi:access_medical)",
+        "0.086": "PASS(kpi:access_welfare)",
+        "0.1311": "PASS(kpi:access_transit)",
+        "0.284": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "구미1동",
+        "분당구"
+      ],
+      "entity": {
+        "구미1동": "PASS",
+        "분당구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113566500",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113567000",
+      "region_name": "구미동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "6337": "PASS(kpi:elderly_population)",
+        "22.81": "PASS(kpi:elderly_ratio)",
+        "0.5994": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "6": "PASS(kpi:mvi_rank)",
+        "0.7006": "PASS(kpi:need)",
+        "0.1444": "PASS(kpi:access)",
+        "0.1899": "PASS(kpi:access_medical)",
+        "0.1386": "PASS(kpi:access_welfare)",
+        "0.1048": "PASS(kpi:access_transit)",
+        "0.193": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)",
+        "0.0": "PASS(kpi:hotspot_share)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "구미동",
+        "분당구"
+      ],
+      "entity": {
+        "구미동": "PASS",
+        "분당구": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113567000",
+      "generator": "template"
+    },
+    {
+      "region_id": "4113568000",
+      "region_name": "운중동",
+      "numeric": {
+        "65": "PASS(const:age_65_threshold)",
+        "4836": "PASS(kpi:elderly_population)",
+        "12.45": "PASS(kpi:elderly_ratio)",
+        "0.3063": "PASS(kpi:mvi)",
+        "50": "PASS(const:n_dongs)",
+        "32": "PASS(kpi:mvi_rank)",
+        "0.3297": "PASS(kpi:need)",
+        "0.071": "PASS(kpi:access)",
+        "0.0734": "PASS(kpi:access_medical)",
+        "0.0": "PASS(kpi:hotspot_share)",
+        "0.1395": "PASS(kpi:access_transit)",
+        "0.216": "PASS(kpi:local_moran_p)",
+        "36": "PASS(src)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [
+        "분당구",
+        "운중동"
+      ],
+      "entity": {
+        "분당구": "PASS",
+        "운중동": "PASS"
+      },
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "dong",
+      "id": "4113568000",
+      "generator": "template"
+    },
+    {
+      "region_id": null,
+      "region_name": null,
+      "numeric": {
+        "5": "PASS(kpi:n_new_stops)",
+        "86.5": "PASS(kpi:vuln_coverage)",
+        "136653": "PASS(kpi:elderly_population)",
+        "0.7745": "PASS(kpi:min_gu_coverage)",
+        "3": "PASS(kpi:vehicles_used)",
+        "1": "PASS(src)",
+        "21.47": "PASS(kpi:total_vehicle_km)",
+        "60.3": "PASS(kpi:max_cycle_min)",
+        "10": "PASS(const:per_km_unit)",
+        "0.403": "PASS(kpi:vuln_coverage_per_10km)",
+        "0.8653": "PASS(kpi:vuln_coverage)",
+        "0.8576": "PASS(src)",
+        "0.8714": "PASS(src)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [],
+      "entity": {},
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "policy",
+      "id": "A",
+      "generator": "template"
+    },
+    {
+      "region_id": null,
+      "region_name": null,
+      "numeric": {
+        "3": "PASS(kpi:vehicles_used)",
+        "5": "PASS(kpi:n_new_stops)",
+        "85.8": "PASS(kpi:vuln_coverage)",
+        "140598": "PASS(kpi:elderly_population)",
+        "0.8271": "PASS(kpi:min_gu_coverage)",
+        "1": "PASS(src)",
+        "20.13": "PASS(kpi:total_vehicle_km)",
+        "56.3": "PASS(kpi:max_cycle_min)",
+        "10": "PASS(const:per_km_unit)",
+        "0.426": "PASS(kpi:vuln_coverage_per_10km)",
+        "0.8653": "PASS(kpi:vuln_coverage)",
+        "0.8576": "PASS(src)",
+        "0.8714": "PASS(src)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [],
+      "entity": {},
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "policy",
+      "id": "B",
+      "generator": "template"
+    },
+    {
+      "region_id": null,
+      "region_name": null,
+      "numeric": {
+        "6": "PASS(kpi:n_new_stops)",
+        "87.1": "PASS(kpi:vuln_coverage)",
+        "144660": "PASS(kpi:elderly_population)",
+        "0.7534": "PASS(kpi:min_gu_coverage)",
+        "3": "PASS(kpi:vehicles_used)",
+        "1": "PASS(src)",
+        "17.3": "PASS(kpi:total_vehicle_km)",
+        "56.7": "PASS(kpi:max_cycle_min)",
+        "10": "PASS(const:per_km_unit)",
+        "0.5037": "PASS(kpi:vuln_coverage_per_10km)",
+        "0.8653": "PASS(kpi:vuln_coverage)",
+        "0.8576": "PASS(src)",
+        "0.8714": "PASS(src)"
+      },
+      "numeric_pass": true,
+      "unmatched_numbers": [],
+      "mentioned_places": [],
+      "entity": {},
+      "unmatched_region_codes": [],
+      "entity_pass": true,
+      "policy_mentions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "policy_pass": true,
+      "unsupported_kpis": [],
+      "banned_claims_found": [],
+      "causal_claims_found": [],
+      "claims_pass": true,
+      "violations": [],
+      "FINAL": "PASS",
+      "kind": "policy",
+      "id": "C",
+      "generator": "template"
+    }
+  ]
+}

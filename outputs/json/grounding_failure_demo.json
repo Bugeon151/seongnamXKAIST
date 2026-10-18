@@ -1,0 +1,39 @@
+{
+  "correct": {
+    "FINAL": "PASS",
+    "violations": []
+  },
+  "tampered_number": {
+    "FINAL": "FAIL",
+    "violations": [
+      "숫자 36.23가 KPI 'elderly_ratio' 값과 불일치"
+    ]
+  },
+  "wrong_region": {
+    "FINAL": "FAIL",
+    "violations": [
+      "입력에 없는 지역명 고등동"
+    ]
+  },
+  "unknown_policy": {
+    "FINAL": "FAIL",
+    "violations": [
+      "입력에 없는 정책 D"
+    ]
+  },
+  "causal_claim": {
+    "FINAL": "FAIL",
+    "violations": [
+      "입력에 없는 인과 주장 '때문'"
+    ]
+  },
+  "unsupported_kpi": {
+    "FINAL": "FAIL",
+    "violations": [
+      "입력에 없는 지표 Gi*"
+    ]
+  },
+  "tampered_text": "신흥1동(수정구, 코드 4113151000)의 65세 이상 인구는 3239명, 고령인구 비율 36.23%이다. MVI(수요×접근 결핍)는 0.5338로 50개 동 중 12위이며, 수요 지수 Need 0.5883, 종합 접근성 Access 0.0927이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1704, 복지 0.1076, 대중교통 0.0). Local Moran 분류는 High-High(p=0.008)이고, 강건성 격자 36개 시나리오 중 66.7%에서 고-고 군집으로 나타나 조건부(불안정) hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+  "expected": "correct=PASS, 나머지=FAIL",
+  "demo_pass": true
+}

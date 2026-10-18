@@ -1,0 +1,5 @@
+﻿dong_code,dong_name,hh_share,top10_share,rank_primary,rank_mean,rank_sd,rank_min,rank_max,hh_in_primary,hotspot_class,operation_group
+4113356000,은행2동,1.0,1.0,2,1.47,0.55,1,3,True,stable,OP-1
+4113357000,상대원1동,1.0,1.0,3,3.08,1.42,1,7,True,stable,OP-1
+4113157000,수진1동,1.0,0.5277777777777778,7,9.92,3.29,6,18,True,stable,
+4113354000,금광2동,0.8055555555555556,1.0,5,3.97,1.36,2,7,False,stable,OP-1

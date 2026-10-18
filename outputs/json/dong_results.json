@@ -1,0 +1,1766 @@
+[
+  {
+    "kind": "dong",
+    "region_id": "4113151000",
+    "region_name": "신흥1동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "신흥동"
+    ],
+    "elderly_population": 3239,
+    "elderly_ratio": 27.23,
+    "need": 0.5883,
+    "access": 0.0927,
+    "access_medical": 0.1704,
+    "access_welfare": 0.1076,
+    "access_transit": 0.0,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.5338,
+    "mvi_rank": 12,
+    "local_moran_class": "High-High",
+    "local_moran_p": 0.008,
+    "hotspot_class": "unstable",
+    "hotspot_share": 0.6667,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113152000",
+    "region_name": "신흥2동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "신흥동"
+    ],
+    "elderly_population": 5536,
+    "elderly_ratio": 17.53,
+    "need": 0.5089,
+    "access": 0.1272,
+    "access_medical": 0.1628,
+    "access_welfare": 0.2047,
+    "access_transit": 0.0143,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.4442,
+    "mvi_rank": 19,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.397,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113153000",
+    "region_name": "신흥3동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "신흥동"
+    ],
+    "elderly_population": 2713,
+    "elderly_ratio": 25.55,
+    "need": 0.5077,
+    "access": 0.1096,
+    "access_medical": 0.1887,
+    "access_welfare": 0.0996,
+    "access_transit": 0.0404,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.4521,
+    "mvi_rank": 18,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.193,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113154000",
+    "region_name": "태평1동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "태평동"
+    ],
+    "elderly_population": 3705,
+    "elderly_ratio": 27.51,
+    "need": 0.6291,
+    "access": 0.1037,
+    "access_medical": 0.1623,
+    "access_welfare": 0.0999,
+    "access_transit": 0.0488,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.5639,
+    "mvi_rank": 10,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.296,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113155000",
+    "region_name": "태평2동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "태평동"
+    ],
+    "elderly_population": 3484,
+    "elderly_ratio": 25.68,
+    "need": 0.5668,
+    "access": 0.1353,
+    "access_medical": 0.162,
+    "access_welfare": 0.214,
+    "access_transit": 0.0298,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.4901,
+    "mvi_rank": 14,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.242,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113156000",
+    "region_name": "태평3동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "태평동"
+    ],
+    "elderly_population": 3139,
+    "elderly_ratio": 27.53,
+    "need": 0.5887,
+    "access": 0.1063,
+    "access_medical": 0.1589,
+    "access_welfare": 0.1329,
+    "access_transit": 0.0271,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.5261,
+    "mvi_rank": 13,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.071,
+    "hotspot_class": "none",
+    "hotspot_share": 0.1111,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113156100",
+    "region_name": "태평4동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "태평동"
+    ],
+    "elderly_population": 2721,
+    "elderly_ratio": 25.29,
+    "need": 0.5017,
+    "access": 0.1307,
+    "access_medical": 0.1731,
+    "access_welfare": 0.209,
+    "access_transit": 0.0099,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.4362,
+    "mvi_rank": 20,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.416,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113157000",
+    "region_name": "수진1동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "수진동"
+    ],
+    "elderly_population": 3237,
+    "elderly_ratio": 31.06,
+    "need": 0.6851,
+    "access": 0.1264,
+    "access_medical": 0.2423,
+    "access_welfare": 0.1284,
+    "access_transit": 0.0085,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.5985,
+    "mvi_rank": 7,
+    "local_moran_class": "High-High",
+    "local_moran_p": 0.001,
+    "hotspot_class": "stable",
+    "hotspot_share": 1.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113158000",
+    "region_name": "수진2동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "수진동"
+    ],
+    "elderly_population": 4158,
+    "elderly_ratio": 29.13,
+    "need": 0.7029,
+    "access": 0.1122,
+    "access_medical": 0.2324,
+    "access_welfare": 0.0933,
+    "access_transit": 0.0109,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.624,
+    "mvi_rank": 4,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.181,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113159000",
+    "region_name": "단대동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "단대동"
+    ],
+    "elderly_population": 3444,
+    "elderly_ratio": 24.49,
+    "need": 0.5338,
+    "access": 0.1172,
+    "access_medical": 0.1696,
+    "access_welfare": 0.1557,
+    "access_transit": 0.0264,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.4712,
+    "mvi_rank": 16,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.091,
+    "hotspot_class": "unstable",
+    "hotspot_share": 0.3889,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": false
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113160000",
+    "region_name": "산성동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "산성동"
+    ],
+    "elderly_population": 1168,
+    "elderly_ratio": 26.8,
+    "need": 0.4276,
+    "access": 0.1753,
+    "access_medical": 0.1743,
+    "access_welfare": 0.2591,
+    "access_transit": 0.0923,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.3527,
+    "mvi_rank": 25,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.45,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": false,
+      "B": false,
+      "C": false
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113161000",
+    "region_name": "양지동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "양지동"
+    ],
+    "elderly_population": 2303,
+    "elderly_ratio": 25.99,
+    "need": 0.4892,
+    "access": 0.0554,
+    "access_medical": 0.0714,
+    "access_welfare": 0.0365,
+    "access_transit": 0.0581,
+    "weakest_access": "복지(주야간보호) 접근성",
+    "mvi": 0.4621,
+    "mvi_rank": 17,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.06,
+    "hotspot_class": "unstable",
+    "hotspot_share": 0.7778,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": false,
+      "B": false,
+      "C": false
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113162000",
+    "region_name": "복정동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "복정동"
+    ],
+    "elderly_population": 1579,
+    "elderly_ratio": 11.31,
+    "need": 0.0652,
+    "access": 0.7181,
+    "access_medical": 1.0,
+    "access_welfare": 0.9969,
+    "access_transit": 0.1575,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.0184,
+    "mvi_rank": 50,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.433,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": false,
+      "B": false,
+      "C": false
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113162500",
+    "region_name": "위례동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "창곡동"
+    ],
+    "elderly_population": 7589,
+    "elderly_ratio": 16.85,
+    "need": 0.6403,
+    "access": 0.6285,
+    "access_medical": 0.8221,
+    "access_welfare": 1.0,
+    "access_transit": 0.0633,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.2379,
+    "mvi_rank": 39,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.374,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": false,
+      "B": false,
+      "C": false
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113163000",
+    "region_name": "신촌동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "신촌동",
+      "오야동",
+      "심곡동"
+    ],
+    "elderly_population": 678,
+    "elderly_ratio": 12.7,
+    "need": 0.0352,
+    "access": 0.0456,
+    "access_medical": 0.0,
+    "access_welfare": 0.0,
+    "access_transit": 0.1368,
+    "weakest_access": "의료 접근성",
+    "mvi": 0.0336,
+    "mvi_rank": 49,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.367,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": false,
+      "B": false,
+      "C": false
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113164000",
+    "region_name": "고등동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "고등동",
+      "상적동",
+      "둔전동"
+    ],
+    "elderly_population": 1859,
+    "elderly_ratio": 15.88,
+    "need": 0.2011,
+    "access": 0.0807,
+    "access_medical": 0.0901,
+    "access_welfare": 0.0,
+    "access_transit": 0.1521,
+    "weakest_access": "복지(주야간보호) 접근성",
+    "mvi": 0.1849,
+    "mvi_rank": 43,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.283,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": false,
+      "B": false,
+      "C": false
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113165000",
+    "region_name": "시흥동",
+    "gu": "수정구",
+    "legal_dongs": [
+      "시흥동",
+      "금토동",
+      "사송동"
+    ],
+    "elderly_population": 778,
+    "elderly_ratio": 21.42,
+    "need": 0.2632,
+    "access": 0.3762,
+    "access_medical": 0.102,
+    "access_welfare": 0.0266,
+    "access_transit": 1.0,
+    "weakest_access": "복지(주야간보호) 접근성",
+    "mvi": 0.1642,
+    "mvi_rank": 46,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.055,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": false,
+      "B": false,
+      "C": false
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113351000",
+    "region_name": "성남동",
+    "gu": "중원구",
+    "legal_dongs": [
+      "성남동"
+    ],
+    "elderly_population": 7458,
+    "elderly_ratio": 23.45,
+    "need": 0.7979,
+    "access": 0.1382,
+    "access_medical": 0.2703,
+    "access_welfare": 0.1089,
+    "access_transit": 0.0354,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.6876,
+    "mvi_rank": 1,
+    "local_moran_class": "High-High",
+    "local_moran_p": 0.044,
+    "hotspot_class": "unstable",
+    "hotspot_share": 0.6944,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113352500",
+    "region_name": "중앙동",
+    "gu": "중원구",
+    "legal_dongs": [
+      "중앙동"
+    ],
+    "elderly_population": 3381,
+    "elderly_ratio": 20.48,
+    "need": 0.4277,
+    "access": 0.1149,
+    "access_medical": 0.1932,
+    "access_welfare": 0.0996,
+    "access_transit": 0.0518,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.3786,
+    "mvi_rank": 24,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.062,
+    "hotspot_class": "none",
+    "hotspot_share": 0.1944,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113353000",
+    "region_name": "금광1동",
+    "gu": "중원구",
+    "legal_dongs": [
+      "금광동"
+    ],
+    "elderly_population": 3091,
+    "elderly_ratio": 15.75,
+    "need": 0.287,
+    "access": 0.073,
+    "access_medical": 0.1177,
+    "access_welfare": 0.0335,
+    "access_transit": 0.068,
+    "weakest_access": "복지(주야간보호) 접근성",
+    "mvi": 0.266,
+    "mvi_rank": 36,
+    "local_moran_class": "Low-High",
+    "local_moran_p": 0.029,
+    "hotspot_class": "none",
+    "hotspot_share": 0.1944,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113354000",
+    "region_name": "금광2동",
+    "gu": "중원구",
+    "legal_dongs": [
+      "금광동"
+    ],
+    "elderly_population": 5333,
+    "elderly_ratio": 24.05,
+    "need": 0.6593,
+    "access": 0.059,
+    "access_medical": 0.1085,
+    "access_welfare": 0.0269,
+    "access_transit": 0.0416,
+    "weakest_access": "복지(주야간보호) 접근성",
+    "mvi": 0.6204,
+    "mvi_rank": 5,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.051,
+    "hotspot_class": "stable",
+    "hotspot_share": 0.8056,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113355000",
+    "region_name": "은행1동",
+    "gu": "중원구",
+    "legal_dongs": [
+      "은행동"
+    ],
+    "elderly_population": 2009,
+    "elderly_ratio": 21.75,
+    "need": 0.3606,
+    "access": 0.0424,
+    "access_medical": 0.1043,
+    "access_welfare": 0.0141,
+    "access_transit": 0.0088,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.3453,
+    "mvi_rank": 27,
+    "local_moran_class": "Low-High",
+    "local_moran_p": 0.004,
+    "hotspot_class": "unstable",
+    "hotspot_share": 0.6944,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113356000",
+    "region_name": "은행2동",
+    "gu": "중원구",
+    "legal_dongs": [
+      "은행동"
+    ],
+    "elderly_population": 4845,
+    "elderly_ratio": 27.29,
+    "need": 0.706,
+    "access": 0.064,
+    "access_medical": 0.1183,
+    "access_welfare": 0.0083,
+    "access_transit": 0.0654,
+    "weakest_access": "복지(주야간보호) 접근성",
+    "mvi": 0.6609,
+    "mvi_rank": 2,
+    "local_moran_class": "High-High",
+    "local_moran_p": 0.018,
+    "hotspot_class": "stable",
+    "hotspot_share": 1.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113357000",
+    "region_name": "상대원1동",
+    "gu": "중원구",
+    "legal_dongs": [
+      "상대원동"
+    ],
+    "elderly_population": 5585,
+    "elderly_ratio": 25.11,
+    "need": 0.7044,
+    "access": 0.0776,
+    "access_medical": 0.0675,
+    "access_welfare": 0.0331,
+    "access_transit": 0.1321,
+    "weakest_access": "복지(주야간보호) 접근성",
+    "mvi": 0.6497,
+    "mvi_rank": 3,
+    "local_moran_class": "High-High",
+    "local_moran_p": 0.022,
+    "hotspot_class": "stable",
+    "hotspot_share": 1.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113358000",
+    "region_name": "상대원2동",
+    "gu": "중원구",
+    "legal_dongs": [
+      "상대원동"
+    ],
+    "elderly_population": 773,
+    "elderly_ratio": 27.04,
+    "need": 0.4051,
+    "access": 0.1371,
+    "access_medical": 0.0918,
+    "access_welfare": 0.0426,
+    "access_transit": 0.277,
+    "weakest_access": "복지(주야간보호) 접근성",
+    "mvi": 0.3495,
+    "mvi_rank": 26,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.075,
+    "hotspot_class": "none",
+    "hotspot_share": 0.1944,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113359000",
+    "region_name": "상대원3동",
+    "gu": "중원구",
+    "legal_dongs": [
+      "상대원동"
+    ],
+    "elderly_population": 3114,
+    "elderly_ratio": 28.27,
+    "need": 0.6056,
+    "access": 0.063,
+    "access_medical": 0.1171,
+    "access_welfare": 0.0401,
+    "access_transit": 0.0319,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.5674,
+    "mvi_rank": 9,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.323,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113366000",
+    "region_name": "하대원동",
+    "gu": "중원구",
+    "legal_dongs": [
+      "하대원동"
+    ],
+    "elderly_population": 4659,
+    "elderly_ratio": 23.9,
+    "need": 0.6068,
+    "access": 0.0805,
+    "access_medical": 0.1321,
+    "access_welfare": 0.0818,
+    "access_transit": 0.0277,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.5579,
+    "mvi_rank": 11,
+    "local_moran_class": "High-High",
+    "local_moran_p": 0.037,
+    "hotspot_class": "unstable",
+    "hotspot_share": 0.3611,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113367000",
+    "region_name": "도촌동",
+    "gu": "중원구",
+    "legal_dongs": [
+      "여수동",
+      "도촌동",
+      "갈현동"
+    ],
+    "elderly_population": 4932,
+    "elderly_ratio": 19.33,
+    "need": 0.5108,
+    "access": 0.1812,
+    "access_medical": 0.1081,
+    "access_welfare": 0.302,
+    "access_transit": 0.1335,
+    "weakest_access": "의료 접근성",
+    "mvi": 0.4183,
+    "mvi_rank": 21,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.172,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": false,
+      "C": false
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113551000",
+    "region_name": "분당동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "분당동"
+    ],
+    "elderly_population": 4559,
+    "elderly_ratio": 18.72,
+    "need": 0.4684,
+    "access": 0.1243,
+    "access_medical": 0.1434,
+    "access_welfare": 0.1254,
+    "access_transit": 0.1043,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.4101,
+    "mvi_rank": 22,
+    "local_moran_class": "High-Low",
+    "local_moran_p": 0.015,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": false,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113552000",
+    "region_name": "수내1동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "수내동"
+    ],
+    "elderly_population": 2620,
+    "elderly_ratio": 14.66,
+    "need": 0.2253,
+    "access": 0.2274,
+    "access_medical": 0.5162,
+    "access_welfare": 0.0863,
+    "access_transit": 0.0795,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.1741,
+    "mvi_rank": 45,
+    "local_moran_class": "Low-Low",
+    "local_moran_p": 0.044,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113553000",
+    "region_name": "수내2동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "수내동"
+    ],
+    "elderly_population": 1281,
+    "elderly_ratio": 12.57,
+    "need": 0.0755,
+    "access": 0.2045,
+    "access_medical": 0.3384,
+    "access_welfare": 0.1179,
+    "access_transit": 0.1571,
+    "weakest_access": "복지(주야간보호) 접근성",
+    "mvi": 0.0601,
+    "mvi_rank": 48,
+    "local_moran_class": "Low-Low",
+    "local_moran_p": 0.02,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113554000",
+    "region_name": "수내3동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "수내동"
+    ],
+    "elderly_population": 1663,
+    "elderly_ratio": 12.65,
+    "need": 0.1052,
+    "access": 0.1805,
+    "access_medical": 0.3045,
+    "access_welfare": 0.1137,
+    "access_transit": 0.1234,
+    "weakest_access": "복지(주야간보호) 접근성",
+    "mvi": 0.0862,
+    "mvi_rank": 47,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.078,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": false,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113554500",
+    "region_name": "정자동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "정자동"
+    ],
+    "elderly_population": 2465,
+    "elderly_ratio": 17.93,
+    "need": 0.2969,
+    "access": 0.2185,
+    "access_medical": 0.4136,
+    "access_welfare": 0.1445,
+    "access_transit": 0.0973,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.232,
+    "mvi_rank": 40,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.074,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113555000",
+    "region_name": "정자1동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "정자동"
+    ],
+    "elderly_population": 4514,
+    "elderly_ratio": 14.86,
+    "need": 0.3674,
+    "access": 0.1957,
+    "access_medical": 0.4609,
+    "access_welfare": 0.0968,
+    "access_transit": 0.0294,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.2955,
+    "mvi_rank": 34,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.152,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": false,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113556000",
+    "region_name": "정자2동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "정자동"
+    ],
+    "elderly_population": 2589,
+    "elderly_ratio": 21.3,
+    "need": 0.3912,
+    "access": 0.1236,
+    "access_medical": 0.2271,
+    "access_welfare": 0.1212,
+    "access_transit": 0.0223,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.3428,
+    "mvi_rank": 28,
+    "local_moran_class": "Low-Low",
+    "local_moran_p": 0.001,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113557000",
+    "region_name": "정자3동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "정자동"
+    ],
+    "elderly_population": 2631,
+    "elderly_ratio": 15.99,
+    "need": 0.2598,
+    "access": 0.1525,
+    "access_medical": 0.2139,
+    "access_welfare": 0.1279,
+    "access_transit": 0.1157,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.2202,
+    "mvi_rank": 41,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.359,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113558000",
+    "region_name": "서현1동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "서현동",
+      "율동"
+    ],
+    "elderly_population": 4653,
+    "elderly_ratio": 15.27,
+    "need": 0.3878,
+    "access": 0.2071,
+    "access_medical": 0.3818,
+    "access_welfare": 0.1291,
+    "access_transit": 0.1105,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.3075,
+    "mvi_rank": 31,
+    "local_moran_class": "Low-Low",
+    "local_moran_p": 0.044,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113559000",
+    "region_name": "서현2동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "서현동"
+    ],
+    "elderly_population": 2947,
+    "elderly_ratio": 17.17,
+    "need": 0.3125,
+    "access": 0.1541,
+    "access_medical": 0.2349,
+    "access_welfare": 0.1502,
+    "access_transit": 0.0772,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.2644,
+    "mvi_rank": 37,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.124,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": false,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113560000",
+    "region_name": "이매1동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "이매동"
+    ],
+    "elderly_population": 4132,
+    "elderly_ratio": 16.91,
+    "need": 0.3917,
+    "access": 0.2375,
+    "access_medical": 0.3961,
+    "access_welfare": 0.2287,
+    "access_transit": 0.0877,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.2986,
+    "mvi_rank": 33,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.41,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113561000",
+    "region_name": "이매2동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "이매동"
+    ],
+    "elderly_population": 2502,
+    "elderly_ratio": 19.63,
+    "need": 0.3426,
+    "access": 0.2569,
+    "access_medical": 0.396,
+    "access_welfare": 0.3396,
+    "access_transit": 0.035,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.2546,
+    "mvi_rank": 38,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.165,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": false,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113562000",
+    "region_name": "야탑1동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "야탑동"
+    ],
+    "elderly_population": 3586,
+    "elderly_ratio": 21.81,
+    "need": 0.4762,
+    "access": 0.2914,
+    "access_medical": 0.3452,
+    "access_welfare": 0.4547,
+    "access_transit": 0.0743,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.3375,
+    "mvi_rank": 29,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.252,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113563000",
+    "region_name": "야탑2동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "야탑동"
+    ],
+    "elderly_population": 3640,
+    "elderly_ratio": 23.53,
+    "need": 0.5237,
+    "access": 0.2555,
+    "access_medical": 0.3898,
+    "access_welfare": 0.3569,
+    "access_transit": 0.0199,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.3899,
+    "mvi_rank": 23,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.209,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113564000",
+    "region_name": "야탑3동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "야탑동"
+    ],
+    "elderly_population": 5737,
+    "elderly_ratio": 21.65,
+    "need": 0.6278,
+    "access": 0.248,
+    "access_medical": 0.204,
+    "access_welfare": 0.4265,
+    "access_transit": 0.1136,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.4721,
+    "mvi_rank": 15,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.379,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113565000",
+    "region_name": "판교동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "판교동"
+    ],
+    "elderly_population": 3207,
+    "elderly_ratio": 12.22,
+    "need": 0.206,
+    "access": 0.122,
+    "access_medical": 0.2149,
+    "access_welfare": 0.0266,
+    "access_transit": 0.1246,
+    "weakest_access": "복지(주야간보호) 접근성",
+    "mvi": 0.1809,
+    "mvi_rank": 44,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.161,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": false,
+      "B": false,
+      "C": false
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113565500",
+    "region_name": "삼평동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "삼평동"
+    ],
+    "elderly_population": 3356,
+    "elderly_ratio": 14.31,
+    "need": 0.2697,
+    "access": 0.2996,
+    "access_medical": 0.47,
+    "access_welfare": 0.2083,
+    "access_transit": 0.2204,
+    "weakest_access": "복지(주야간보호) 접근성",
+    "mvi": 0.1889,
+    "mvi_rank": 42,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.067,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": false,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113565700",
+    "region_name": "백현동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "백현동"
+    ],
+    "elderly_population": 4348,
+    "elderly_ratio": 16.68,
+    "need": 0.4015,
+    "access": 0.2024,
+    "access_medical": 0.4363,
+    "access_welfare": 0.0984,
+    "access_transit": 0.0726,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.3202,
+    "mvi_rank": 30,
+    "local_moran_class": "Low-Low",
+    "local_moran_p": 0.015,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": false,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113566200",
+    "region_name": "금곡동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "금곡동",
+      "궁내동"
+    ],
+    "elderly_population": 5933,
+    "elderly_ratio": 22.3,
+    "need": 0.6584,
+    "access": 0.1299,
+    "access_medical": 0.2771,
+    "access_welfare": 0.0662,
+    "access_transit": 0.0464,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.5729,
+    "mvi_rank": 8,
+    "local_moran_class": "High-Low",
+    "local_moran_p": 0.043,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113566500",
+    "region_name": "구미1동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "동원동",
+      "구미동"
+    ],
+    "elderly_population": 2987,
+    "elderly_ratio": 18.55,
+    "need": 0.3503,
+    "access": 0.1645,
+    "access_medical": 0.2765,
+    "access_welfare": 0.086,
+    "access_transit": 0.1311,
+    "weakest_access": "복지(주야간보호) 접근성",
+    "mvi": 0.2927,
+    "mvi_rank": 35,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.284,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113567000",
+    "region_name": "구미동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "구미동"
+    ],
+    "elderly_population": 6337,
+    "elderly_ratio": 22.81,
+    "need": 0.7006,
+    "access": 0.1444,
+    "access_medical": 0.1899,
+    "access_welfare": 0.1386,
+    "access_transit": 0.1048,
+    "weakest_access": "대중교통 접근성",
+    "mvi": 0.5994,
+    "mvi_rank": 6,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.193,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": true,
+      "B": true,
+      "C": true
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  },
+  {
+    "kind": "dong",
+    "region_id": "4113568000",
+    "region_name": "운중동",
+    "gu": "분당구",
+    "legal_dongs": [
+      "운중동",
+      "대장동",
+      "석운동",
+      "하산운동"
+    ],
+    "elderly_population": 4836,
+    "elderly_ratio": 12.45,
+    "need": 0.3297,
+    "access": 0.071,
+    "access_medical": 0.0734,
+    "access_welfare": 0.0,
+    "access_transit": 0.1395,
+    "weakest_access": "복지(주야간보호) 접근성",
+    "mvi": 0.3063,
+    "mvi_rank": 32,
+    "local_moran_class": "Not Significant",
+    "local_moran_p": 0.216,
+    "hotspot_class": "none",
+    "hotspot_share": 0.0,
+    "n_robust_scenarios": 36,
+    "covered_by_policy": {
+      "A": false,
+      "B": false,
+      "C": false
+    },
+    "policies_available": [
+      "A",
+      "B",
+      "C"
+    ],
+    "method_version": "mobilens-2.0"
+  }
+]

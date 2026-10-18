@@ -1,0 +1,10 @@
+﻿budget_km,status,optimal,n_stops,route_km,vuln_coverage,elderly_coverage,min_gu_coverage,nondominated,same_solution_as_budget,is_knee
+10,Optimal,True,4,9.951,0.7496,0.6561,0.5371,True,,False
+15,Optimal,True,5,14.943,0.7995,0.7439,0.7309,True,,False
+20,Optimal,True,7,19.423,0.9131,0.8562,0.8942,True,,False
+25,Optimal,True,7,23.16,0.9413,0.893,0.8955,True,,False
+30,Optimal,True,8,26.858,0.9656,0.9358,0.925,True,,True
+40,Optimal,True,9,36.618,0.9855,0.9632,0.9775,True,,False
+50,Optimal,True,10,46.886,0.9919,0.9781,0.9789,True,,False
+60,Optimal,True,10,46.886,0.9919,0.9781,0.9789,True,50.0,False
+80,Optimal,True,10,46.886,0.9919,0.9781,0.9789,True,50.0,False

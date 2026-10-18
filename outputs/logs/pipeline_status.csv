@@ -1,0 +1,9 @@
+﻿stage,status,seconds,detail
+[1/8] Data validation,PASS,0.1,
+[2/8] Preprocessing,PASS,0.2,
+[3/8] Accessibility,PASS,0.3,
+[4/8] MVI,PASS,0.0,
+[5/8] Spatial analysis,PASS,0.8,
+[6/8] Optimization,PASS,7.1,
+[7/8] Explanation validation,PASS,0.3,
+[8/8] Outputs,PASS,2.0,

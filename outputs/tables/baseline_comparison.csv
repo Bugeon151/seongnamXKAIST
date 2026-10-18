@@ -1,0 +1,20 @@
+﻿method,k,vuln_coverage,elderly_coverage,top10_coverage,hotspot_coverage,n_covered_dongs,min_gu_coverage,note,random_sd_vuln,random_max_vuln
+Existing_all_stops,all,1.0,1.0,1.0,1.0,50.0,1.0,"기존 정류장 전체(신규 0개) — 상한 맥락, 동일 k 비교 대상 아님",,
+MCLP,3,0.6869,0.5568,1.0,1.0,26.0,0.3677,CBC Optimal,,
+Greedy,3,0.6869,0.5568,1.0,1.0,26.0,0.3677,,,
+Top_demand,3,0.4107,0.3186,0.7,0.4609,15.0,0.1699,,,
+Random_mean,3,0.2726,0.2692,0.285,0.3456,13.8,0.075,20 seeds (seed=42),0.1272,0.5222
+MCLP_minus_Top_demand_pp,3,27.62,,,,,,%p (동일 k),,
+MCLP_minus_Greedy_pp,3,0.0,,,,,,%p (동일 k),,
+MCLP,5,0.8653,0.7719,1.0,1.0,36.0,0.7745,CBC Optimal,,
+Greedy,5,0.8576,0.7942,1.0,1.0,38.0,0.8271,,,
+Top_demand,5,0.6209,0.4994,1.0,1.0,24.0,0.3629,,,
+Random_mean,5,0.3452,0.3386,0.35,0.4516,17.05,0.1137,20 seeds (seed=42),0.1262,0.577
+MCLP_minus_Top_demand_pp,5,24.44,,,,,,%p (동일 k),,
+MCLP_minus_Greedy_pp,5,0.77,,,,,,%p (동일 k),,
+MCLP,7,0.9652,0.9269,1.0,1.0,44.0,0.925,CBC Optimal,,
+Greedy,7,0.9374,0.8991,1.0,1.0,43.0,0.9167,,,
+Top_demand,7,0.7205,0.6005,1.0,1.0,28.0,0.557,,,
+Random_mean,7,0.5167,0.4868,0.585,0.6067,24.45,0.3253,20 seeds (seed=42),0.1106,0.7342
+MCLP_minus_Top_demand_pp,7,24.47,,,,,,%p (동일 k),,
+MCLP_minus_Greedy_pp,7,2.78,,,,,,%p (동일 k),,

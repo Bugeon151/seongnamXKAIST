@@ -1,0 +1,3 @@
+﻿정류장번호(ID),정류장명,raw_dong_label,위도,경도,nearest_dong_code,nearest_dong_name,distance_to_nearest_boundary_m,likely_boundary_rounding_error
+5201.0,웃논골,복정동,37.469333,127.166117,4113161000,양지동,13.9,True
+5291.0,위례그린파크푸르지오,복정동,37.472967,127.15455,4113162500,위례동,11.52,True

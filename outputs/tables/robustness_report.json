@@ -1,0 +1,74 @@
+{
+  "grid": {
+    "n_scenarios": 36,
+    "mvi_weights": [
+      "A_balanced",
+      "B_need60",
+      "C_access60"
+    ],
+    "decay_scale": [
+      0.75,
+      1.0,
+      1.25
+    ],
+    "forms": [
+      "product",
+      "additive"
+    ],
+    "normalizations": [
+      "minmax",
+      "rank"
+    ],
+    "moran_permutations": 999,
+    "seed": 42
+  },
+  "primary_scenario": "A_balanced|decay1.0|product|minmax",
+  "rank_correlation": {
+    "vs_primary_min": 0.8148,
+    "vs_primary_median": 0.95825,
+    "pairwise_min": 0.7608,
+    "pairwise_mean": 0.9281
+  },
+  "jaccard_HH": {
+    "vs_primary_min": 0.3333,
+    "vs_primary_mean": 0.5239,
+    "pairwise_mean": 0.6023
+  },
+  "thresholds": {
+    "stable_share": 0.8,
+    "unstable_share": 0.2
+  },
+  "stable_hotspots": [
+    "금광2동",
+    "상대원1동",
+    "수진1동",
+    "은행2동"
+  ],
+  "unstable_hotspots": [
+    "단대동",
+    "성남동",
+    "신흥1동",
+    "양지동",
+    "은행1동",
+    "하대원동"
+  ],
+  "no_robustness_vs_robust": {
+    "primary_only_HH": [
+      "상대원1동",
+      "성남동",
+      "수진1동",
+      "신흥1동",
+      "은행2동",
+      "하대원동"
+    ],
+    "primary_HH_not_stable": [
+      "성남동",
+      "신흥1동",
+      "하대원동"
+    ],
+    "stable_not_in_primary_HH": [
+      "금광2동"
+    ],
+    "note": "primary 한 시나리오만 보면 hotspot으로 보이지만 파라미터에 따라 사라지는 동을 구분한다."
+  }
+}

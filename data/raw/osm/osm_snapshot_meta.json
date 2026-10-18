@@ -1,0 +1,21 @@
+{
+  "source": "OpenStreetMap via Overpass API (osmnx)",
+  "license": "© OpenStreetMap contributors, ODbL 1.0",
+  "downloaded_at": "2026-09-29T10:08:59Z",
+  "osmnx_version": "2.1.1",
+  "area": "성남시 행정동 경계 합집합 + 0.02° buffer",
+  "networks": {
+    "walk": {
+      "n_nodes": 30091,
+      "n_directed_edges": 81460,
+      "nodes_file": "seongnam_walk_nodes.csv.gz",
+      "edges_file": "seongnam_walk_edges.csv.gz"
+    },
+    "drive": {
+      "n_nodes": 7534,
+      "n_directed_edges": 19457,
+      "nodes_file": "seongnam_drive_nodes.csv.gz",
+      "edges_file": "seongnam_drive_edges.csv.gz"
+    }
+  }
+}

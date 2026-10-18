@@ -1,0 +1,2 @@
+﻿unique_facility_id,gu,depot_name,latitude,longitude,geocoder,query_level,query,returned_address,in_seongnam,official_dong_name
+MED_00463,수정구,수정구보건소,37.4443194,127.144174,nominatim-bounded,NAME_DONG,수정구 보건소 신흥동,"수정구 보건소, 수정로220번길, 신흥동, 수정구, 성남시, 경기도, 13347, 대한민국",True,신흥3동

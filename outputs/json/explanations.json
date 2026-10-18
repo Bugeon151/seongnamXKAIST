@@ -1,0 +1,2717 @@
+[
+  {
+    "kind": "dong",
+    "id": "4113151000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113151000",
+      "region_name": "신흥1동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "신흥동"
+      ],
+      "elderly_population": 3239,
+      "elderly_ratio": 27.23,
+      "need": 0.5883,
+      "access": 0.0927,
+      "access_medical": 0.1704,
+      "access_welfare": 0.1076,
+      "access_transit": 0.0,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.5338,
+      "mvi_rank": 12,
+      "local_moran_class": "High-High",
+      "local_moran_p": 0.008,
+      "hotspot_class": "unstable",
+      "hotspot_share": 0.6667,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "신흥1동(수정구, 코드 4113151000)의 65세 이상 인구는 3239명, 고령인구 비율 27.23%이다. MVI(수요×접근 결핍)는 0.5338로 50개 동 중 12위이며, 수요 지수 Need 0.5883, 종합 접근성 Access 0.0927이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1704, 복지 0.1076, 대중교통 0.0). Local Moran 분류는 High-High(p=0.008)이고, 강건성 격자 36개 시나리오 중 66.7%에서 고-고 군집으로 나타나 조건부(불안정) hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "신흥1동(수정구, 코드 4113151000)의 65세 이상 인구는 3239명, 고령인구 비율 27.23%이다. MVI(수요×접근 결핍)는 0.5338로 50개 동 중 12위이며, 수요 지수 Need 0.5883, 종합 접근성 Access 0.0927이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1704, 복지 0.1076, 대중교통 0.0). Local Moran 분류는 High-High(p=0.008)이고, 강건성 격자 36개 시나리오 중 66.7%에서 고-고 군집으로 나타나 조건부(불안정) hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113152000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113152000",
+      "region_name": "신흥2동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "신흥동"
+      ],
+      "elderly_population": 5536,
+      "elderly_ratio": 17.53,
+      "need": 0.5089,
+      "access": 0.1272,
+      "access_medical": 0.1628,
+      "access_welfare": 0.2047,
+      "access_transit": 0.0143,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.4442,
+      "mvi_rank": 19,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.397,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "신흥2동(수정구, 코드 4113152000)의 65세 이상 인구는 5536명, 고령인구 비율 17.53%이다. MVI(수요×접근 결핍)는 0.4442로 50개 동 중 19위이며, 수요 지수 Need 0.5089, 종합 접근성 Access 0.1272이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1628, 복지 0.2047, 대중교통 0.0143). Local Moran 분류는 Not Significant(p=0.397)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "신흥2동(수정구, 코드 4113152000)의 65세 이상 인구는 5536명, 고령인구 비율 17.53%이다. MVI(수요×접근 결핍)는 0.4442로 50개 동 중 19위이며, 수요 지수 Need 0.5089, 종합 접근성 Access 0.1272이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1628, 복지 0.2047, 대중교통 0.0143). Local Moran 분류는 Not Significant(p=0.397)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113153000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113153000",
+      "region_name": "신흥3동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "신흥동"
+      ],
+      "elderly_population": 2713,
+      "elderly_ratio": 25.55,
+      "need": 0.5077,
+      "access": 0.1096,
+      "access_medical": 0.1887,
+      "access_welfare": 0.0996,
+      "access_transit": 0.0404,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.4521,
+      "mvi_rank": 18,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.193,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "신흥3동(수정구, 코드 4113153000)의 65세 이상 인구는 2713명, 고령인구 비율 25.55%이다. MVI(수요×접근 결핍)는 0.4521로 50개 동 중 18위이며, 수요 지수 Need 0.5077, 종합 접근성 Access 0.1096이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1887, 복지 0.0996, 대중교통 0.0404). Local Moran 분류는 Not Significant(p=0.193)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "신흥3동(수정구, 코드 4113153000)의 65세 이상 인구는 2713명, 고령인구 비율 25.55%이다. MVI(수요×접근 결핍)는 0.4521로 50개 동 중 18위이며, 수요 지수 Need 0.5077, 종합 접근성 Access 0.1096이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1887, 복지 0.0996, 대중교통 0.0404). Local Moran 분류는 Not Significant(p=0.193)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113154000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113154000",
+      "region_name": "태평1동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "태평동"
+      ],
+      "elderly_population": 3705,
+      "elderly_ratio": 27.51,
+      "need": 0.6291,
+      "access": 0.1037,
+      "access_medical": 0.1623,
+      "access_welfare": 0.0999,
+      "access_transit": 0.0488,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.5639,
+      "mvi_rank": 10,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.296,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "태평1동(수정구, 코드 4113154000)의 65세 이상 인구는 3705명, 고령인구 비율 27.51%이다. MVI(수요×접근 결핍)는 0.5639로 50개 동 중 10위이며, 수요 지수 Need 0.6291, 종합 접근성 Access 0.1037이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1623, 복지 0.0999, 대중교통 0.0488). Local Moran 분류는 Not Significant(p=0.296)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "태평1동(수정구, 코드 4113154000)의 65세 이상 인구는 3705명, 고령인구 비율 27.51%이다. MVI(수요×접근 결핍)는 0.5639로 50개 동 중 10위이며, 수요 지수 Need 0.6291, 종합 접근성 Access 0.1037이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1623, 복지 0.0999, 대중교통 0.0488). Local Moran 분류는 Not Significant(p=0.296)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113155000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113155000",
+      "region_name": "태평2동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "태평동"
+      ],
+      "elderly_population": 3484,
+      "elderly_ratio": 25.68,
+      "need": 0.5668,
+      "access": 0.1353,
+      "access_medical": 0.162,
+      "access_welfare": 0.214,
+      "access_transit": 0.0298,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.4901,
+      "mvi_rank": 14,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.242,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "태평2동(수정구, 코드 4113155000)의 65세 이상 인구는 3484명, 고령인구 비율 25.68%이다. MVI(수요×접근 결핍)는 0.4901로 50개 동 중 14위이며, 수요 지수 Need 0.5668, 종합 접근성 Access 0.1353이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.162, 복지 0.214, 대중교통 0.0298). Local Moran 분류는 Not Significant(p=0.242)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "태평2동(수정구, 코드 4113155000)의 65세 이상 인구는 3484명, 고령인구 비율 25.68%이다. MVI(수요×접근 결핍)는 0.4901로 50개 동 중 14위이며, 수요 지수 Need 0.5668, 종합 접근성 Access 0.1353이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.162, 복지 0.214, 대중교통 0.0298). Local Moran 분류는 Not Significant(p=0.242)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113156000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113156000",
+      "region_name": "태평3동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "태평동"
+      ],
+      "elderly_population": 3139,
+      "elderly_ratio": 27.53,
+      "need": 0.5887,
+      "access": 0.1063,
+      "access_medical": 0.1589,
+      "access_welfare": 0.1329,
+      "access_transit": 0.0271,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.5261,
+      "mvi_rank": 13,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.071,
+      "hotspot_class": "none",
+      "hotspot_share": 0.1111,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "태평3동(수정구, 코드 4113156000)의 65세 이상 인구는 3139명, 고령인구 비율 27.53%이다. MVI(수요×접근 결핍)는 0.5261로 50개 동 중 13위이며, 수요 지수 Need 0.5887, 종합 접근성 Access 0.1063이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1589, 복지 0.1329, 대중교통 0.0271). Local Moran 분류는 Not Significant(p=0.071)이고, 강건성 격자 36개 시나리오 중 11.1%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "태평3동(수정구, 코드 4113156000)의 65세 이상 인구는 3139명, 고령인구 비율 27.53%이다. MVI(수요×접근 결핍)는 0.5261로 50개 동 중 13위이며, 수요 지수 Need 0.5887, 종합 접근성 Access 0.1063이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1589, 복지 0.1329, 대중교통 0.0271). Local Moran 분류는 Not Significant(p=0.071)이고, 강건성 격자 36개 시나리오 중 11.1%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113156100",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113156100",
+      "region_name": "태평4동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "태평동"
+      ],
+      "elderly_population": 2721,
+      "elderly_ratio": 25.29,
+      "need": 0.5017,
+      "access": 0.1307,
+      "access_medical": 0.1731,
+      "access_welfare": 0.209,
+      "access_transit": 0.0099,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.4362,
+      "mvi_rank": 20,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.416,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "태평4동(수정구, 코드 4113156100)의 65세 이상 인구는 2721명, 고령인구 비율 25.29%이다. MVI(수요×접근 결핍)는 0.4362로 50개 동 중 20위이며, 수요 지수 Need 0.5017, 종합 접근성 Access 0.1307이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1731, 복지 0.209, 대중교통 0.0099). Local Moran 분류는 Not Significant(p=0.416)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "태평4동(수정구, 코드 4113156100)의 65세 이상 인구는 2721명, 고령인구 비율 25.29%이다. MVI(수요×접근 결핍)는 0.4362로 50개 동 중 20위이며, 수요 지수 Need 0.5017, 종합 접근성 Access 0.1307이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1731, 복지 0.209, 대중교통 0.0099). Local Moran 분류는 Not Significant(p=0.416)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113157000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113157000",
+      "region_name": "수진1동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "수진동"
+      ],
+      "elderly_population": 3237,
+      "elderly_ratio": 31.06,
+      "need": 0.6851,
+      "access": 0.1264,
+      "access_medical": 0.2423,
+      "access_welfare": 0.1284,
+      "access_transit": 0.0085,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.5985,
+      "mvi_rank": 7,
+      "local_moran_class": "High-High",
+      "local_moran_p": 0.001,
+      "hotspot_class": "stable",
+      "hotspot_share": 1.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "수진1동(수정구, 코드 4113157000)의 65세 이상 인구는 3237명, 고령인구 비율 31.06%이다. MVI(수요×접근 결핍)는 0.5985로 50개 동 중 7위이며, 수요 지수 Need 0.6851, 종합 접근성 Access 0.1264이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.2423, 복지 0.1284, 대중교통 0.0085). Local Moran 분류는 High-High(p=0.001)이고, 강건성 격자 36개 시나리오 중 100.0%에서 고-고 군집으로 나타나 안정 Robust Hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "수진1동(수정구, 코드 4113157000)의 65세 이상 인구는 3237명, 고령인구 비율 31.06%이다. MVI(수요×접근 결핍)는 0.5985로 50개 동 중 7위이며, 수요 지수 Need 0.6851, 종합 접근성 Access 0.1264이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.2423, 복지 0.1284, 대중교통 0.0085). Local Moran 분류는 High-High(p=0.001)이고, 강건성 격자 36개 시나리오 중 100.0%에서 고-고 군집으로 나타나 안정 Robust Hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113158000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113158000",
+      "region_name": "수진2동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "수진동"
+      ],
+      "elderly_population": 4158,
+      "elderly_ratio": 29.13,
+      "need": 0.7029,
+      "access": 0.1122,
+      "access_medical": 0.2324,
+      "access_welfare": 0.0933,
+      "access_transit": 0.0109,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.624,
+      "mvi_rank": 4,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.181,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "수진2동(수정구, 코드 4113158000)의 65세 이상 인구는 4158명, 고령인구 비율 29.13%이다. MVI(수요×접근 결핍)는 0.624로 50개 동 중 4위이며, 수요 지수 Need 0.7029, 종합 접근성 Access 0.1122이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.2324, 복지 0.0933, 대중교통 0.0109). Local Moran 분류는 Not Significant(p=0.181)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "수진2동(수정구, 코드 4113158000)의 65세 이상 인구는 4158명, 고령인구 비율 29.13%이다. MVI(수요×접근 결핍)는 0.624로 50개 동 중 4위이며, 수요 지수 Need 0.7029, 종합 접근성 Access 0.1122이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.2324, 복지 0.0933, 대중교통 0.0109). Local Moran 분류는 Not Significant(p=0.181)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113159000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113159000",
+      "region_name": "단대동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "단대동"
+      ],
+      "elderly_population": 3444,
+      "elderly_ratio": 24.49,
+      "need": 0.5338,
+      "access": 0.1172,
+      "access_medical": 0.1696,
+      "access_welfare": 0.1557,
+      "access_transit": 0.0264,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.4712,
+      "mvi_rank": 16,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.091,
+      "hotspot_class": "unstable",
+      "hotspot_share": 0.3889,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": false
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "단대동(수정구, 코드 4113159000)의 65세 이상 인구는 3444명, 고령인구 비율 24.49%이다. MVI(수요×접근 결핍)는 0.4712로 50개 동 중 16위이며, 수요 지수 Need 0.5338, 종합 접근성 Access 0.1172이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1696, 복지 0.1557, 대중교통 0.0264). Local Moran 분류는 Not Significant(p=0.091)이고, 강건성 격자 36개 시나리오 중 38.9%에서 고-고 군집으로 나타나 조건부(불안정) hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "단대동(수정구, 코드 4113159000)의 65세 이상 인구는 3444명, 고령인구 비율 24.49%이다. MVI(수요×접근 결핍)는 0.4712로 50개 동 중 16위이며, 수요 지수 Need 0.5338, 종합 접근성 Access 0.1172이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1696, 복지 0.1557, 대중교통 0.0264). Local Moran 분류는 Not Significant(p=0.091)이고, 강건성 격자 36개 시나리오 중 38.9%에서 고-고 군집으로 나타나 조건부(불안정) hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113160000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113160000",
+      "region_name": "산성동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "산성동"
+      ],
+      "elderly_population": 1168,
+      "elderly_ratio": 26.8,
+      "need": 0.4276,
+      "access": 0.1753,
+      "access_medical": 0.1743,
+      "access_welfare": 0.2591,
+      "access_transit": 0.0923,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.3527,
+      "mvi_rank": 25,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.45,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": false,
+        "B": false,
+        "C": false
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "산성동(수정구, 코드 4113160000)의 65세 이상 인구는 1168명, 고령인구 비율 26.8%이다. MVI(수요×접근 결핍)는 0.3527로 50개 동 중 25위이며, 수요 지수 Need 0.4276, 종합 접근성 Access 0.1753이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1743, 복지 0.2591, 대중교통 0.0923). Local Moran 분류는 Not Significant(p=0.45)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "산성동(수정구, 코드 4113160000)의 65세 이상 인구는 1168명, 고령인구 비율 26.8%이다. MVI(수요×접근 결핍)는 0.3527로 50개 동 중 25위이며, 수요 지수 Need 0.4276, 종합 접근성 Access 0.1753이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1743, 복지 0.2591, 대중교통 0.0923). Local Moran 분류는 Not Significant(p=0.45)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113161000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113161000",
+      "region_name": "양지동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "양지동"
+      ],
+      "elderly_population": 2303,
+      "elderly_ratio": 25.99,
+      "need": 0.4892,
+      "access": 0.0554,
+      "access_medical": 0.0714,
+      "access_welfare": 0.0365,
+      "access_transit": 0.0581,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "mvi": 0.4621,
+      "mvi_rank": 17,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.06,
+      "hotspot_class": "unstable",
+      "hotspot_share": 0.7778,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": false,
+        "B": false,
+        "C": false
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "양지동(수정구, 코드 4113161000)의 65세 이상 인구는 2303명, 고령인구 비율 25.99%이다. MVI(수요×접근 결핍)는 0.4621로 50개 동 중 17위이며, 수요 지수 Need 0.4892, 종합 접근성 Access 0.0554이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.0714, 복지 0.0365, 대중교통 0.0581). Local Moran 분류는 Not Significant(p=0.06)이고, 강건성 격자 36개 시나리오 중 77.8%에서 고-고 군집으로 나타나 조건부(불안정) hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "양지동(수정구, 코드 4113161000)의 65세 이상 인구는 2303명, 고령인구 비율 25.99%이다. MVI(수요×접근 결핍)는 0.4621로 50개 동 중 17위이며, 수요 지수 Need 0.4892, 종합 접근성 Access 0.0554이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.0714, 복지 0.0365, 대중교통 0.0581). Local Moran 분류는 Not Significant(p=0.06)이고, 강건성 격자 36개 시나리오 중 77.8%에서 고-고 군집으로 나타나 조건부(불안정) hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113162000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113162000",
+      "region_name": "복정동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "복정동"
+      ],
+      "elderly_population": 1579,
+      "elderly_ratio": 11.31,
+      "need": 0.0652,
+      "access": 0.7181,
+      "access_medical": 1.0,
+      "access_welfare": 0.9969,
+      "access_transit": 0.1575,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.0184,
+      "mvi_rank": 50,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.433,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": false,
+        "B": false,
+        "C": false
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "복정동(수정구, 코드 4113162000)의 65세 이상 인구는 1579명, 고령인구 비율 11.31%이다. MVI(수요×접근 결핍)는 0.0184로 50개 동 중 50위이며, 수요 지수 Need 0.0652, 종합 접근성 Access 0.7181이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 1.0, 복지 0.9969, 대중교통 0.1575). Local Moran 분류는 Not Significant(p=0.433)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "복정동(수정구, 코드 4113162000)의 65세 이상 인구는 1579명, 고령인구 비율 11.31%이다. MVI(수요×접근 결핍)는 0.0184로 50개 동 중 50위이며, 수요 지수 Need 0.0652, 종합 접근성 Access 0.7181이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 1.0, 복지 0.9969, 대중교통 0.1575). Local Moran 분류는 Not Significant(p=0.433)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113162500",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113162500",
+      "region_name": "위례동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "창곡동"
+      ],
+      "elderly_population": 7589,
+      "elderly_ratio": 16.85,
+      "need": 0.6403,
+      "access": 0.6285,
+      "access_medical": 0.8221,
+      "access_welfare": 1.0,
+      "access_transit": 0.0633,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.2379,
+      "mvi_rank": 39,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.374,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": false,
+        "B": false,
+        "C": false
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "위례동(수정구, 코드 4113162500)의 65세 이상 인구는 7589명, 고령인구 비율 16.85%이다. MVI(수요×접근 결핍)는 0.2379로 50개 동 중 39위이며, 수요 지수 Need 0.6403, 종합 접근성 Access 0.6285이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.8221, 복지 1.0, 대중교통 0.0633). Local Moran 분류는 Not Significant(p=0.374)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "위례동(수정구, 코드 4113162500)의 65세 이상 인구는 7589명, 고령인구 비율 16.85%이다. MVI(수요×접근 결핍)는 0.2379로 50개 동 중 39위이며, 수요 지수 Need 0.6403, 종합 접근성 Access 0.6285이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.8221, 복지 1.0, 대중교통 0.0633). Local Moran 분류는 Not Significant(p=0.374)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113163000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113163000",
+      "region_name": "신촌동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "신촌동",
+        "오야동",
+        "심곡동"
+      ],
+      "elderly_population": 678,
+      "elderly_ratio": 12.7,
+      "need": 0.0352,
+      "access": 0.0456,
+      "access_medical": 0.0,
+      "access_welfare": 0.0,
+      "access_transit": 0.1368,
+      "weakest_access": "의료 접근성",
+      "mvi": 0.0336,
+      "mvi_rank": 49,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.367,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": false,
+        "B": false,
+        "C": false
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "신촌동(수정구, 코드 4113163000)의 65세 이상 인구는 678명, 고령인구 비율 12.7%이다. MVI(수요×접근 결핍)는 0.0336로 50개 동 중 49위이며, 수요 지수 Need 0.0352, 종합 접근성 Access 0.0456이다. 접근성 구성요소 중 가장 낮은 것은 의료 접근성이다(정규화 값: 의료 0.0, 복지 0.0, 대중교통 0.1368). Local Moran 분류는 Not Significant(p=0.367)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "신촌동(수정구, 코드 4113163000)의 65세 이상 인구는 678명, 고령인구 비율 12.7%이다. MVI(수요×접근 결핍)는 0.0336로 50개 동 중 49위이며, 수요 지수 Need 0.0352, 종합 접근성 Access 0.0456이다. 접근성 구성요소 중 가장 낮은 것은 의료 접근성이다(정규화 값: 의료 0.0, 복지 0.0, 대중교통 0.1368). Local Moran 분류는 Not Significant(p=0.367)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113164000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113164000",
+      "region_name": "고등동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "고등동",
+        "상적동",
+        "둔전동"
+      ],
+      "elderly_population": 1859,
+      "elderly_ratio": 15.88,
+      "need": 0.2011,
+      "access": 0.0807,
+      "access_medical": 0.0901,
+      "access_welfare": 0.0,
+      "access_transit": 0.1521,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "mvi": 0.1849,
+      "mvi_rank": 43,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.283,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": false,
+        "B": false,
+        "C": false
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "고등동(수정구, 코드 4113164000)의 65세 이상 인구는 1859명, 고령인구 비율 15.88%이다. MVI(수요×접근 결핍)는 0.1849로 50개 동 중 43위이며, 수요 지수 Need 0.2011, 종합 접근성 Access 0.0807이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.0901, 복지 0.0, 대중교통 0.1521). Local Moran 분류는 Not Significant(p=0.283)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "고등동(수정구, 코드 4113164000)의 65세 이상 인구는 1859명, 고령인구 비율 15.88%이다. MVI(수요×접근 결핍)는 0.1849로 50개 동 중 43위이며, 수요 지수 Need 0.2011, 종합 접근성 Access 0.0807이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.0901, 복지 0.0, 대중교통 0.1521). Local Moran 분류는 Not Significant(p=0.283)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113165000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113165000",
+      "region_name": "시흥동",
+      "gu": "수정구",
+      "legal_dongs": [
+        "시흥동",
+        "금토동",
+        "사송동"
+      ],
+      "elderly_population": 778,
+      "elderly_ratio": 21.42,
+      "need": 0.2632,
+      "access": 0.3762,
+      "access_medical": 0.102,
+      "access_welfare": 0.0266,
+      "access_transit": 1.0,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "mvi": 0.1642,
+      "mvi_rank": 46,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.055,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": false,
+        "B": false,
+        "C": false
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "시흥동(수정구, 코드 4113165000)의 65세 이상 인구는 778명, 고령인구 비율 21.42%이다. MVI(수요×접근 결핍)는 0.1642로 50개 동 중 46위이며, 수요 지수 Need 0.2632, 종합 접근성 Access 0.3762이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.102, 복지 0.0266, 대중교통 1.0). Local Moran 분류는 Not Significant(p=0.055)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "시흥동(수정구, 코드 4113165000)의 65세 이상 인구는 778명, 고령인구 비율 21.42%이다. MVI(수요×접근 결핍)는 0.1642로 50개 동 중 46위이며, 수요 지수 Need 0.2632, 종합 접근성 Access 0.3762이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.102, 복지 0.0266, 대중교통 1.0). Local Moran 분류는 Not Significant(p=0.055)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113351000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113351000",
+      "region_name": "성남동",
+      "gu": "중원구",
+      "legal_dongs": [
+        "성남동"
+      ],
+      "elderly_population": 7458,
+      "elderly_ratio": 23.45,
+      "need": 0.7979,
+      "access": 0.1382,
+      "access_medical": 0.2703,
+      "access_welfare": 0.1089,
+      "access_transit": 0.0354,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.6876,
+      "mvi_rank": 1,
+      "local_moran_class": "High-High",
+      "local_moran_p": 0.044,
+      "hotspot_class": "unstable",
+      "hotspot_share": 0.6944,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "성남동(중원구, 코드 4113351000)의 65세 이상 인구는 7458명, 고령인구 비율 23.45%이다. MVI(수요×접근 결핍)는 0.6876로 50개 동 중 1위이며, 수요 지수 Need 0.7979, 종합 접근성 Access 0.1382이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.2703, 복지 0.1089, 대중교통 0.0354). Local Moran 분류는 High-High(p=0.044)이고, 강건성 격자 36개 시나리오 중 69.4%에서 고-고 군집으로 나타나 조건부(불안정) hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "성남동(중원구, 코드 4113351000)의 65세 이상 인구는 7458명, 고령인구 비율 23.45%이다. MVI(수요×접근 결핍)는 0.6876로 50개 동 중 1위이며, 수요 지수 Need 0.7979, 종합 접근성 Access 0.1382이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.2703, 복지 0.1089, 대중교통 0.0354). Local Moran 분류는 High-High(p=0.044)이고, 강건성 격자 36개 시나리오 중 69.4%에서 고-고 군집으로 나타나 조건부(불안정) hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113352500",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113352500",
+      "region_name": "중앙동",
+      "gu": "중원구",
+      "legal_dongs": [
+        "중앙동"
+      ],
+      "elderly_population": 3381,
+      "elderly_ratio": 20.48,
+      "need": 0.4277,
+      "access": 0.1149,
+      "access_medical": 0.1932,
+      "access_welfare": 0.0996,
+      "access_transit": 0.0518,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.3786,
+      "mvi_rank": 24,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.062,
+      "hotspot_class": "none",
+      "hotspot_share": 0.1944,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "중앙동(중원구, 코드 4113352500)의 65세 이상 인구는 3381명, 고령인구 비율 20.48%이다. MVI(수요×접근 결핍)는 0.3786로 50개 동 중 24위이며, 수요 지수 Need 0.4277, 종합 접근성 Access 0.1149이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1932, 복지 0.0996, 대중교통 0.0518). Local Moran 분류는 Not Significant(p=0.062)이고, 강건성 격자 36개 시나리오 중 19.4%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "중앙동(중원구, 코드 4113352500)의 65세 이상 인구는 3381명, 고령인구 비율 20.48%이다. MVI(수요×접근 결핍)는 0.3786로 50개 동 중 24위이며, 수요 지수 Need 0.4277, 종합 접근성 Access 0.1149이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1932, 복지 0.0996, 대중교통 0.0518). Local Moran 분류는 Not Significant(p=0.062)이고, 강건성 격자 36개 시나리오 중 19.4%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113353000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113353000",
+      "region_name": "금광1동",
+      "gu": "중원구",
+      "legal_dongs": [
+        "금광동"
+      ],
+      "elderly_population": 3091,
+      "elderly_ratio": 15.75,
+      "need": 0.287,
+      "access": 0.073,
+      "access_medical": 0.1177,
+      "access_welfare": 0.0335,
+      "access_transit": 0.068,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "mvi": 0.266,
+      "mvi_rank": 36,
+      "local_moran_class": "Low-High",
+      "local_moran_p": 0.029,
+      "hotspot_class": "none",
+      "hotspot_share": 0.1944,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "금광1동(중원구, 코드 4113353000)의 65세 이상 인구는 3091명, 고령인구 비율 15.75%이다. MVI(수요×접근 결핍)는 0.266로 50개 동 중 36위이며, 수요 지수 Need 0.287, 종합 접근성 Access 0.073이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.1177, 복지 0.0335, 대중교통 0.068). Local Moran 분류는 Low-High(p=0.029)이고, 강건성 격자 36개 시나리오 중 19.4%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "금광1동(중원구, 코드 4113353000)의 65세 이상 인구는 3091명, 고령인구 비율 15.75%이다. MVI(수요×접근 결핍)는 0.266로 50개 동 중 36위이며, 수요 지수 Need 0.287, 종합 접근성 Access 0.073이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.1177, 복지 0.0335, 대중교통 0.068). Local Moran 분류는 Low-High(p=0.029)이고, 강건성 격자 36개 시나리오 중 19.4%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113354000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113354000",
+      "region_name": "금광2동",
+      "gu": "중원구",
+      "legal_dongs": [
+        "금광동"
+      ],
+      "elderly_population": 5333,
+      "elderly_ratio": 24.05,
+      "need": 0.6593,
+      "access": 0.059,
+      "access_medical": 0.1085,
+      "access_welfare": 0.0269,
+      "access_transit": 0.0416,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "mvi": 0.6204,
+      "mvi_rank": 5,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.051,
+      "hotspot_class": "stable",
+      "hotspot_share": 0.8056,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "금광2동(중원구, 코드 4113354000)의 65세 이상 인구는 5333명, 고령인구 비율 24.05%이다. MVI(수요×접근 결핍)는 0.6204로 50개 동 중 5위이며, 수요 지수 Need 0.6593, 종합 접근성 Access 0.059이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.1085, 복지 0.0269, 대중교통 0.0416). Local Moran 분류는 Not Significant(p=0.051)이고, 강건성 격자 36개 시나리오 중 80.6%에서 고-고 군집으로 나타나 안정 Robust Hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "금광2동(중원구, 코드 4113354000)의 65세 이상 인구는 5333명, 고령인구 비율 24.05%이다. MVI(수요×접근 결핍)는 0.6204로 50개 동 중 5위이며, 수요 지수 Need 0.6593, 종합 접근성 Access 0.059이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.1085, 복지 0.0269, 대중교통 0.0416). Local Moran 분류는 Not Significant(p=0.051)이고, 강건성 격자 36개 시나리오 중 80.6%에서 고-고 군집으로 나타나 안정 Robust Hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113355000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113355000",
+      "region_name": "은행1동",
+      "gu": "중원구",
+      "legal_dongs": [
+        "은행동"
+      ],
+      "elderly_population": 2009,
+      "elderly_ratio": 21.75,
+      "need": 0.3606,
+      "access": 0.0424,
+      "access_medical": 0.1043,
+      "access_welfare": 0.0141,
+      "access_transit": 0.0088,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.3453,
+      "mvi_rank": 27,
+      "local_moran_class": "Low-High",
+      "local_moran_p": 0.004,
+      "hotspot_class": "unstable",
+      "hotspot_share": 0.6944,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "은행1동(중원구, 코드 4113355000)의 65세 이상 인구는 2009명, 고령인구 비율 21.75%이다. MVI(수요×접근 결핍)는 0.3453로 50개 동 중 27위이며, 수요 지수 Need 0.3606, 종합 접근성 Access 0.0424이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1043, 복지 0.0141, 대중교통 0.0088). Local Moran 분류는 Low-High(p=0.004)이고, 강건성 격자 36개 시나리오 중 69.4%에서 고-고 군집으로 나타나 조건부(불안정) hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "은행1동(중원구, 코드 4113355000)의 65세 이상 인구는 2009명, 고령인구 비율 21.75%이다. MVI(수요×접근 결핍)는 0.3453로 50개 동 중 27위이며, 수요 지수 Need 0.3606, 종합 접근성 Access 0.0424이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1043, 복지 0.0141, 대중교통 0.0088). Local Moran 분류는 Low-High(p=0.004)이고, 강건성 격자 36개 시나리오 중 69.4%에서 고-고 군집으로 나타나 조건부(불안정) hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113356000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113356000",
+      "region_name": "은행2동",
+      "gu": "중원구",
+      "legal_dongs": [
+        "은행동"
+      ],
+      "elderly_population": 4845,
+      "elderly_ratio": 27.29,
+      "need": 0.706,
+      "access": 0.064,
+      "access_medical": 0.1183,
+      "access_welfare": 0.0083,
+      "access_transit": 0.0654,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "mvi": 0.6609,
+      "mvi_rank": 2,
+      "local_moran_class": "High-High",
+      "local_moran_p": 0.018,
+      "hotspot_class": "stable",
+      "hotspot_share": 1.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "은행2동(중원구, 코드 4113356000)의 65세 이상 인구는 4845명, 고령인구 비율 27.29%이다. MVI(수요×접근 결핍)는 0.6609로 50개 동 중 2위이며, 수요 지수 Need 0.706, 종합 접근성 Access 0.064이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.1183, 복지 0.0083, 대중교통 0.0654). Local Moran 분류는 High-High(p=0.018)이고, 강건성 격자 36개 시나리오 중 100.0%에서 고-고 군집으로 나타나 안정 Robust Hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "은행2동(중원구, 코드 4113356000)의 65세 이상 인구는 4845명, 고령인구 비율 27.29%이다. MVI(수요×접근 결핍)는 0.6609로 50개 동 중 2위이며, 수요 지수 Need 0.706, 종합 접근성 Access 0.064이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.1183, 복지 0.0083, 대중교통 0.0654). Local Moran 분류는 High-High(p=0.018)이고, 강건성 격자 36개 시나리오 중 100.0%에서 고-고 군집으로 나타나 안정 Robust Hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113357000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113357000",
+      "region_name": "상대원1동",
+      "gu": "중원구",
+      "legal_dongs": [
+        "상대원동"
+      ],
+      "elderly_population": 5585,
+      "elderly_ratio": 25.11,
+      "need": 0.7044,
+      "access": 0.0776,
+      "access_medical": 0.0675,
+      "access_welfare": 0.0331,
+      "access_transit": 0.1321,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "mvi": 0.6497,
+      "mvi_rank": 3,
+      "local_moran_class": "High-High",
+      "local_moran_p": 0.022,
+      "hotspot_class": "stable",
+      "hotspot_share": 1.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "상대원1동(중원구, 코드 4113357000)의 65세 이상 인구는 5585명, 고령인구 비율 25.11%이다. MVI(수요×접근 결핍)는 0.6497로 50개 동 중 3위이며, 수요 지수 Need 0.7044, 종합 접근성 Access 0.0776이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.0675, 복지 0.0331, 대중교통 0.1321). Local Moran 분류는 High-High(p=0.022)이고, 강건성 격자 36개 시나리오 중 100.0%에서 고-고 군집으로 나타나 안정 Robust Hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "상대원1동(중원구, 코드 4113357000)의 65세 이상 인구는 5585명, 고령인구 비율 25.11%이다. MVI(수요×접근 결핍)는 0.6497로 50개 동 중 3위이며, 수요 지수 Need 0.7044, 종합 접근성 Access 0.0776이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.0675, 복지 0.0331, 대중교통 0.1321). Local Moran 분류는 High-High(p=0.022)이고, 강건성 격자 36개 시나리오 중 100.0%에서 고-고 군집으로 나타나 안정 Robust Hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113358000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113358000",
+      "region_name": "상대원2동",
+      "gu": "중원구",
+      "legal_dongs": [
+        "상대원동"
+      ],
+      "elderly_population": 773,
+      "elderly_ratio": 27.04,
+      "need": 0.4051,
+      "access": 0.1371,
+      "access_medical": 0.0918,
+      "access_welfare": 0.0426,
+      "access_transit": 0.277,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "mvi": 0.3495,
+      "mvi_rank": 26,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.075,
+      "hotspot_class": "none",
+      "hotspot_share": 0.1944,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "상대원2동(중원구, 코드 4113358000)의 65세 이상 인구는 773명, 고령인구 비율 27.04%이다. MVI(수요×접근 결핍)는 0.3495로 50개 동 중 26위이며, 수요 지수 Need 0.4051, 종합 접근성 Access 0.1371이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.0918, 복지 0.0426, 대중교통 0.277). Local Moran 분류는 Not Significant(p=0.075)이고, 강건성 격자 36개 시나리오 중 19.4%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "상대원2동(중원구, 코드 4113358000)의 65세 이상 인구는 773명, 고령인구 비율 27.04%이다. MVI(수요×접근 결핍)는 0.3495로 50개 동 중 26위이며, 수요 지수 Need 0.4051, 종합 접근성 Access 0.1371이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.0918, 복지 0.0426, 대중교통 0.277). Local Moran 분류는 Not Significant(p=0.075)이고, 강건성 격자 36개 시나리오 중 19.4%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113359000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113359000",
+      "region_name": "상대원3동",
+      "gu": "중원구",
+      "legal_dongs": [
+        "상대원동"
+      ],
+      "elderly_population": 3114,
+      "elderly_ratio": 28.27,
+      "need": 0.6056,
+      "access": 0.063,
+      "access_medical": 0.1171,
+      "access_welfare": 0.0401,
+      "access_transit": 0.0319,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.5674,
+      "mvi_rank": 9,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.323,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "상대원3동(중원구, 코드 4113359000)의 65세 이상 인구는 3114명, 고령인구 비율 28.27%이다. MVI(수요×접근 결핍)는 0.5674로 50개 동 중 9위이며, 수요 지수 Need 0.6056, 종합 접근성 Access 0.063이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1171, 복지 0.0401, 대중교통 0.0319). Local Moran 분류는 Not Significant(p=0.323)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "상대원3동(중원구, 코드 4113359000)의 65세 이상 인구는 3114명, 고령인구 비율 28.27%이다. MVI(수요×접근 결핍)는 0.5674로 50개 동 중 9위이며, 수요 지수 Need 0.6056, 종합 접근성 Access 0.063이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1171, 복지 0.0401, 대중교통 0.0319). Local Moran 분류는 Not Significant(p=0.323)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113366000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113366000",
+      "region_name": "하대원동",
+      "gu": "중원구",
+      "legal_dongs": [
+        "하대원동"
+      ],
+      "elderly_population": 4659,
+      "elderly_ratio": 23.9,
+      "need": 0.6068,
+      "access": 0.0805,
+      "access_medical": 0.1321,
+      "access_welfare": 0.0818,
+      "access_transit": 0.0277,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.5579,
+      "mvi_rank": 11,
+      "local_moran_class": "High-High",
+      "local_moran_p": 0.037,
+      "hotspot_class": "unstable",
+      "hotspot_share": 0.3611,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "하대원동(중원구, 코드 4113366000)의 65세 이상 인구는 4659명, 고령인구 비율 23.9%이다. MVI(수요×접근 결핍)는 0.5579로 50개 동 중 11위이며, 수요 지수 Need 0.6068, 종합 접근성 Access 0.0805이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1321, 복지 0.0818, 대중교통 0.0277). Local Moran 분류는 High-High(p=0.037)이고, 강건성 격자 36개 시나리오 중 36.1%에서 고-고 군집으로 나타나 조건부(불안정) hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "하대원동(중원구, 코드 4113366000)의 65세 이상 인구는 4659명, 고령인구 비율 23.9%이다. MVI(수요×접근 결핍)는 0.5579로 50개 동 중 11위이며, 수요 지수 Need 0.6068, 종합 접근성 Access 0.0805이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1321, 복지 0.0818, 대중교통 0.0277). Local Moran 분류는 High-High(p=0.037)이고, 강건성 격자 36개 시나리오 중 36.1%에서 고-고 군집으로 나타나 조건부(불안정) hotspot에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113367000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113367000",
+      "region_name": "도촌동",
+      "gu": "중원구",
+      "legal_dongs": [
+        "여수동",
+        "도촌동",
+        "갈현동"
+      ],
+      "elderly_population": 4932,
+      "elderly_ratio": 19.33,
+      "need": 0.5108,
+      "access": 0.1812,
+      "access_medical": 0.1081,
+      "access_welfare": 0.302,
+      "access_transit": 0.1335,
+      "weakest_access": "의료 접근성",
+      "mvi": 0.4183,
+      "mvi_rank": 21,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.172,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": false,
+        "C": false
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "도촌동(중원구, 코드 4113367000)의 65세 이상 인구는 4932명, 고령인구 비율 19.33%이다. MVI(수요×접근 결핍)는 0.4183로 50개 동 중 21위이며, 수요 지수 Need 0.5108, 종합 접근성 Access 0.1812이다. 접근성 구성요소 중 가장 낮은 것은 의료 접근성이다(정규화 값: 의료 0.1081, 복지 0.302, 대중교통 0.1335). Local Moran 분류는 Not Significant(p=0.172)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "도촌동(중원구, 코드 4113367000)의 65세 이상 인구는 4932명, 고령인구 비율 19.33%이다. MVI(수요×접근 결핍)는 0.4183로 50개 동 중 21위이며, 수요 지수 Need 0.5108, 종합 접근성 Access 0.1812이다. 접근성 구성요소 중 가장 낮은 것은 의료 접근성이다(정규화 값: 의료 0.1081, 복지 0.302, 대중교통 0.1335). Local Moran 분류는 Not Significant(p=0.172)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113551000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113551000",
+      "region_name": "분당동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "분당동"
+      ],
+      "elderly_population": 4559,
+      "elderly_ratio": 18.72,
+      "need": 0.4684,
+      "access": 0.1243,
+      "access_medical": 0.1434,
+      "access_welfare": 0.1254,
+      "access_transit": 0.1043,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.4101,
+      "mvi_rank": 22,
+      "local_moran_class": "High-Low",
+      "local_moran_p": 0.015,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": false,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "분당동(분당구, 코드 4113551000)의 65세 이상 인구는 4559명, 고령인구 비율 18.72%이다. MVI(수요×접근 결핍)는 0.4101로 50개 동 중 22위이며, 수요 지수 Need 0.4684, 종합 접근성 Access 0.1243이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1434, 복지 0.1254, 대중교통 0.1043). Local Moran 분류는 High-Low(p=0.015)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 미포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "분당동(분당구, 코드 4113551000)의 65세 이상 인구는 4559명, 고령인구 비율 18.72%이다. MVI(수요×접근 결핍)는 0.4101로 50개 동 중 22위이며, 수요 지수 Need 0.4684, 종합 접근성 Access 0.1243이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1434, 복지 0.1254, 대중교통 0.1043). Local Moran 분류는 High-Low(p=0.015)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 미포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113552000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113552000",
+      "region_name": "수내1동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "수내동"
+      ],
+      "elderly_population": 2620,
+      "elderly_ratio": 14.66,
+      "need": 0.2253,
+      "access": 0.2274,
+      "access_medical": 0.5162,
+      "access_welfare": 0.0863,
+      "access_transit": 0.0795,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.1741,
+      "mvi_rank": 45,
+      "local_moran_class": "Low-Low",
+      "local_moran_p": 0.044,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "수내1동(분당구, 코드 4113552000)의 65세 이상 인구는 2620명, 고령인구 비율 14.66%이다. MVI(수요×접근 결핍)는 0.1741로 50개 동 중 45위이며, 수요 지수 Need 0.2253, 종합 접근성 Access 0.2274이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.5162, 복지 0.0863, 대중교통 0.0795). Local Moran 분류는 Low-Low(p=0.044)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "수내1동(분당구, 코드 4113552000)의 65세 이상 인구는 2620명, 고령인구 비율 14.66%이다. MVI(수요×접근 결핍)는 0.1741로 50개 동 중 45위이며, 수요 지수 Need 0.2253, 종합 접근성 Access 0.2274이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.5162, 복지 0.0863, 대중교통 0.0795). Local Moran 분류는 Low-Low(p=0.044)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113553000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113553000",
+      "region_name": "수내2동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "수내동"
+      ],
+      "elderly_population": 1281,
+      "elderly_ratio": 12.57,
+      "need": 0.0755,
+      "access": 0.2045,
+      "access_medical": 0.3384,
+      "access_welfare": 0.1179,
+      "access_transit": 0.1571,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "mvi": 0.0601,
+      "mvi_rank": 48,
+      "local_moran_class": "Low-Low",
+      "local_moran_p": 0.02,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "수내2동(분당구, 코드 4113553000)의 65세 이상 인구는 1281명, 고령인구 비율 12.57%이다. MVI(수요×접근 결핍)는 0.0601로 50개 동 중 48위이며, 수요 지수 Need 0.0755, 종합 접근성 Access 0.2045이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.3384, 복지 0.1179, 대중교통 0.1571). Local Moran 분류는 Low-Low(p=0.02)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "수내2동(분당구, 코드 4113553000)의 65세 이상 인구는 1281명, 고령인구 비율 12.57%이다. MVI(수요×접근 결핍)는 0.0601로 50개 동 중 48위이며, 수요 지수 Need 0.0755, 종합 접근성 Access 0.2045이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.3384, 복지 0.1179, 대중교통 0.1571). Local Moran 분류는 Low-Low(p=0.02)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113554000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113554000",
+      "region_name": "수내3동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "수내동"
+      ],
+      "elderly_population": 1663,
+      "elderly_ratio": 12.65,
+      "need": 0.1052,
+      "access": 0.1805,
+      "access_medical": 0.3045,
+      "access_welfare": 0.1137,
+      "access_transit": 0.1234,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "mvi": 0.0862,
+      "mvi_rank": 47,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.078,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "수내3동(분당구, 코드 4113554000)의 65세 이상 인구는 1663명, 고령인구 비율 12.65%이다. MVI(수요×접근 결핍)는 0.0862로 50개 동 중 47위이며, 수요 지수 Need 0.1052, 종합 접근성 Access 0.1805이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.3045, 복지 0.1137, 대중교통 0.1234). Local Moran 분류는 Not Significant(p=0.078)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "수내3동(분당구, 코드 4113554000)의 65세 이상 인구는 1663명, 고령인구 비율 12.65%이다. MVI(수요×접근 결핍)는 0.0862로 50개 동 중 47위이며, 수요 지수 Need 0.1052, 종합 접근성 Access 0.1805이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.3045, 복지 0.1137, 대중교통 0.1234). Local Moran 분류는 Not Significant(p=0.078)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113554500",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113554500",
+      "region_name": "정자동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "정자동"
+      ],
+      "elderly_population": 2465,
+      "elderly_ratio": 17.93,
+      "need": 0.2969,
+      "access": 0.2185,
+      "access_medical": 0.4136,
+      "access_welfare": 0.1445,
+      "access_transit": 0.0973,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.232,
+      "mvi_rank": 40,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.074,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "정자동(분당구, 코드 4113554500)의 65세 이상 인구는 2465명, 고령인구 비율 17.93%이다. MVI(수요×접근 결핍)는 0.232로 50개 동 중 40위이며, 수요 지수 Need 0.2969, 종합 접근성 Access 0.2185이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.4136, 복지 0.1445, 대중교통 0.0973). Local Moran 분류는 Not Significant(p=0.074)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "정자동(분당구, 코드 4113554500)의 65세 이상 인구는 2465명, 고령인구 비율 17.93%이다. MVI(수요×접근 결핍)는 0.232로 50개 동 중 40위이며, 수요 지수 Need 0.2969, 종합 접근성 Access 0.2185이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.4136, 복지 0.1445, 대중교통 0.0973). Local Moran 분류는 Not Significant(p=0.074)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113555000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113555000",
+      "region_name": "정자1동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "정자동"
+      ],
+      "elderly_population": 4514,
+      "elderly_ratio": 14.86,
+      "need": 0.3674,
+      "access": 0.1957,
+      "access_medical": 0.4609,
+      "access_welfare": 0.0968,
+      "access_transit": 0.0294,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.2955,
+      "mvi_rank": 34,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.152,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "정자1동(분당구, 코드 4113555000)의 65세 이상 인구는 4514명, 고령인구 비율 14.86%이다. MVI(수요×접근 결핍)는 0.2955로 50개 동 중 34위이며, 수요 지수 Need 0.3674, 종합 접근성 Access 0.1957이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.4609, 복지 0.0968, 대중교통 0.0294). Local Moran 분류는 Not Significant(p=0.152)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "정자1동(분당구, 코드 4113555000)의 65세 이상 인구는 4514명, 고령인구 비율 14.86%이다. MVI(수요×접근 결핍)는 0.2955로 50개 동 중 34위이며, 수요 지수 Need 0.3674, 종합 접근성 Access 0.1957이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.4609, 복지 0.0968, 대중교통 0.0294). Local Moran 분류는 Not Significant(p=0.152)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113556000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113556000",
+      "region_name": "정자2동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "정자동"
+      ],
+      "elderly_population": 2589,
+      "elderly_ratio": 21.3,
+      "need": 0.3912,
+      "access": 0.1236,
+      "access_medical": 0.2271,
+      "access_welfare": 0.1212,
+      "access_transit": 0.0223,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.3428,
+      "mvi_rank": 28,
+      "local_moran_class": "Low-Low",
+      "local_moran_p": 0.001,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "정자2동(분당구, 코드 4113556000)의 65세 이상 인구는 2589명, 고령인구 비율 21.3%이다. MVI(수요×접근 결핍)는 0.3428로 50개 동 중 28위이며, 수요 지수 Need 0.3912, 종합 접근성 Access 0.1236이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.2271, 복지 0.1212, 대중교통 0.0223). Local Moran 분류는 Low-Low(p=0.001)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "정자2동(분당구, 코드 4113556000)의 65세 이상 인구는 2589명, 고령인구 비율 21.3%이다. MVI(수요×접근 결핍)는 0.3428로 50개 동 중 28위이며, 수요 지수 Need 0.3912, 종합 접근성 Access 0.1236이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.2271, 복지 0.1212, 대중교통 0.0223). Local Moran 분류는 Low-Low(p=0.001)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113557000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113557000",
+      "region_name": "정자3동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "정자동"
+      ],
+      "elderly_population": 2631,
+      "elderly_ratio": 15.99,
+      "need": 0.2598,
+      "access": 0.1525,
+      "access_medical": 0.2139,
+      "access_welfare": 0.1279,
+      "access_transit": 0.1157,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.2202,
+      "mvi_rank": 41,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.359,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "정자3동(분당구, 코드 4113557000)의 65세 이상 인구는 2631명, 고령인구 비율 15.99%이다. MVI(수요×접근 결핍)는 0.2202로 50개 동 중 41위이며, 수요 지수 Need 0.2598, 종합 접근성 Access 0.1525이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.2139, 복지 0.1279, 대중교통 0.1157). Local Moran 분류는 Not Significant(p=0.359)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "정자3동(분당구, 코드 4113557000)의 65세 이상 인구는 2631명, 고령인구 비율 15.99%이다. MVI(수요×접근 결핍)는 0.2202로 50개 동 중 41위이며, 수요 지수 Need 0.2598, 종합 접근성 Access 0.1525이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.2139, 복지 0.1279, 대중교통 0.1157). Local Moran 분류는 Not Significant(p=0.359)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113558000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113558000",
+      "region_name": "서현1동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "서현동",
+        "율동"
+      ],
+      "elderly_population": 4653,
+      "elderly_ratio": 15.27,
+      "need": 0.3878,
+      "access": 0.2071,
+      "access_medical": 0.3818,
+      "access_welfare": 0.1291,
+      "access_transit": 0.1105,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.3075,
+      "mvi_rank": 31,
+      "local_moran_class": "Low-Low",
+      "local_moran_p": 0.044,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "서현1동(분당구, 코드 4113558000)의 65세 이상 인구는 4653명, 고령인구 비율 15.27%이다. MVI(수요×접근 결핍)는 0.3075로 50개 동 중 31위이며, 수요 지수 Need 0.3878, 종합 접근성 Access 0.2071이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.3818, 복지 0.1291, 대중교통 0.1105). Local Moran 분류는 Low-Low(p=0.044)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "서현1동(분당구, 코드 4113558000)의 65세 이상 인구는 4653명, 고령인구 비율 15.27%이다. MVI(수요×접근 결핍)는 0.3075로 50개 동 중 31위이며, 수요 지수 Need 0.3878, 종합 접근성 Access 0.2071이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.3818, 복지 0.1291, 대중교통 0.1105). Local Moran 분류는 Low-Low(p=0.044)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113559000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113559000",
+      "region_name": "서현2동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "서현동"
+      ],
+      "elderly_population": 2947,
+      "elderly_ratio": 17.17,
+      "need": 0.3125,
+      "access": 0.1541,
+      "access_medical": 0.2349,
+      "access_welfare": 0.1502,
+      "access_transit": 0.0772,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.2644,
+      "mvi_rank": 37,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.124,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": false,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "서현2동(분당구, 코드 4113559000)의 65세 이상 인구는 2947명, 고령인구 비율 17.17%이다. MVI(수요×접근 결핍)는 0.2644로 50개 동 중 37위이며, 수요 지수 Need 0.3125, 종합 접근성 Access 0.1541이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.2349, 복지 0.1502, 대중교통 0.0772). Local Moran 분류는 Not Significant(p=0.124)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 미포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "서현2동(분당구, 코드 4113559000)의 65세 이상 인구는 2947명, 고령인구 비율 17.17%이다. MVI(수요×접근 결핍)는 0.2644로 50개 동 중 37위이며, 수요 지수 Need 0.3125, 종합 접근성 Access 0.1541이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.2349, 복지 0.1502, 대중교통 0.0772). Local Moran 분류는 Not Significant(p=0.124)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 미포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113560000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113560000",
+      "region_name": "이매1동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "이매동"
+      ],
+      "elderly_population": 4132,
+      "elderly_ratio": 16.91,
+      "need": 0.3917,
+      "access": 0.2375,
+      "access_medical": 0.3961,
+      "access_welfare": 0.2287,
+      "access_transit": 0.0877,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.2986,
+      "mvi_rank": 33,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.41,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "이매1동(분당구, 코드 4113560000)의 65세 이상 인구는 4132명, 고령인구 비율 16.91%이다. MVI(수요×접근 결핍)는 0.2986로 50개 동 중 33위이며, 수요 지수 Need 0.3917, 종합 접근성 Access 0.2375이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.3961, 복지 0.2287, 대중교통 0.0877). Local Moran 분류는 Not Significant(p=0.41)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "이매1동(분당구, 코드 4113560000)의 65세 이상 인구는 4132명, 고령인구 비율 16.91%이다. MVI(수요×접근 결핍)는 0.2986로 50개 동 중 33위이며, 수요 지수 Need 0.3917, 종합 접근성 Access 0.2375이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.3961, 복지 0.2287, 대중교통 0.0877). Local Moran 분류는 Not Significant(p=0.41)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113561000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113561000",
+      "region_name": "이매2동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "이매동"
+      ],
+      "elderly_population": 2502,
+      "elderly_ratio": 19.63,
+      "need": 0.3426,
+      "access": 0.2569,
+      "access_medical": 0.396,
+      "access_welfare": 0.3396,
+      "access_transit": 0.035,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.2546,
+      "mvi_rank": 38,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.165,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "이매2동(분당구, 코드 4113561000)의 65세 이상 인구는 2502명, 고령인구 비율 19.63%이다. MVI(수요×접근 결핍)는 0.2546로 50개 동 중 38위이며, 수요 지수 Need 0.3426, 종합 접근성 Access 0.2569이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.396, 복지 0.3396, 대중교통 0.035). Local Moran 분류는 Not Significant(p=0.165)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "이매2동(분당구, 코드 4113561000)의 65세 이상 인구는 2502명, 고령인구 비율 19.63%이다. MVI(수요×접근 결핍)는 0.2546로 50개 동 중 38위이며, 수요 지수 Need 0.3426, 종합 접근성 Access 0.2569이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.396, 복지 0.3396, 대중교통 0.035). Local Moran 분류는 Not Significant(p=0.165)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113562000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113562000",
+      "region_name": "야탑1동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "야탑동"
+      ],
+      "elderly_population": 3586,
+      "elderly_ratio": 21.81,
+      "need": 0.4762,
+      "access": 0.2914,
+      "access_medical": 0.3452,
+      "access_welfare": 0.4547,
+      "access_transit": 0.0743,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.3375,
+      "mvi_rank": 29,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.252,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "야탑1동(분당구, 코드 4113562000)의 65세 이상 인구는 3586명, 고령인구 비율 21.81%이다. MVI(수요×접근 결핍)는 0.3375로 50개 동 중 29위이며, 수요 지수 Need 0.4762, 종합 접근성 Access 0.2914이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.3452, 복지 0.4547, 대중교통 0.0743). Local Moran 분류는 Not Significant(p=0.252)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "야탑1동(분당구, 코드 4113562000)의 65세 이상 인구는 3586명, 고령인구 비율 21.81%이다. MVI(수요×접근 결핍)는 0.3375로 50개 동 중 29위이며, 수요 지수 Need 0.4762, 종합 접근성 Access 0.2914이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.3452, 복지 0.4547, 대중교통 0.0743). Local Moran 분류는 Not Significant(p=0.252)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113563000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113563000",
+      "region_name": "야탑2동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "야탑동"
+      ],
+      "elderly_population": 3640,
+      "elderly_ratio": 23.53,
+      "need": 0.5237,
+      "access": 0.2555,
+      "access_medical": 0.3898,
+      "access_welfare": 0.3569,
+      "access_transit": 0.0199,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.3899,
+      "mvi_rank": 23,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.209,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "야탑2동(분당구, 코드 4113563000)의 65세 이상 인구는 3640명, 고령인구 비율 23.53%이다. MVI(수요×접근 결핍)는 0.3899로 50개 동 중 23위이며, 수요 지수 Need 0.5237, 종합 접근성 Access 0.2555이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.3898, 복지 0.3569, 대중교통 0.0199). Local Moran 분류는 Not Significant(p=0.209)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "야탑2동(분당구, 코드 4113563000)의 65세 이상 인구는 3640명, 고령인구 비율 23.53%이다. MVI(수요×접근 결핍)는 0.3899로 50개 동 중 23위이며, 수요 지수 Need 0.5237, 종합 접근성 Access 0.2555이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.3898, 복지 0.3569, 대중교통 0.0199). Local Moran 분류는 Not Significant(p=0.209)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113564000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113564000",
+      "region_name": "야탑3동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "야탑동"
+      ],
+      "elderly_population": 5737,
+      "elderly_ratio": 21.65,
+      "need": 0.6278,
+      "access": 0.248,
+      "access_medical": 0.204,
+      "access_welfare": 0.4265,
+      "access_transit": 0.1136,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.4721,
+      "mvi_rank": 15,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.379,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "야탑3동(분당구, 코드 4113564000)의 65세 이상 인구는 5737명, 고령인구 비율 21.65%이다. MVI(수요×접근 결핍)는 0.4721로 50개 동 중 15위이며, 수요 지수 Need 0.6278, 종합 접근성 Access 0.248이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.204, 복지 0.4265, 대중교통 0.1136). Local Moran 분류는 Not Significant(p=0.379)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "야탑3동(분당구, 코드 4113564000)의 65세 이상 인구는 5737명, 고령인구 비율 21.65%이다. MVI(수요×접근 결핍)는 0.4721로 50개 동 중 15위이며, 수요 지수 Need 0.6278, 종합 접근성 Access 0.248이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.204, 복지 0.4265, 대중교통 0.1136). Local Moran 분류는 Not Significant(p=0.379)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113565000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113565000",
+      "region_name": "판교동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "판교동"
+      ],
+      "elderly_population": 3207,
+      "elderly_ratio": 12.22,
+      "need": 0.206,
+      "access": 0.122,
+      "access_medical": 0.2149,
+      "access_welfare": 0.0266,
+      "access_transit": 0.1246,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "mvi": 0.1809,
+      "mvi_rank": 44,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.161,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": false,
+        "B": false,
+        "C": false
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "판교동(분당구, 코드 4113565000)의 65세 이상 인구는 3207명, 고령인구 비율 12.22%이다. MVI(수요×접근 결핍)는 0.1809로 50개 동 중 44위이며, 수요 지수 Need 0.206, 종합 접근성 Access 0.122이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.2149, 복지 0.0266, 대중교통 0.1246). Local Moran 분류는 Not Significant(p=0.161)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "판교동(분당구, 코드 4113565000)의 65세 이상 인구는 3207명, 고령인구 비율 12.22%이다. MVI(수요×접근 결핍)는 0.1809로 50개 동 중 44위이며, 수요 지수 Need 0.206, 종합 접근성 Access 0.122이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.2149, 복지 0.0266, 대중교통 0.1246). Local Moran 분류는 Not Significant(p=0.161)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113565500",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113565500",
+      "region_name": "삼평동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "삼평동"
+      ],
+      "elderly_population": 3356,
+      "elderly_ratio": 14.31,
+      "need": 0.2697,
+      "access": 0.2996,
+      "access_medical": 0.47,
+      "access_welfare": 0.2083,
+      "access_transit": 0.2204,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "mvi": 0.1889,
+      "mvi_rank": 42,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.067,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "삼평동(분당구, 코드 4113565500)의 65세 이상 인구는 3356명, 고령인구 비율 14.31%이다. MVI(수요×접근 결핍)는 0.1889로 50개 동 중 42위이며, 수요 지수 Need 0.2697, 종합 접근성 Access 0.2996이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.47, 복지 0.2083, 대중교통 0.2204). Local Moran 분류는 Not Significant(p=0.067)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "삼평동(분당구, 코드 4113565500)의 65세 이상 인구는 3356명, 고령인구 비율 14.31%이다. MVI(수요×접근 결핍)는 0.1889로 50개 동 중 42위이며, 수요 지수 Need 0.2697, 종합 접근성 Access 0.2996이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.47, 복지 0.2083, 대중교통 0.2204). Local Moran 분류는 Not Significant(p=0.067)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113565700",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113565700",
+      "region_name": "백현동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "백현동"
+      ],
+      "elderly_population": 4348,
+      "elderly_ratio": 16.68,
+      "need": 0.4015,
+      "access": 0.2024,
+      "access_medical": 0.4363,
+      "access_welfare": 0.0984,
+      "access_transit": 0.0726,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.3202,
+      "mvi_rank": 30,
+      "local_moran_class": "Low-Low",
+      "local_moran_p": 0.015,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": false,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "백현동(분당구, 코드 4113565700)의 65세 이상 인구는 4348명, 고령인구 비율 16.68%이다. MVI(수요×접근 결핍)는 0.3202로 50개 동 중 30위이며, 수요 지수 Need 0.4015, 종합 접근성 Access 0.2024이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.4363, 복지 0.0984, 대중교통 0.0726). Local Moran 분류는 Low-Low(p=0.015)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "백현동(분당구, 코드 4113565700)의 65세 이상 인구는 4348명, 고령인구 비율 16.68%이다. MVI(수요×접근 결핍)는 0.3202로 50개 동 중 30위이며, 수요 지수 Need 0.4015, 종합 접근성 Access 0.2024이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.4363, 복지 0.0984, 대중교통 0.0726). Local Moran 분류는 Low-Low(p=0.015)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113566200",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113566200",
+      "region_name": "금곡동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "금곡동",
+        "궁내동"
+      ],
+      "elderly_population": 5933,
+      "elderly_ratio": 22.3,
+      "need": 0.6584,
+      "access": 0.1299,
+      "access_medical": 0.2771,
+      "access_welfare": 0.0662,
+      "access_transit": 0.0464,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.5729,
+      "mvi_rank": 8,
+      "local_moran_class": "High-Low",
+      "local_moran_p": 0.043,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "금곡동(분당구, 코드 4113566200)의 65세 이상 인구는 5933명, 고령인구 비율 22.3%이다. MVI(수요×접근 결핍)는 0.5729로 50개 동 중 8위이며, 수요 지수 Need 0.6584, 종합 접근성 Access 0.1299이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.2771, 복지 0.0662, 대중교통 0.0464). Local Moran 분류는 High-Low(p=0.043)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "금곡동(분당구, 코드 4113566200)의 65세 이상 인구는 5933명, 고령인구 비율 22.3%이다. MVI(수요×접근 결핍)는 0.5729로 50개 동 중 8위이며, 수요 지수 Need 0.6584, 종합 접근성 Access 0.1299이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.2771, 복지 0.0662, 대중교통 0.0464). Local Moran 분류는 High-Low(p=0.043)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113566500",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113566500",
+      "region_name": "구미1동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "동원동",
+        "구미동"
+      ],
+      "elderly_population": 2987,
+      "elderly_ratio": 18.55,
+      "need": 0.3503,
+      "access": 0.1645,
+      "access_medical": 0.2765,
+      "access_welfare": 0.086,
+      "access_transit": 0.1311,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "mvi": 0.2927,
+      "mvi_rank": 35,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.284,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "구미1동(분당구, 코드 4113566500)의 65세 이상 인구는 2987명, 고령인구 비율 18.55%이다. MVI(수요×접근 결핍)는 0.2927로 50개 동 중 35위이며, 수요 지수 Need 0.3503, 종합 접근성 Access 0.1645이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.2765, 복지 0.086, 대중교통 0.1311). Local Moran 분류는 Not Significant(p=0.284)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "구미1동(분당구, 코드 4113566500)의 65세 이상 인구는 2987명, 고령인구 비율 18.55%이다. MVI(수요×접근 결핍)는 0.2927로 50개 동 중 35위이며, 수요 지수 Need 0.3503, 종합 접근성 Access 0.1645이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.2765, 복지 0.086, 대중교통 0.1311). Local Moran 분류는 Not Significant(p=0.284)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113567000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113567000",
+      "region_name": "구미동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "구미동"
+      ],
+      "elderly_population": 6337,
+      "elderly_ratio": 22.81,
+      "need": 0.7006,
+      "access": 0.1444,
+      "access_medical": 0.1899,
+      "access_welfare": 0.1386,
+      "access_transit": 0.1048,
+      "weakest_access": "대중교통 접근성",
+      "mvi": 0.5994,
+      "mvi_rank": 6,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.193,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": true,
+        "B": true,
+        "C": true
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "구미동(분당구, 코드 4113567000)의 65세 이상 인구는 6337명, 고령인구 비율 22.81%이다. MVI(수요×접근 결핍)는 0.5994로 50개 동 중 6위이며, 수요 지수 Need 0.7006, 종합 접근성 Access 0.1444이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1899, 복지 0.1386, 대중교통 0.1048). Local Moran 분류는 Not Significant(p=0.193)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "구미동(분당구, 코드 4113567000)의 65세 이상 인구는 6337명, 고령인구 비율 22.81%이다. MVI(수요×접근 결핍)는 0.5994로 50개 동 중 6위이며, 수요 지수 Need 0.7006, 종합 접근성 Access 0.1444이다. 접근성 구성요소 중 가장 낮은 것은 대중교통 접근성이다(정규화 값: 의료 0.1899, 복지 0.1386, 대중교통 0.1048). Local Moran 분류는 Not Significant(p=0.193)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 포함, 정책 B 포함, 정책 C 포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "dong",
+    "id": "4113568000",
+    "evidence": {
+      "kind": "dong",
+      "region_id": "4113568000",
+      "region_name": "운중동",
+      "gu": "분당구",
+      "legal_dongs": [
+        "운중동",
+        "대장동",
+        "석운동",
+        "하산운동"
+      ],
+      "elderly_population": 4836,
+      "elderly_ratio": 12.45,
+      "need": 0.3297,
+      "access": 0.071,
+      "access_medical": 0.0734,
+      "access_welfare": 0.0,
+      "access_transit": 0.1395,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "mvi": 0.3063,
+      "mvi_rank": 32,
+      "local_moran_class": "Not Significant",
+      "local_moran_p": 0.216,
+      "hotspot_class": "none",
+      "hotspot_share": 0.0,
+      "n_robust_scenarios": 36,
+      "covered_by_policy": {
+        "A": false,
+        "B": false,
+        "C": false
+      },
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ],
+      "method_version": "mobilens-2.0"
+    },
+    "generator": "template",
+    "final_text": "운중동(분당구, 코드 4113568000)의 65세 이상 인구는 4836명, 고령인구 비율 12.45%이다. MVI(수요×접근 결핍)는 0.3063로 50개 동 중 32위이며, 수요 지수 Need 0.3297, 종합 접근성 Access 0.071이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.0734, 복지 0.0, 대중교통 0.1395). Local Moran 분류는 Not Significant(p=0.216)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "운중동(분당구, 코드 4113568000)의 65세 이상 인구는 4836명, 고령인구 비율 12.45%이다. MVI(수요×접근 결핍)는 0.3063로 50개 동 중 32위이며, 수요 지수 Need 0.3297, 종합 접근성 Access 0.071이다. 접근성 구성요소 중 가장 낮은 것은 복지(주야간보호) 접근성이다(정규화 값: 의료 0.0734, 복지 0.0, 대중교통 0.1395). Local Moran 분류는 Not Significant(p=0.216)이고, 강건성 격자 36개 시나리오 중 0.0%에서 고-고 군집으로 나타나 hotspot 아님에 해당한다. 신규 거점 커버 여부는 정책 A 미포함, 정책 B 미포함, 정책 C 미포함이다. 본 수치는 공개 집계자료로 계산한 잠재 접근성 지표이며 인과관계를 뜻하지 않는다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "policy",
+    "id": "A",
+    "evidence": {
+      "kind": "policy",
+      "policy": "A",
+      "name": "A_공공효과우선",
+      "goal": "제한된 거점으로 취약 고령수요 커버 최대",
+      "kpis": {
+        "n_new_stops": 5,
+        "vuln_coverage": 0.8653,
+        "elderly_coverage": 0.7719,
+        "covered_elderly": 136653,
+        "min_gu_coverage": 0.7745,
+        "total_vehicle_km": 21.47,
+        "max_cycle_min": 60.3,
+        "vehicles_used": 3,
+        "vuln_coverage_per_10km": 0.403
+      },
+      "compare": {
+        "A": {
+          "vuln_coverage": 0.8653,
+          "min_gu_coverage": 0.7745,
+          "total_vehicle_km": 21.47,
+          "vuln_coverage_per_10km": 0.403
+        },
+        "B": {
+          "vuln_coverage": 0.8576,
+          "min_gu_coverage": 0.8271,
+          "total_vehicle_km": 20.13,
+          "vuln_coverage_per_10km": 0.426
+        },
+        "C": {
+          "vuln_coverage": 0.8714,
+          "min_gu_coverage": 0.7534,
+          "total_vehicle_km": 17.3,
+          "vuln_coverage_per_10km": 0.5037
+        }
+      },
+      "allowed_places": [
+        "금곡동",
+        "금광2동",
+        "분당구",
+        "서현1동",
+        "수정구",
+        "신흥1동",
+        "야탑3동",
+        "중원구"
+      ],
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    "generator": "template",
+    "final_text": "정책 A(공공효과우선)의 목표는 '제한된 거점으로 취약 고령수요 커버 최대'이다. 신규 거점 5개로 취약 고령수요의 86.5%(고령인구 136653명)를 커버하며, 구별 최소 커버율은 0.7745이다. 구 보건소 차량 3대가 1회 순환에 총 21.47km를 운행하고 최대 순환시간은 60.3분이며, 운행 10km당 취약수요 커버율은 0.403이다. 같은 KPI의 취약수요 커버율은 정책 A 0.8653, 정책 B 0.8576, 정책 C 0.8714이며, 우열 판단은 의사결정자의 몫이다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "정책 A(공공효과우선)의 목표는 '제한된 거점으로 취약 고령수요 커버 최대'이다. 신규 거점 5개로 취약 고령수요의 86.5%(고령인구 136653명)를 커버하며, 구별 최소 커버율은 0.7745이다. 구 보건소 차량 3대가 1회 순환에 총 21.47km를 운행하고 최대 순환시간은 60.3분이며, 운행 10km당 취약수요 커버율은 0.403이다. 같은 KPI의 취약수요 커버율은 정책 A 0.8653, 정책 B 0.8576, 정책 C 0.8714이며, 우열 판단은 의사결정자의 몫이다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "policy",
+    "id": "B",
+    "evidence": {
+      "kind": "policy",
+      "policy": "B",
+      "name": "B_형평성우선",
+      "goal": "3개 구 중 가장 낮은 구의 취약커버율을 최대 (지역 균형)",
+      "kpis": {
+        "n_new_stops": 5,
+        "vuln_coverage": 0.8576,
+        "elderly_coverage": 0.7942,
+        "covered_elderly": 140598,
+        "min_gu_coverage": 0.8271,
+        "total_vehicle_km": 20.13,
+        "max_cycle_min": 56.3,
+        "vehicles_used": 3,
+        "vuln_coverage_per_10km": 0.426
+      },
+      "compare": {
+        "A": {
+          "vuln_coverage": 0.8653,
+          "min_gu_coverage": 0.7745,
+          "total_vehicle_km": 21.47,
+          "vuln_coverage_per_10km": 0.403
+        },
+        "B": {
+          "vuln_coverage": 0.8576,
+          "min_gu_coverage": 0.8271,
+          "total_vehicle_km": 20.13,
+          "vuln_coverage_per_10km": 0.426
+        },
+        "C": {
+          "vuln_coverage": 0.8714,
+          "min_gu_coverage": 0.7534,
+          "total_vehicle_km": 17.3,
+          "vuln_coverage_per_10km": 0.5037
+        }
+      },
+      "allowed_places": [
+        "금곡동",
+        "금광2동",
+        "분당구",
+        "수내1동",
+        "수정구",
+        "신흥1동",
+        "이매1동",
+        "중원구"
+      ],
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    "generator": "template",
+    "final_text": "정책 B(형평성우선)의 목표는 '3개 구 중 가장 낮은 구의 취약커버율을 최대 (지역 균형)'이다. 신규 거점 5개로 취약 고령수요의 85.8%(고령인구 140598명)를 커버하며, 구별 최소 커버율은 0.8271이다. 구 보건소 차량 3대가 1회 순환에 총 20.13km를 운행하고 최대 순환시간은 56.3분이며, 운행 10km당 취약수요 커버율은 0.426이다. 같은 KPI의 취약수요 커버율은 정책 A 0.8653, 정책 B 0.8576, 정책 C 0.8714이며, 우열 판단은 의사결정자의 몫이다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "정책 B(형평성우선)의 목표는 '3개 구 중 가장 낮은 구의 취약커버율을 최대 (지역 균형)'이다. 신규 거점 5개로 취약 고령수요의 85.8%(고령인구 140598명)를 커버하며, 구별 최소 커버율은 0.8271이다. 구 보건소 차량 3대가 1회 순환에 총 20.13km를 운행하고 최대 순환시간은 56.3분이며, 운행 10km당 취약수요 커버율은 0.426이다. 같은 KPI의 취약수요 커버율은 정책 A 0.8653, 정책 B 0.8576, 정책 C 0.8714이며, 우열 판단은 의사결정자의 몫이다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  },
+  {
+    "kind": "policy",
+    "id": "C",
+    "evidence": {
+      "kind": "policy",
+      "policy": "C",
+      "name": "C_운영효율우선",
+      "goal": "정책 A와 같은 공공효과를 가장 짧은 차량 운행거리로",
+      "kpis": {
+        "n_new_stops": 6,
+        "vuln_coverage": 0.8714,
+        "elderly_coverage": 0.8171,
+        "covered_elderly": 144660,
+        "min_gu_coverage": 0.7534,
+        "total_vehicle_km": 17.3,
+        "max_cycle_min": 56.7,
+        "vehicles_used": 3,
+        "vuln_coverage_per_10km": 0.5037
+      },
+      "compare": {
+        "A": {
+          "vuln_coverage": 0.8653,
+          "min_gu_coverage": 0.7745,
+          "total_vehicle_km": 21.47,
+          "vuln_coverage_per_10km": 0.403
+        },
+        "B": {
+          "vuln_coverage": 0.8576,
+          "min_gu_coverage": 0.8271,
+          "total_vehicle_km": 20.13,
+          "vuln_coverage_per_10km": 0.426
+        },
+        "C": {
+          "vuln_coverage": 0.8714,
+          "min_gu_coverage": 0.7534,
+          "total_vehicle_km": 17.3,
+          "vuln_coverage_per_10km": 0.5037
+        }
+      },
+      "allowed_places": [
+        "금곡동",
+        "금광2동",
+        "분당구",
+        "수내3동",
+        "수정구",
+        "신흥3동",
+        "이매1동",
+        "중원구"
+      ],
+      "policies_available": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    "generator": "template",
+    "final_text": "정책 C(운영효율우선)의 목표는 '정책 A와 같은 공공효과를 가장 짧은 차량 운행거리로'이다. 신규 거점 6개로 취약 고령수요의 87.1%(고령인구 144660명)를 커버하며, 구별 최소 커버율은 0.7534이다. 구 보건소 차량 3대가 1회 순환에 총 17.3km를 운행하고 최대 순환시간은 56.7분이며, 운행 10km당 취약수요 커버율은 0.5037이다. 같은 KPI의 취약수요 커버율은 정책 A 0.8653, 정책 B 0.8576, 정책 C 0.8714이며, 우열 판단은 의사결정자의 몫이다.",
+    "attempts": [
+      {
+        "generator": "template",
+        "text": "정책 C(운영효율우선)의 목표는 '정책 A와 같은 공공효과를 가장 짧은 차량 운행거리로'이다. 신규 거점 6개로 취약 고령수요의 87.1%(고령인구 144660명)를 커버하며, 구별 최소 커버율은 0.7534이다. 구 보건소 차량 3대가 1회 순환에 총 17.3km를 운행하고 최대 순환시간은 56.7분이며, 운행 10km당 취약수요 커버율은 0.5037이다. 같은 KPI의 취약수요 커버율은 정책 A 0.8653, 정책 B 0.8576, 정책 C 0.8714이며, 우열 판단은 의사결정자의 몫이다.",
+        "FINAL": "PASS",
+        "violations": []
+      }
+    ],
+    "llm_error": null
+  }
+]

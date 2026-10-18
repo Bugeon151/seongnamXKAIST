@@ -1,0 +1,300 @@
+{
+  "project": "MobiLens Seongnam",
+  "method_version": "mobilens-2.0",
+  "started_at": "2026-10-04T15:20:39+09:00",
+  "finished_at": "2026-10-04T15:20:50+09:00",
+  "git_sha": "b555554a5f8d92a60cde77e4cc9507ecb77c95bb",
+  "code_modified_since_commit": false,
+  "modified_paths": [],
+  "python": "3.13.15",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "packages": {
+    "pandas": "3.0.6",
+    "numpy": "2.5.3",
+    "geopandas": "1.2.0",
+    "shapely": "2.1.2",
+    "pyproj": "3.8.0",
+    "pyogrio": "0.12.1",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.8.0",
+    "libpysal": "4.15.0",
+    "esda": "2.10.0",
+    "pulp": "3.3.2",
+    "matplotlib": "3.11.2",
+    "folium": "0.20.0",
+    "jsonschema": "4.26.0"
+  },
+  "seeds": {
+    "MORAN_SEED": 42,
+    "RANDOM_SEED": 42
+  },
+  "parameters": {
+    "ACCESS_COMPONENTS": {
+      "medical": "med_e2sfca_network",
+      "welfare": "wel_e2sfca_network",
+      "transit": "transit_stops_per_1000_elderly"
+    },
+    "BASE_MONTH": "2026년08월",
+    "COVERAGE_CURVE_K": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "COVERAGE_RADIUS_M": 1500,
+    "CRS_METRIC": "EPSG:5186",
+    "CRS_WGS84": "EPSG:4326",
+    "DECAY_SCALE_VARIANTS": [
+      0.75,
+      1.0,
+      1.25
+    ],
+    "DWELL_MIN_PER_STOP": 3.0,
+    "E2SFCA_BANDS": [
+      [
+        0,
+        1000,
+        1.0
+      ],
+      [
+        1000,
+        2000,
+        0.6
+      ],
+      [
+        2000,
+        3000,
+        0.25
+      ]
+    ],
+    "KOREA_LAT": [
+      33.0,
+      39.0
+    ],
+    "KOREA_LON": [
+      124.0,
+      132.0
+    ],
+    "K_MAIN": 5,
+    "LLM_MAX_RETRIES": 1,
+    "MAX_CYCLE_MIN": 90.0,
+    "MCLP_K_VALUES": [
+      3,
+      5,
+      7
+    ],
+    "METHOD_VERSION": "mobilens-2.0",
+    "MORAN_ALPHA": 0.05,
+    "MORAN_PERMUTATIONS": 999,
+    "MORAN_SEED": 42,
+    "MVI_PRIMARY": "A_balanced",
+    "MVI_SCENARIOS": {
+      "A_balanced": [
+        0.5,
+        0.5
+      ],
+      "B_need60": [
+        0.6,
+        0.4
+      ],
+      "C_access60": [
+        0.4,
+        0.6
+      ]
+    },
+    "NEAR_THRESHOLD_M": 1000,
+    "N_DONG": 50,
+    "OLLAMA_HOST_DEFAULT": "http://localhost:11434",
+    "POLICY_C_BUDGETS_KM": [
+      10,
+      15,
+      20,
+      25,
+      30,
+      40,
+      50,
+      60,
+      80
+    ],
+    "POLICY_C_MAX_STOPS": 10,
+    "RANDOM_BASELINE_SEEDS": 20,
+    "RANDOM_SEED": 42,
+    "ROBUST_FORMS": [
+      "product",
+      "additive"
+    ],
+    "ROBUST_NORMALIZATIONS": [
+      "minmax",
+      "rank"
+    ],
+    "ROBUST_STABLE_SHARE": 0.8,
+    "ROBUST_UNSTABLE_SHARE": 0.2,
+    "TOP_K_VULNERABLE": 10,
+    "VEHICLES_PER_DEPOT": 1,
+    "VEHICLE_SPEED_KMH": 20.0
+  },
+  "source_files": [
+    {
+      "path": "data/raw/성남시_고령인구현황_202309_202608_UTF8.csv",
+      "sha256": "65678d9cb0e95f986d4d52887f83111d4cd75bd853e82739d463080ddd95a17d",
+      "bytes": 104902,
+      "reference_date": null
+    },
+    {
+      "path": "data/raw/경기도 성남시_버스정류장_현황_20260408.csv",
+      "sha256": "e3b700c8d012d8c6bc1d6d7629c1447dbd9e498d277c96d25fedefbe909988f0",
+      "bytes": 315479,
+      "reference_date": "2026-04-08"
+    },
+    {
+      "path": "data/raw/경기도 성남시_의료기관_현황_20260304.csv",
+      "sha256": "c31b5159f9e1cd7288a390c9eead25220a5f0743ad385afdbe41b9e3129d3dd0",
+      "bytes": 295354,
+      "reference_date": "2026-03-04"
+    },
+    {
+      "path": "data/raw/경기도 성남시_재가장기요양기관_현황_20260605.csv",
+      "sha256": "b5171bf9c93085e0daa02fe9f3341135925d3df0e2ca61c905878d5bbd2d8ddf",
+      "bytes": 44852,
+      "reference_date": "2026-06-05"
+    },
+    {
+      "path": "data/raw/경기도 성남시_행정구역_현황_20260515.csv",
+      "sha256": "abd0ea12c182ea2470a44012a7941148007352bde9833a2c54f9cb9ea691508f",
+      "bytes": 2655,
+      "reference_date": "2026-05-15"
+    },
+    {
+      "path": "data/raw/hangjeongdong_seongnam.geojson",
+      "sha256": "cc2496511e962fd40c0bd46fe7ac78349fcd93c559e40ae44cfa6d9064fae08a",
+      "bytes": 134050,
+      "reference_date": null
+    },
+    {
+      "path": "data/raw/osm/osm_snapshot_meta.json",
+      "sha256": "7222a8ccba29089a40e8f641e4b1dee32431c144598354271930516df45872fa",
+      "bytes": 645,
+      "reference_date": null
+    },
+    {
+      "path": "data/raw/osm/seongnam_drive_edges.csv.gz",
+      "sha256": "e487bf7b4ef938a8008913aa317c97e85f79c2d3078ba26e285b397e0a8465ba",
+      "bytes": 151762,
+      "reference_date": null
+    },
+    {
+      "path": "data/raw/osm/seongnam_drive_nodes.csv.gz",
+      "sha256": "209ce34aa9946bd110f5bf29a2d76aa579481f586b88b649d2d18da3b4ca8700",
+      "bytes": 84421,
+      "reference_date": null
+    },
+    {
+      "path": "data/raw/osm/seongnam_walk_edges.csv.gz",
+      "sha256": "51c6814516ac382b566653ebb6f3f32ce1b4ec67a2b70f036c4bd2704f92f209",
+      "bytes": 582520,
+      "reference_date": null
+    },
+    {
+      "path": "data/raw/osm/seongnam_walk_nodes.csv.gz",
+      "sha256": "f5f2f29061b234f893cc8c49faad6be6b002b03698b173c15b1ccaeeb4a57837",
+      "bytes": 317692,
+      "reference_date": null
+    },
+    {
+      "path": "data/processed/medical_facilities_geocoded.csv",
+      "sha256": "30d092814774d2085bb6751ac44a5d0f250cf9b97de07730b1a35a1ff7a3f59f",
+      "bytes": 571930,
+      "reference_date": null
+    },
+    {
+      "path": "data/processed/care_facilities_geocoded.csv",
+      "sha256": "07fb9b1f2921001bfb3e8e37e3ecff148a548d8b5637d350f731bfe7ad46b5c0",
+      "bytes": 84584,
+      "reference_date": null
+    },
+    {
+      "path": "data/processed/depots_geocoded.csv",
+      "sha256": "514ffa337b02904f3d258e63c784fc97b89461ec127182915b46cf21944c8e20",
+      "bytes": 374,
+      "reference_date": null
+    }
+  ],
+  "source_files_hash": "SHA-256 of content with CRLF→LF normalized (data/SHA256SUMS와 동일 정의)",
+  "osm_snapshot": {
+    "source": "OpenStreetMap via Overpass API (osmnx)",
+    "license": "© OpenStreetMap contributors, ODbL 1.0",
+    "downloaded_at": "2026-09-29T10:08:59Z",
+    "osmnx_version": "2.1.1",
+    "area": "성남시 행정동 경계 합집합 + 0.02° buffer",
+    "networks": {
+      "walk": {
+        "n_nodes": 30091,
+        "n_directed_edges": 81460,
+        "nodes_file": "seongnam_walk_nodes.csv.gz",
+        "edges_file": "seongnam_walk_edges.csv.gz"
+      },
+      "drive": {
+        "n_nodes": 7534,
+        "n_directed_edges": 19457,
+        "nodes_file": "seongnam_drive_nodes.csv.gz",
+        "edges_file": "seongnam_drive_edges.csv.gz"
+      }
+    }
+  },
+  "stages": [
+    {
+      "stage": "[1/8] Data validation",
+      "status": "PASS",
+      "seconds": 0.1,
+      "detail": ""
+    },
+    {
+      "stage": "[2/8] Preprocessing",
+      "status": "PASS",
+      "seconds": 0.2,
+      "detail": ""
+    },
+    {
+      "stage": "[3/8] Accessibility",
+      "status": "PASS",
+      "seconds": 0.3,
+      "detail": ""
+    },
+    {
+      "stage": "[4/8] MVI",
+      "status": "PASS",
+      "seconds": 0.0,
+      "detail": ""
+    },
+    {
+      "stage": "[5/8] Spatial analysis",
+      "status": "PASS",
+      "seconds": 0.8,
+      "detail": ""
+    },
+    {
+      "stage": "[6/8] Optimization",
+      "status": "PASS",
+      "seconds": 7.1,
+      "detail": ""
+    },
+    {
+      "stage": "[7/8] Explanation validation",
+      "status": "PASS",
+      "seconds": 0.3,
+      "detail": ""
+    },
+    {
+      "stage": "[8/8] Outputs",
+      "status": "PASS",
+      "seconds": 2.0,
+      "detail": ""
+    }
+  ]
+}

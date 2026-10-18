@@ -1,0 +1,16 @@
+{
+  "n_targets": 301,
+  "n_success": 265,
+  "n_in_seongnam": 215,
+  "n_outside_polygon": 50,
+  "n_failed": 36,
+  "success_by_level": {
+    "L2_no_floor": 156,
+    "L1_no_paren": 23,
+    "B_L1_no_paren": 15,
+    "B_L0_raw": 7,
+    "L3_road_core": 7,
+    "L0_raw": 5,
+    "B_L2_no_floor": 2
+  }
+}

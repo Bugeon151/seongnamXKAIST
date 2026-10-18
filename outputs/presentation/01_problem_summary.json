@@ -1,0 +1,19 @@
+{
+  "n_dong": 50,
+  "total_population": 899806,
+  "elderly_population": 177033,
+  "elderly_share_pct": 19.67,
+  "medical_facilities_geocoded_in_seongnam": 1237,
+  "medical_facilities_total": 1903,
+  "welfare_daycare_facilities_used": 42,
+  "welfare_geocoded_in_seongnam": 215,
+  "welfare_total": 301,
+  "dongs_without_welfare_seat_in_catchment": 3,
+  "dongs_with_zero_medical_access": 1,
+  "dongs_zero_medical_names": [
+    "신촌동"
+  ],
+  "medical_e2sfca_p90_over_p10": 4.8,
+  "stable_robust_hotspots": 4,
+  "base_month": "2026년08월"
+}

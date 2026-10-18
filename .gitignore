@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+outputs/logs/geocode_cache/
+*.log
+.pytest_cache/
+outputs_validation/
+data/interim/
+dist/
+cache/

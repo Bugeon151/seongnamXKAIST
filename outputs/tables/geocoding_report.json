@@ -1,0 +1,22 @@
+{
+  "n_targets": 1903,
+  "n_success": 1339,
+  "success_rate": 0.7036,
+  "n_in_seongnam": 1237,
+  "dong_join_rate_on_success": 0.9238,
+  "n_outside": 102,
+  "n_failed": 564,
+  "success_by_level": {
+    "L3_road_core": 181,
+    "L2_no_floor": 824,
+    "bounded_all_failed": 564,
+    "B_L1_no_paren": 188,
+    "L1_no_paren": 57,
+    "B_L2_no_floor": 58,
+    "L0_raw": 28,
+    "B_L0_raw": 3
+  },
+  "bounded_pass": true,
+  "bounded_retried": 813,
+  "bounded_fixed": 249
+}

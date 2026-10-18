@@ -1,0 +1,215 @@
+{
+  "dong": {
+    "type": "object",
+    "required": [
+      "kind",
+      "region_id",
+      "region_name",
+      "gu",
+      "legal_dongs",
+      "elderly_population",
+      "elderly_ratio",
+      "need",
+      "access",
+      "access_medical",
+      "access_welfare",
+      "access_transit",
+      "weakest_access",
+      "mvi",
+      "mvi_rank",
+      "local_moran_class",
+      "local_moran_p",
+      "hotspot_class",
+      "hotspot_share",
+      "n_robust_scenarios",
+      "covered_by_policy",
+      "policies_available",
+      "method_version"
+    ],
+    "properties": {
+      "kind": {
+        "const": "dong"
+      },
+      "region_id": {
+        "type": "string",
+        "pattern": "^\\d{10}$"
+      },
+      "region_name": {
+        "type": "string"
+      },
+      "gu": {
+        "enum": [
+          "수정구",
+          "중원구",
+          "분당구"
+        ]
+      },
+      "legal_dongs": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "elderly_population": {
+        "type": "integer",
+        "minimum": 0
+      },
+      "elderly_ratio": {
+        "type": "number"
+      },
+      "need": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "access": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "access_medical": {
+        "type": "number"
+      },
+      "access_welfare": {
+        "type": "number"
+      },
+      "access_transit": {
+        "type": "number"
+      },
+      "weakest_access": {
+        "type": "string"
+      },
+      "mvi": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "mvi_rank": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "local_moran_class": {
+        "enum": [
+          "High-High",
+          "High-Low",
+          "Low-High",
+          "Low-Low",
+          "Not Significant"
+        ]
+      },
+      "local_moran_p": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "hotspot_class": {
+        "enum": [
+          "stable",
+          "unstable",
+          "none"
+        ]
+      },
+      "hotspot_share": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1
+      },
+      "n_robust_scenarios": {
+        "type": "integer"
+      },
+      "covered_by_policy": {
+        "type": "object",
+        "properties": {
+          "A": {
+            "type": "boolean"
+          },
+          "B": {
+            "type": "boolean"
+          },
+          "C": {
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "policies_available": {
+        "type": "array",
+        "items": {
+          "enum": [
+            "A",
+            "B",
+            "C"
+          ]
+        }
+      },
+      "method_version": {
+        "type": "string"
+      }
+    }
+  },
+  "policy": {
+    "type": "object",
+    "required": [
+      "kind",
+      "policy",
+      "name",
+      "goal",
+      "kpis",
+      "compare",
+      "allowed_places",
+      "policies_available"
+    ],
+    "properties": {
+      "kind": {
+        "const": "policy"
+      },
+      "policy": {
+        "enum": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "name": {
+        "type": "string"
+      },
+      "goal": {
+        "type": "string"
+      },
+      "kpis": {
+        "type": "object",
+        "required": [
+          "n_new_stops",
+          "vuln_coverage",
+          "covered_elderly",
+          "min_gu_coverage",
+          "total_vehicle_km",
+          "max_cycle_min",
+          "vehicles_used",
+          "vuln_coverage_per_10km"
+        ]
+      },
+      "compare": {
+        "type": "object",
+        "required": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "allowed_places": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "policies_available": {
+        "type": "array"
+      }
+    }
+  }
+}

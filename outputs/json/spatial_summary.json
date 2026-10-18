@@ -1,0 +1,42 @@
+{
+  "weights": {
+    "type": "Queen contiguity, row-standardized",
+    "n": 50,
+    "islands": [],
+    "components": 1,
+    "symmetric": true,
+    "neighbors_min": 2,
+    "neighbors_mean": 5.36,
+    "neighbors_max": 9
+  },
+  "permutations": 999,
+  "alpha": 0.05,
+  "seed": 42,
+  "global_moran": {
+    "A_balanced": {
+      "I": 0.2733,
+      "EI": -0.0204,
+      "z_sim": 3.419,
+      "p_sim": 0.004,
+      "n_HH_significant": 6,
+      "n_significant": 15
+    },
+    "B_need60": {
+      "I": 0.261,
+      "EI": -0.0204,
+      "z_sim": 3.259,
+      "p_sim": 0.005,
+      "n_HH_significant": 7,
+      "n_significant": 17
+    },
+    "C_access60": {
+      "I": 0.2855,
+      "EI": -0.0204,
+      "z_sim": 3.589,
+      "p_sim": 0.003,
+      "n_HH_significant": 8,
+      "n_significant": 15
+    }
+  },
+  "interpretation": "Global I>0 & p_sim<α: MVI가 공간적으로 군집. HH&유의: 해당 동과 이웃이 함께 높은 취약 군집."
+}

@@ -1,0 +1,107 @@
+{
+  "parameters": {
+    "e2sfca_bands_m": [
+      [
+        0,
+        1000,
+        1.0
+      ],
+      [
+        1000,
+        2000,
+        0.6
+      ],
+      [
+        2000,
+        3000,
+        0.25
+      ]
+    ],
+    "near_threshold_m": 1000,
+    "distance": "OSM 보행망 네트워크 거리(primary) / 직선거리(baseline)",
+    "demand": "행정동 65세 이상 인구",
+    "demand_point": "행정동 수요 대표점(동 내 버스정류장 medoid, 정류장 없으면 폴리곤 내부 대표점)"
+  },
+  "supply": {
+    "medical_S1": "고유 물리시설 1개 = 1 (원자료에 병상·의사수 없음, facility-count proxy)",
+    "medical_S2": "종별 가중(민감도): 종합병원5/병원3/요양·치과·한방병원2/의원급1",
+    "welfare": "시설이용형(주야간보호·단기보호) 정원(명)",
+    "n_medical_used": 1237,
+    "n_welfare_used": 42,
+    "welfare_capacity_total": 1702,
+    "n_medical_reachable_by_any_dong": 1237
+  },
+  "snap_distance_m": {
+    "demand_point_median": 22.6,
+    "demand_point_max": 81.5,
+    "medical_median": 33.3,
+    "medical_max": 154.2
+  },
+  "method_comparison": {
+    "spearman_nearest_vs_e2sfca": 0.2261,
+    "spearman_e2sfca_network_vs_euclid": 0.8783,
+    "bottom15_overlap_nearest_vs_e2sfca": 4,
+    "largest_rank_shifts": [
+      {
+        "dong_name": "백현동",
+        "rank_nearest": 43,
+        "rank_e2sfca_network": 6,
+        "med_nearest_network_m": 752.3,
+        "med_within_1km_network": 20,
+        "elderly_population": 4348
+      },
+      {
+        "dong_name": "분당동",
+        "rank_nearest": 1,
+        "rank_e2sfca_network": 36,
+        "med_nearest_network_m": 29.1,
+        "med_within_1km_network": 15,
+        "elderly_population": 4559
+      },
+      {
+        "dong_name": "상대원1동",
+        "rank_nearest": 15,
+        "rank_e2sfca_network": 49,
+        "med_nearest_network_m": 207.3,
+        "med_within_1km_network": 13,
+        "elderly_population": 5585
+      },
+      {
+        "dong_name": "상대원2동",
+        "rank_nearest": 15,
+        "rank_e2sfca_network": 45,
+        "med_nearest_network_m": 207.3,
+        "med_within_1km_network": 8,
+        "elderly_population": 773
+      },
+      {
+        "dong_name": "삼평동",
+        "rank_nearest": 33,
+        "rank_e2sfca_network": 4,
+        "med_nearest_network_m": 411.0,
+        "med_within_1km_network": 76,
+        "elderly_population": 3356
+      }
+    ],
+    "interpretation": "최근접 거리는 '가장 가까운 시설 1곳'만 보고, E2SFCA는 캐치먼트 내 시설 수와 그 시설을 함께 이용하는 고령인구(경쟁)를 반영한다. 순위가 크게 이동한 동은 가까운 시설은 있으나 주변 수요가 많거나(하락), 최근접 시설은 멀지만 캐치먼트 내 시설이 많은(상승) 경우이다."
+  },
+  "demand_point": {
+    "method": "동 내 버스정류장 medoid (정류장 없으면 폴리곤 내부 대표점)",
+    "n_bus_stop_medoid": 50,
+    "shift_from_centroid_m": {
+      "median": 314.9,
+      "max": 1736.9
+    },
+    "spearman_med_e2sfca_vs_centroid_demand": 0.8556,
+    "dongs_zero_medical_with_centroid": [
+      "신촌동",
+      "시흥동",
+      "구미1동"
+    ],
+    "dongs_zero_medical_with_medoid": [
+      "신촌동"
+    ],
+    "centroid_snap_max_m": 454.1,
+    "reason": "산지·공원을 포함한 동은 폴리곤 중심점이 거주지와 떨어져 네트워크 거리가 과대추정됨(예: 중심점 기준 구미1동 → 동 내 의료시설 3km+)"
+  }
+}

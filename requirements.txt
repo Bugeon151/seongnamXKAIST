@@ -1,0 +1,25 @@
+# MobiLens Seongnam — 검증 환경: Python 3.13 (Windows 11), 재현성을 위해 버전 고정
+# (PuLP 4.x는 API 비호환으로 MCLP 실패 — 3.x 유지)
+# Windows 11 '스마트 앱 컨트롤'(Smart App Control)이 켜진 PC에서 scikit-learn 1.9.1·pyogrio 0.13.0·
+# pyarrow 25.x의 일부 DLL 로드가 차단됨을 확인 → 차단되지 않는 버전으로 고정(산출물 값 동일 확인).
+pandas==3.0.6
+numpy==2.5.3
+geopandas==1.2.0
+pyogrio==0.12.1
+shapely==2.1.2
+pyproj==3.8.0
+scipy==1.18.1
+scikit-learn==1.8.0
+libpysal==4.15.0
+esda==2.10.0
+pulp==3.3.2
+matplotlib==3.11.2
+folium==0.20.0
+jinja2==3.1.6
+jsonschema==4.26.0
+requests==2.34.2
+python-dotenv==1.2.3
+streamlit==1.64.0
+pyarrow==24.0.0  # streamlit 의존성 — 위 사유로 명시 고정
+plotly==7.1.0
+pytest==9.1.1

@@ -1,0 +1,145 @@
+{
+  "budgets_km": [
+    10,
+    15,
+    20,
+    25,
+    30,
+    40,
+    50,
+    60,
+    80
+  ],
+  "knee_budget_km": 30.0,
+  "representative": {
+    "definition": "정책 A 취약커버율 이상을 만족하는 최소 vehicle-km 조합",
+    "target_vuln_coverage": 0.8653,
+    "route_km": 17.297
+  },
+  "method": "예산별 커버리지 Orienteering — 축약 후보 부분집합 완전탐색 + Held-Karp → 비지배 점 → knee",
+  "all_nondominated": true,
+  "candidate_reduction": {
+    "분당구": 8,
+    "수정구": 8,
+    "중원구": 8
+  },
+  "rows": [
+    {
+      "budget_km": 10,
+      "status": "Optimal",
+      "optimal": true,
+      "n_stops": 4,
+      "route_km": 9.951,
+      "vuln_coverage": 0.7496,
+      "elderly_coverage": 0.6561,
+      "min_gu_coverage": 0.5371,
+      "nondominated": true,
+      "same_solution_as_budget": null,
+      "is_knee": false
+    },
+    {
+      "budget_km": 15,
+      "status": "Optimal",
+      "optimal": true,
+      "n_stops": 5,
+      "route_km": 14.943,
+      "vuln_coverage": 0.7995,
+      "elderly_coverage": 0.7439,
+      "min_gu_coverage": 0.7309,
+      "nondominated": true,
+      "same_solution_as_budget": null,
+      "is_knee": false
+    },
+    {
+      "budget_km": 20,
+      "status": "Optimal",
+      "optimal": true,
+      "n_stops": 7,
+      "route_km": 19.423,
+      "vuln_coverage": 0.9131,
+      "elderly_coverage": 0.8562,
+      "min_gu_coverage": 0.8942,
+      "nondominated": true,
+      "same_solution_as_budget": null,
+      "is_knee": false
+    },
+    {
+      "budget_km": 25,
+      "status": "Optimal",
+      "optimal": true,
+      "n_stops": 7,
+      "route_km": 23.16,
+      "vuln_coverage": 0.9413,
+      "elderly_coverage": 0.893,
+      "min_gu_coverage": 0.8955,
+      "nondominated": true,
+      "same_solution_as_budget": null,
+      "is_knee": false
+    },
+    {
+      "budget_km": 30,
+      "status": "Optimal",
+      "optimal": true,
+      "n_stops": 8,
+      "route_km": 26.858,
+      "vuln_coverage": 0.9656,
+      "elderly_coverage": 0.9358,
+      "min_gu_coverage": 0.925,
+      "nondominated": true,
+      "same_solution_as_budget": null,
+      "is_knee": true
+    },
+    {
+      "budget_km": 40,
+      "status": "Optimal",
+      "optimal": true,
+      "n_stops": 9,
+      "route_km": 36.618,
+      "vuln_coverage": 0.9855,
+      "elderly_coverage": 0.9632,
+      "min_gu_coverage": 0.9775,
+      "nondominated": true,
+      "same_solution_as_budget": null,
+      "is_knee": false
+    },
+    {
+      "budget_km": 50,
+      "status": "Optimal",
+      "optimal": true,
+      "n_stops": 10,
+      "route_km": 46.886,
+      "vuln_coverage": 0.9919,
+      "elderly_coverage": 0.9781,
+      "min_gu_coverage": 0.9789,
+      "nondominated": true,
+      "same_solution_as_budget": null,
+      "is_knee": false
+    },
+    {
+      "budget_km": 60,
+      "status": "Optimal",
+      "optimal": true,
+      "n_stops": 10,
+      "route_km": 46.886,
+      "vuln_coverage": 0.9919,
+      "elderly_coverage": 0.9781,
+      "min_gu_coverage": 0.9789,
+      "nondominated": true,
+      "same_solution_as_budget": 50.0,
+      "is_knee": false
+    },
+    {
+      "budget_km": 80,
+      "status": "Optimal",
+      "optimal": true,
+      "n_stops": 10,
+      "route_km": 46.886,
+      "vuln_coverage": 0.9919,
+      "elderly_coverage": 0.9781,
+      "min_gu_coverage": 0.9789,
+      "nondominated": true,
+      "same_solution_as_budget": 50.0,
+      "is_knee": false
+    }
+  ]
+}

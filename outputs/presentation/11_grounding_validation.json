@@ -1,0 +1,48 @@
+{
+  "summary": {
+    "n": 53,
+    "pass": 53,
+    "fail": 0,
+    "by_generator": {
+      "template": 53
+    }
+  },
+  "failure_demo": {
+    "correct": {
+      "FINAL": "PASS",
+      "violations": []
+    },
+    "tampered_number": {
+      "FINAL": "FAIL",
+      "violations": [
+        "숫자 36.23가 KPI 'elderly_ratio' 값과 불일치"
+      ]
+    },
+    "wrong_region": {
+      "FINAL": "FAIL",
+      "violations": [
+        "입력에 없는 지역명 고등동"
+      ]
+    },
+    "unknown_policy": {
+      "FINAL": "FAIL",
+      "violations": [
+        "입력에 없는 정책 D"
+      ]
+    },
+    "causal_claim": {
+      "FINAL": "FAIL",
+      "violations": [
+        "입력에 없는 인과 주장 '때문'"
+      ]
+    },
+    "unsupported_kpi": {
+      "FINAL": "FAIL",
+      "violations": [
+        "입력에 없는 지표 Gi*"
+      ]
+    },
+    "expected": "correct=PASS, 나머지=FAIL",
+    "demo_pass": true
+  }
+}

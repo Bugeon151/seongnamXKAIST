@@ -1,0 +1,2 @@
+# 선택 의존성 — OSM 도로망 스냅샷을 새로 받을 때만 필요 (scripts/download_osm_network.py)
+osmnx==2.1.1

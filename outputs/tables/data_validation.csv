@@ -1,0 +1,69 @@
+﻿stage,check,level,pass,detail
+raw,exists:성남시_고령인구현황_202309_202608_UTF8.csv,PASS,True,
+raw,exists:경기도 성남시_버스정류장_현황_20260408.csv,PASS,True,
+raw,exists:경기도 성남시_의료기관_현황_20260304.csv,PASS,True,
+raw,exists:경기도 성남시_재가장기요양기관_현황_20260605.csv,PASS,True,
+raw,exists:경기도 성남시_행정구역_현황_20260515.csv,PASS,True,
+raw,exists:hangjeongdong_seongnam.geojson,PASS,True,
+raw,encoding_utf8:성남시_고령인구현황_202309_202608_UTF8.csv,PASS,True,
+raw,columns:성남시_고령인구현황_202309_202608_UTF8.csv,PASS,True,
+raw,encoding_utf8:경기도 성남시_버스정류장_현황_20260408.csv,PASS,True,
+raw,columns:경기도 성남시_버스정류장_현황_20260408.csv,PASS,True,
+raw,empty_rows:경기도 성남시_버스정류장_현황_20260408.csv,WARN,False,완전 공백행 5건 (전처리에서 제거·기록)
+raw,encoding_utf8:경기도 성남시_의료기관_현황_20260304.csv,PASS,True,
+raw,columns:경기도 성남시_의료기관_현황_20260304.csv,PASS,True,
+raw,encoding_utf8:경기도 성남시_재가장기요양기관_현황_20260605.csv,PASS,True,
+raw,columns:경기도 성남시_재가장기요양기관_현황_20260605.csv,PASS,True,
+raw,empty_rows:경기도 성남시_재가장기요양기관_현황_20260605.csv,WARN,False,완전 공백행 42건 (전처리에서 제거·기록)
+raw,encoding_utf8:경기도 성남시_행정구역_현황_20260515.csv,PASS,True,
+raw,columns:경기도 성남시_행정구역_현황_20260515.csv,PASS,True,
+raw,boundary_count,PASS,True,n=50 (기대 50)
+raw,boundary_crs_wgs84,PASS,True,crs=EPSG:4326
+raw,boundary_geometry_valid,PASS,True,
+raw,boundary_code_unique,PASS,True,
+raw,boundary_code_seongnam,PASS,True,
+raw,population_code_parse,PASS,True,파싱 실패 0행
+raw,population_dong_rows,PASS,True,n=50
+raw,population_code_unique,PASS,True,
+raw,population_base_month_latest,PASS,True,"데이터 최신월=2026년08월, 설정=2026년08월"
+raw,population_no_missing,PASS,True,결측 0칸
+raw,population_values_valid,PASS,True,
+raw,population_boundary_match,PASS,True,matched=50/50
+raw,area_rows,PASS,True,n=50
+raw,area_positive,PASS,True,결측/0 이하 0건
+raw,area_name_unique,PASS,True,
+raw,area_population_match,PASS,True,"(구, 동명) 매칭 50/50"
+raw,bus_missing_coords_ratio,PASS,True,"1/1304 (0.08%, 허용 1%)"
+raw,bus_missing_coords,WARN,False,1건 — 삭제하지 않고 unmatched로 기록
+raw,bus_coords_in_korea,PASS,True,범위 밖 0건 (위경도 뒤바뀜 등)
+raw,bus_coords_in_seongnam_bbox,PASS,True,성남시 경계 bbox(+0.005°) 밖 0건
+raw,bus_id_unique,PASS,True,중복 0건
+raw,bus_same_name_coord,WARN,False,동일 (정류장명·좌표) 1건 — ID가 달라 별도 정류장으로 유지
+raw,medical_reference_date,PASS,True,"컬럼=['2026-03-04'], 파일명=2026-03-04"
+raw,medical_name_address_present,PASS,True,결측 0건
+raw,medical_duplicate_name_address,WARN,False,"2행 — 원본 보존, 고유시설 ID로 통합"
+raw,care_reference_date,PASS,True,"컬럼=['2026-06-05'], 파일명=2026-06-05"
+raw,care_facility_capacity_present,PASS,True,시설이용형 59개소 중 정원 결측/0 0건
+raw,osm_snapshot_files,PASS,True,없으면 python scripts/download_osm_network.py (인터넷 필요)
+raw,osm_snapshot_license,PASS,True,downloaded_at=2026-09-29T10:08:59Z
+raw,raw_sha256_manifest,PASS,True,14개 파일 대조
+processed,dong_count==50,PASS,True,n=50
+processed,dong_code_unique,PASS,True,
+processed,features_no_missing,PASS,True,
+processed,elderly_ratio_range,PASS,True,
+processed,elderly_density_positive,PASS,True,
+processed,master_50,PASS,True,n=50
+processed,master_geometry_valid,PASS,True,
+processed,master_crs_wgs84,PASS,True,crs=EPSG:4326
+processed,features_master_match_100pct,PASS,True,matched=50/50
+processed,bus_spatial_join>=99pct,PASS,True,1301/1304
+processed,bus_stop_count_consistent,PASS,True,"동별 합=1301, matched=1301"
+processed,bus_coords_in_korea,PASS,True,
+processed,geocoded_ids==medical_unique_ids,PASS,True,"geocoded=1903, medical=1903"
+processed,geocoded_name_address_match,PASS,True,mismatch=0
+processed,geocoded_coords_in_korea,PASS,True,
+processed,geocoded_in_seongnam_count,PASS,True,성남시 폴리곤 내 1237/1903
+processed,care_geocoded_ids==care_ids,PASS,True,"geocoded=301, care=301"
+processed,care_geocoded_address_match,PASS,True,
+processed,care_facility_based_geocoded,PASS,True,시설이용형 42/59 성남시 내 좌표
+processed,care_facility_based_missing,WARN,False,17개소 좌표 없음/시 경계 밖 — 복지 공급 과소추정 가능

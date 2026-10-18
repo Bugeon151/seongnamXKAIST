@@ -1,0 +1,163 @@
+{
+  "elderly_population": {
+    "value": 177033,
+    "unit": "명",
+    "source": "data/processed/dong_features_base.csv",
+    "field": "sum(elderly_population)",
+    "description": "성남시 65세 이상 인구 (2026년08월)"
+  },
+  "top_vulnerable_dong": {
+    "value": "성남동",
+    "unit": "",
+    "source": "outputs/tables/mvi_components.csv",
+    "field": "mvi_rank==1",
+    "description": "MVI 1위 행정동"
+  },
+  "top_vulnerable_mvi": {
+    "value": 0.6876,
+    "unit": "0~1",
+    "source": "outputs/tables/mvi_components.csv",
+    "field": "mvi (rank 1)",
+    "description": "MVI 1위 값"
+  },
+  "stable_hotspots": {
+    "value": 4,
+    "unit": "개 동",
+    "source": "outputs/tables/robust_hotspot_meta.json",
+    "field": "n_robust",
+    "description": "강건성 격자 36개 시나리오 중 80% 이상에서 HH·유의"
+  },
+  "robust_rank_rho_min": {
+    "value": 0.8148,
+    "unit": "Spearman ρ",
+    "source": "outputs/tables/robustness_report.json",
+    "field": "rank_correlation.vs_primary_min",
+    "description": "모든 격자 시나리오와 primary 순위의 최소 상관"
+  },
+  "nearest_vs_e2sfca_rho": {
+    "value": 0.2261,
+    "unit": "Spearman ρ",
+    "source": "outputs/json/accessibility_summary.json",
+    "field": "method_comparison.spearman_nearest_vs_e2sfca",
+    "description": "최근접거리 vs E2SFCA 순위 상관"
+  },
+  "mclp_k5_vuln_coverage": {
+    "value": 0.8653,
+    "unit": "비율",
+    "source": "outputs/json/baseline_summary.json",
+    "field": "by_k.5.MCLP",
+    "description": "MCLP k=5 취약수요 커버"
+  },
+  "mclp_minus_top_demand_pp_k5": {
+    "value": 24.44,
+    "unit": "%p",
+    "source": "outputs/json/baseline_summary.json",
+    "field": "mclp_minus_top_demand_pp.5",
+    "description": "취약수요 상위 동 우선 배치 대비 개선"
+  },
+  "mclp_minus_greedy_pp_k5": {
+    "value": 0.77,
+    "unit": "%p",
+    "source": "outputs/json/baseline_summary.json",
+    "field": "mclp_minus_greedy_pp.5",
+    "description": "탐욕 휴리스틱 대비 개선"
+  },
+  "policy_A_vuln_coverage": {
+    "value": 0.8653,
+    "unit": "비율",
+    "source": "outputs/json/policy_results.json",
+    "field": "policies.A.kpis.vuln_coverage",
+    "description": "정책 A 취약수요 커버"
+  },
+  "policy_A_min_gu_coverage": {
+    "value": 0.7745,
+    "unit": "비율",
+    "source": "outputs/json/policy_results.json",
+    "field": "policies.A.kpis.min_gu_coverage",
+    "description": "정책 A 최소 구 커버"
+  },
+  "policy_A_total_vehicle_km": {
+    "value": 21.47,
+    "unit": "km",
+    "source": "outputs/json/policy_results.json",
+    "field": "policies.A.kpis.total_vehicle_km",
+    "description": "정책 A 1회 순환 운행거리"
+  },
+  "policy_A_vuln_coverage_per_10km": {
+    "value": 0.403,
+    "unit": "비율/10km",
+    "source": "outputs/json/policy_results.json",
+    "field": "policies.A.kpis.vuln_coverage_per_10km",
+    "description": "정책 A 운행 10km당 취약수요 커버"
+  },
+  "policy_B_vuln_coverage": {
+    "value": 0.8576,
+    "unit": "비율",
+    "source": "outputs/json/policy_results.json",
+    "field": "policies.B.kpis.vuln_coverage",
+    "description": "정책 B 취약수요 커버"
+  },
+  "policy_B_min_gu_coverage": {
+    "value": 0.8271,
+    "unit": "비율",
+    "source": "outputs/json/policy_results.json",
+    "field": "policies.B.kpis.min_gu_coverage",
+    "description": "정책 B 최소 구 커버"
+  },
+  "policy_B_total_vehicle_km": {
+    "value": 20.13,
+    "unit": "km",
+    "source": "outputs/json/policy_results.json",
+    "field": "policies.B.kpis.total_vehicle_km",
+    "description": "정책 B 1회 순환 운행거리"
+  },
+  "policy_B_vuln_coverage_per_10km": {
+    "value": 0.426,
+    "unit": "비율/10km",
+    "source": "outputs/json/policy_results.json",
+    "field": "policies.B.kpis.vuln_coverage_per_10km",
+    "description": "정책 B 운행 10km당 취약수요 커버"
+  },
+  "policy_C_vuln_coverage": {
+    "value": 0.8714,
+    "unit": "비율",
+    "source": "outputs/json/policy_results.json",
+    "field": "policies.C.kpis.vuln_coverage",
+    "description": "정책 C 취약수요 커버"
+  },
+  "policy_C_min_gu_coverage": {
+    "value": 0.7534,
+    "unit": "비율",
+    "source": "outputs/json/policy_results.json",
+    "field": "policies.C.kpis.min_gu_coverage",
+    "description": "정책 C 최소 구 커버"
+  },
+  "policy_C_total_vehicle_km": {
+    "value": 17.3,
+    "unit": "km",
+    "source": "outputs/json/policy_results.json",
+    "field": "policies.C.kpis.total_vehicle_km",
+    "description": "정책 C 1회 순환 운행거리"
+  },
+  "policy_C_vuln_coverage_per_10km": {
+    "value": 0.5037,
+    "unit": "비율/10km",
+    "source": "outputs/json/policy_results.json",
+    "field": "policies.C.kpis.vuln_coverage_per_10km",
+    "description": "정책 C 운행 10km당 취약수요 커버"
+  },
+  "grounding_pass": {
+    "value": "53/53",
+    "unit": "",
+    "source": "outputs/json/grounding_validation.json",
+    "field": "summary",
+    "description": "최종 설명 grounding 검증 통과"
+  },
+  "grounding_failure_demo_pass": {
+    "value": true,
+    "unit": "",
+    "source": "outputs/json/grounding_failure_demo.json",
+    "field": "demo_pass",
+    "description": "숫자·지역·정책·인과·지표 변조 5종 모두 FAIL 탐지"
+  }
+}

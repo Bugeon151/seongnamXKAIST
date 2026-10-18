@@ -1,0 +1,220 @@
+{
+  "formula": "MVI = Need^(2·w_need) × (1 − Access)^(2·w_access); primary(0.5,0.5) = Need × (1 − Access)",
+  "need": "mean(minmax(65세 이상 인구), minmax(고령인구 비율))",
+  "access": "mean(minmax(의료 E2SFCA 네트워크), minmax(복지 E2SFCA 네트워크), minmax(고령 1천명당 정류장))",
+  "primary_scenario": "A_balanced",
+  "range_check": {
+    "min": 0.018373677276885485,
+    "max": 0.6875887272611992
+  },
+  "outliers_abs_z_gt_3": {
+    "med_e2sfca_network": [
+      "복정동",
+      "위례동"
+    ],
+    "wel_e2sfca_network": [
+      "복정동",
+      "위례동"
+    ],
+    "transit_stops_per_1000_elderly": [
+      "시흥동"
+    ]
+  },
+  "outlier_note": "이상치는 제거하지 않는다. 순위 정규화 시나리오(강건성 격자)로 영향 점검.",
+  "top_regions_trace": [
+    {
+      "rank": 1,
+      "dong_name": "성남동",
+      "mvi": 0.6876,
+      "need": 0.7979,
+      "need_rank": 1,
+      "access": 0.1382,
+      "deficit_rank": 28,
+      "access_medical": 0.2703,
+      "access_welfare": 0.1089,
+      "access_transit": 0.0354,
+      "weakest_access": "대중교통 접근성",
+      "elderly_population": 7458,
+      "elderly_ratio": 23.45
+    },
+    {
+      "rank": 2,
+      "dong_name": "은행2동",
+      "mvi": 0.6609,
+      "need": 0.706,
+      "need_rank": 2,
+      "access": 0.064,
+      "deficit_rank": 6,
+      "access_medical": 0.1183,
+      "access_welfare": 0.0083,
+      "access_transit": 0.0654,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "elderly_population": 4845,
+      "elderly_ratio": 27.29
+    },
+    {
+      "rank": 3,
+      "dong_name": "상대원1동",
+      "mvi": 0.6497,
+      "need": 0.7044,
+      "need_rank": 3,
+      "access": 0.0776,
+      "deficit_rank": 9,
+      "access_medical": 0.0675,
+      "access_welfare": 0.0331,
+      "access_transit": 0.1321,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "elderly_population": 5585,
+      "elderly_ratio": 25.11
+    },
+    {
+      "rank": 4,
+      "dong_name": "수진2동",
+      "mvi": 0.624,
+      "need": 0.7029,
+      "need_rank": 4,
+      "access": 0.1122,
+      "deficit_rank": 16,
+      "access_medical": 0.2324,
+      "access_welfare": 0.0933,
+      "access_transit": 0.0109,
+      "weakest_access": "대중교통 접근성",
+      "elderly_population": 4158,
+      "elderly_ratio": 29.13
+    },
+    {
+      "rank": 5,
+      "dong_name": "금광2동",
+      "mvi": 0.6204,
+      "need": 0.6593,
+      "need_rank": 7,
+      "access": 0.059,
+      "deficit_rank": 4,
+      "access_medical": 0.1085,
+      "access_welfare": 0.0269,
+      "access_transit": 0.0416,
+      "weakest_access": "복지(주야간보호) 접근성",
+      "elderly_population": 5333,
+      "elderly_ratio": 24.05
+    },
+    {
+      "rank": 6,
+      "dong_name": "구미동",
+      "mvi": 0.5994,
+      "need": 0.7006,
+      "need_rank": 5,
+      "access": 0.1444,
+      "deficit_rank": 29,
+      "access_medical": 0.1899,
+      "access_welfare": 0.1386,
+      "access_transit": 0.1048,
+      "weakest_access": "대중교통 접근성",
+      "elderly_population": 6337,
+      "elderly_ratio": 22.81
+    },
+    {
+      "rank": 7,
+      "dong_name": "수진1동",
+      "mvi": 0.5985,
+      "need": 0.6851,
+      "need_rank": 6,
+      "access": 0.1264,
+      "deficit_rank": 22,
+      "access_medical": 0.2423,
+      "access_welfare": 0.1284,
+      "access_transit": 0.0085,
+      "weakest_access": "대중교통 접근성",
+      "elderly_population": 3237,
+      "elderly_ratio": 31.06
+    },
+    {
+      "rank": 8,
+      "dong_name": "금곡동",
+      "mvi": 0.5729,
+      "need": 0.6584,
+      "need_rank": 8,
+      "access": 0.1299,
+      "deficit_rank": 24,
+      "access_medical": 0.2771,
+      "access_welfare": 0.0662,
+      "access_transit": 0.0464,
+      "weakest_access": "대중교통 접근성",
+      "elderly_population": 5933,
+      "elderly_ratio": 22.3
+    },
+    {
+      "rank": 9,
+      "dong_name": "상대원3동",
+      "mvi": 0.5674,
+      "need": 0.6056,
+      "need_rank": 13,
+      "access": 0.063,
+      "deficit_rank": 5,
+      "access_medical": 0.1171,
+      "access_welfare": 0.0401,
+      "access_transit": 0.0319,
+      "weakest_access": "대중교통 접근성",
+      "elderly_population": 3114,
+      "elderly_ratio": 28.27
+    },
+    {
+      "rank": 10,
+      "dong_name": "태평1동",
+      "mvi": 0.5639,
+      "need": 0.6291,
+      "need_rank": 10,
+      "access": 0.1037,
+      "deficit_rank": 13,
+      "access_medical": 0.1623,
+      "access_welfare": 0.0999,
+      "access_transit": 0.0488,
+      "weakest_access": "대중교통 접근성",
+      "elderly_population": 3705,
+      "elderly_ratio": 27.51
+    }
+  ],
+  "ablation": [
+    {
+      "variant": "without_medical",
+      "spearman_vs_primary": 0.9922,
+      "top10_overlap": 10,
+      "jaccard_top": 1.0,
+      "top_dongs": "성남동, 은행2동, 수진2동, 상대원1동, 수진1동, 금광2동, 금곡동, 구미동, 상대원3동, 태평1동"
+    },
+    {
+      "variant": "without_welfare",
+      "spearman_vs_primary": 0.988,
+      "top10_overlap": 9,
+      "jaccard_top": 0.8182,
+      "top_dongs": "성남동, 은행2동, 상대원1동, 수진2동, 금광2동, 수진1동, 구미동, 태평1동, 상대원3동, 하대원동"
+    },
+    {
+      "variant": "without_transit",
+      "spearman_vs_primary": 0.9873,
+      "top10_overlap": 10,
+      "jaccard_top": 1.0,
+      "top_dongs": "상대원1동, 은행2동, 성남동, 금광2동, 수진2동, 구미동, 수진1동, 상대원3동, 태평1동, 금곡동"
+    },
+    {
+      "variant": "need_only",
+      "spearman_vs_primary": 0.9409,
+      "top10_overlap": 9,
+      "jaccard_top": 0.8182,
+      "top_dongs": "성남동, 은행2동, 상대원1동, 수진2동, 구미동, 수진1동, 금광2동, 금곡동, 위례동, 태평1동"
+    },
+    {
+      "variant": "access_deficit_only",
+      "spearman_vs_primary": 0.471,
+      "top10_overlap": 4,
+      "jaccard_top": 0.25,
+      "top_dongs": "은행1동, 신촌동, 양지동, 금광2동, 상대원3동, 은행2동, 운중동, 금광1동, 상대원1동, 하대원동"
+    },
+    {
+      "variant": "additive_form",
+      "spearman_vs_primary": 0.9866,
+      "top10_overlap": 9,
+      "jaccard_top": 0.8182,
+      "top_dongs": "성남동, 은행2동, 상대원1동, 금광2동, 수진2동, 수진1동, 구미동, 상대원3동, 금곡동, 하대원동"
+    }
+  ]
+}
